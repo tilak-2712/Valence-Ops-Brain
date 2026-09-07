@@ -1,0 +1,986 @@
+path,size_bytes,checksum_sha256_16,created,modified,has_frontmatter,link_count_in,link_count_out,description
+.DS_Store,22532,af38f3b56e583e8e,2026-08-14 00:02,2026-09-07 19:07,n,0,0,macOS Finder metadata (OS artifact)
+.claude/settings.local.json,494,6e28d1b89f850e1c,2026-08-14 14:39,2026-08-14 14:39,n,0,0,"JSON object, keys: permissions"
+.claude/skills/clinic-audit-research/SKILL.md,29854,a4965132629704d0,2026-08-13 02:49,2026-08-13 02:49,y,0,0,Clinic Audit Research — Apify Pipeline (v2)
+.gitignore,234,57891eea490e86bd,2026-09-07 23:56,2026-09-07 23:56,n,0,0, file
+.obsidian/app.json,2,44136fa355b3678a,2026-09-07 19:05,2026-09-07 19:30,n,0,0,"JSON object, keys: "
+.obsidian/appearance.json,2,44136fa355b3678a,2026-09-07 19:05,2026-09-07 19:30,n,0,0,"JSON object, keys: "
+.obsidian/core-plugins.json,696,763cf20a921fd995,2026-09-07 19:05,2026-09-07 19:30,n,0,0,"JSON object, keys: file-explorer,global-search,switcher,graph,backlink,canvas,outgoing-link,tag-pane"
+.obsidian/graph.json,510,7bd44d4ad719e505,2026-09-07 19:05,2026-09-07 23:55,n,0,0,"JSON object, keys: collapse-filter,search,showTags,showAttachments,hideUnresolved,showOrphans,collapse-color-groups,colorGroups"
+.obsidian/workspace.json,4963,4ff53f4b8ad773e5,2026-09-07 19:05,2026-09-07 23:39,n,0,0,"JSON object, keys: main,left,right,left-ribbon,active,lastOpenFiles"
+AI Readiness Workbook .pdf,225721,9e6c2ef75344f26f,2026-08-04 15:00,2026-08-04 15:00,n,0,0,PDF document
+AURILUEUR-BANGALORE-PRICE-BENCHMARKS-2026-09-05.md,15417,4fb9ef68a07f7dbf,2026-09-05 11:23,2026-09-05 11:23,n,0,0,Bangalore Published Price Benchmarks — 11 Treatment Categories
+AURILUEUR-REVENUE-RESEARCH-2026-09-05.md,32866,2e798cceb6cc7ce6,2026-09-05 11:22,2026-09-05 11:22,n,0,0,"Aurilueur Esthetic Clinic — Revenue, Service Mix and Economics Research"
+Audit_call_docs/01_shadow_audit_checklist.docx,16416,32aa01c6f4643618,2026-06-24 09:55,2026-06-24 09:55,n,0,0,Word document
+Audit_call_docs/01_shadow_audit_checklist.md,12175,90fb3411c1239bcd,2026-06-25 03:25,2026-06-25 03:25,n,0,0,**VALENCE OPS**
+Audit_call_docs/02_data_intake_requirements.docx,13380,06d8a94e4b022c2a,2026-06-24 09:55,2026-06-24 09:55,n,0,0,Word document
+Audit_call_docs/02_data_intake_requirements.md,7903,3d9073c2b2b152ad,2026-08-13 02:47,2026-08-13 02:47,n,0,0,**VALENCE OPS**
+Audit_call_docs/03_discovery_call_question_map.docx,16589,4ef6b491d79a747f,2026-06-24 09:55,2026-06-24 09:55,n,0,0,Word document
+Audit_call_docs/03_discovery_call_question_map.md,13522,5e1c80f1287e97b8,2026-06-25 03:25,2026-06-25 03:25,n,0,0,**VALENCE OPS**
+CLAUDE.md,10849,27f311a20e80d61b,2026-08-18 03:30,2026-08-18 03:30,n,0,0,Valence Ops — Outbound & Sales
+COHORT-INDEX.md,5175,e957441615910a6d,2026-08-13 03:17,2026-08-13 03:17,n,0,0,"Cohort Index — every clinic cohort, where it lives, what state it's in"
+EVENT-SNAPSHOT-2026-09-02.md,17500,1c8a8f061ae9c32d,2026-09-02 23:32,2026-09-02 23:32,n,0,0,ValenceOps — Event Snapshot
+LEGAL-AND-COMMERCIAL-DOC-SET.md,45569,51db892f8304ce85,2026-08-20 19:44,2026-08-20 20:14,n,0,0,Legal & Commercial Document Set — Interested Client → Signed → Build Start
+MEETING-BRIEF-sapphire-2026-08-13.md,18783,d6b4c05b53e8d454,2026-08-13 02:49,2026-08-13 02:49,n,0,0,Sapphire Skin & Aesthetics — Meeting Brief
+MEETING-BRIEF-skinfit-2026-08-18.md,24816,9da392352ae6884f,2026-08-16 20:23,2026-08-16 20:23,n,0,0,Meeting Brief — SkinFit Wellness / Gino Tharakan · Mon 18 Aug 2026
+MEMORY.md,33259,0fb46cfc711c4a33,2026-08-13 17:54,2026-08-21 11:04,n,0,0,Memory — Valence Ops Outbound & Sales
+Mystery_Shop_2026-08-15/.DS_Store,8196,91430c3f5fc81b1f,2026-09-07 19:07,2026-09-07 19:07,n,0,0,macOS Finder metadata (OS artifact)
+Mystery_Shop_2026-08-15/Aestheticaa_Dr_Madhulika_AcnePeel_2026-08-15.jpg,763881,71fafcd81bd85eb1,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15_Part1.jpg,812838,05ed318c0e00f8a3,2026-08-18 08:52,2026-08-18 08:52,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15_Part2.jpg,768019,fee7cd5c429be02f,2026-08-18 08:52,2026-08-18 08:52,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Divine_Aesthetics_AcneTreatment_2026-08-15.jpg,806570,78ee40d1d61fa455,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15_Part1.jpg,809153,03fda00560f3241b,2026-08-18 08:52,2026-08-18 08:52,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15_Part2.jpg,803098,5aa9e901ff0d51d4,2026-08-18 08:52,2026-08-18 08:52,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Elixir_Advanced_Aesthetics_HairLoss_2026-08-15.jpg,824137,921660fc0a67e1cb,2026-08-18 12:30,2026-08-18 12:30,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Kavana_Dermo_Glamm_HairFall_2026-08-15.jpg,798412,3c718ee884f9adec,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Maya_HairFall_2026-08-15.jpg,779621,6f0689b10cd650da,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15_Part1.jpg,746844,b98ac8340a084c9c,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15_Part2.jpg,734068,d41c880abc759e32,2026-08-18 08:52,2026-08-18 08:52,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Regenique_Dermatology_and_Aesthetics_HairThinning_2026-08-15.jpg,804942,6667629adda31313,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+Mystery_Shop_2026-08-15/Sun_Light_Skin_Clinic_HairSpa_2026-08-15.jpg,747942,361c5518e46c4b9e,2026-08-18 08:51,2026-08-18 08:51,n,0,0,JPEG image
+ONE-PAGER-AUDIT-AND-TEST-PLAN.md,18096,e06895ad14c778c1,2026-08-13 17:55,2026-08-13 17:55,n,0,0,One-Pager Audit & Outbound Test Plan
+ONE-PAGER-STEELMAN-2026-08-14.md,20625,cde5a6c97a3e953d,2026-08-14 01:13,2026-08-14 01:13,n,0,0,The One-Pager — Steel-Man Review
+One-page-docs/.DS_Store,6148,d65165279105ca67,2026-08-18 03:31,2026-08-18 03:31,n,0,0,macOS Finder metadata (OS artifact)
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.html,66226,54624b27adc4a494,2026-08-04 00:32,2026-08-04 00:32,n,0,0,HTML: Aesthetica Veda — Revenue Diagnostic
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.jpg,354907,e6675730bd8be0f2,2026-08-04 00:33,2026-08-04 00:33,n,0,0,JPEG image
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.pdf,84729,1c621233d8f8d70f,2026-08-04 00:33,2026-08-04 00:33,n,0,0,PDF document
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.png,329940,6ae7c656f56940ca,2026-08-04 00:33,2026-08-04 00:33,n,0,0,PNG image
+One-page-docs/Akera Health - Enquiry Diagnostic.html,64499,e4d85f99e4c384ee,2026-08-14 13:51,2026-08-14 13:58,n,0,0,HTML: Akera Health — Enquiry Diagnostic
+One-page-docs/Akera Health - Enquiry Diagnostic.jpg,294490,91e72d0e51a8cdf8,2026-08-14 13:58,2026-08-14 13:58,n,0,0,JPEG image
+One-page-docs/Akera Health - Enquiry Diagnostic.pdf,92596,8c4fc842ab22bc9d,2026-08-14 13:53,2026-08-14 13:58,n,0,0,PDF document
+One-page-docs/Akera Health - Enquiry Diagnostic.png,383807,a051fb151caae5fe,2026-08-14 13:54,2026-08-14 13:58,n,0,0,PNG image
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.html,65208,483830af66fe7cbc,2026-08-14 14:03,2026-08-14 14:05,n,0,0,HTML: Ara Skin Clinic — Enquiry Diagnostic
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.jpg,325178,44a96dd69174b986,2026-08-14 14:05,2026-08-14 14:05,n,0,0,JPEG image
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.pdf,85927,67433ca5ebb5c0c9,2026-08-14 14:05,2026-08-14 14:05,n,0,0,PDF document
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.png,417238,7d0a13a131001b57,2026-08-14 14:05,2026-08-14 14:05,n,0,0,PNG image
+One-page-docs/AvatarLuxe - A Revenue Diagnostic (WhatsApp image).jpg,231194,bee59299b972503e,2026-07-18 18:38,2026-07-18 18:38,n,0,0,JPEG image
+One-page-docs/AvatarLuxe - A Revenue Diagnostic.pdf,97019,abb6ce46212c0bbd,2026-07-18 18:37,2026-07-18 18:37,n,0,0,PDF document
+One-page-docs/Clinic Next Face - A Revenue Diagnostic (WhatsApp image).jpg,595165,cc181b122398a46f,2026-07-30 20:59,2026-07-30 20:59,n,0,0,JPEG image
+One-page-docs/Clinic Next Face - A Revenue Diagnostic.pdf,127453,75200e78e29f7989,2026-07-30 20:59,2026-07-30 20:59,n,0,0,PDF document
+One-page-docs/Cozmo Blis - What We Found.pdf,742614,7430605186c79455,2026-07-16 17:20,2026-07-16 17:20,n,0,0,PDF document
+One-page-docs/DNA Skin Clinic - A Revenue Diagnostic (WhatsApp image).jpg,241264,57983dd17ecfde15,2026-07-18 17:28,2026-07-18 17:28,n,0,0,JPEG image
+One-page-docs/DNA Skin Clinic - A Revenue Diagnostic.pdf,96351,5b43d40214e4150c,2026-07-18 17:28,2026-07-18 17:28,n,0,0,PDF document
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.html,66123,6bf29f5161f4be48,2026-08-01 19:45,2026-08-01 19:55,n,0,0,HTML: DNA Skin Clinic — Revenue Diagnostic
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.jpg,477801,31f38c8fa49d14e9,2026-08-01 19:56,2026-08-01 19:56,n,0,0,JPEG image
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.pdf,89341,bd404922c3be7fd9,2026-08-01 19:55,2026-08-01 19:55,n,0,0,PDF document
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.png,607097,f87beb612c027018,2026-08-01 19:56,2026-08-01 19:56,n,0,0,PNG image
+One-page-docs/Derma Solutions - Enquiry Diagnostic.html,65788,0cf83b513bab31dd,2026-08-14 15:23,2026-08-14 15:23,n,0,0,HTML: Derma Solutions — Enquiry Diagnostic
+One-page-docs/Derma Solutions - Enquiry Diagnostic.jpg,335883,08a05f7f9283e327,2026-08-14 15:23,2026-08-14 15:23,n,0,0,JPEG image
+One-page-docs/Derma Solutions - Enquiry Diagnostic.pdf,97583,c67da2a59905b87e,2026-08-14 15:23,2026-08-14 15:23,n,0,0,PDF document
+One-page-docs/Derma Solutions - Enquiry Diagnostic.png,423992,cc0728d4b4c9ab21,2026-08-14 15:23,2026-08-14 15:23,n,0,0,PNG image
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.html,65836,27cc6bfc78d52283,2026-08-14 14:27,2026-08-14 14:27,n,0,0,HTML: Dermatonik Aesthetic Clinic — Enquiry Diagnostic
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.jpg,342865,e76bf88abffdd54a,2026-08-14 14:27,2026-08-14 14:27,n,0,0,JPEG image
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.pdf,84481,0aa5389d825776c9,2026-08-14 14:27,2026-08-14 14:27,n,0,0,PDF document
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.png,448664,1b40924ad1c59965,2026-08-14 14:27,2026-08-14 14:27,n,0,0,PNG image
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.html,65531,c51aa989519e19b4,2026-08-04 01:58,2026-08-04 01:58,n,0,0,HTML: Dermaville Skin Clinic — Revenue Diagnostic
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.jpg,337639,7a7f734fdf8f2456,2026-08-04 01:59,2026-08-04 01:59,n,0,0,JPEG image
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.pdf,81622,00948ca47b4cd389,2026-08-04 01:59,2026-08-04 01:59,n,0,0,PDF document
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.png,308114,b3cca2837a9c5d9a,2026-08-04 01:58,2026-08-04 01:58,n,0,0,PNG image
+One-page-docs/Dr. Dixit - Revenue Diagnostic.html,65243,852b643a93dc6eba,2026-07-31 23:07,2026-08-01 00:33,n,0,0,HTML: Dr. Dixit Cosmetic Dermatology Clinic — Revenue Diagnostic
+One-page-docs/Dr. Dixit - Revenue Diagnostic.jpg,342366,8f992d282ce41af2,2026-08-01 00:36,2026-08-01 00:36,n,0,0,JPEG image
+One-page-docs/Dr. Dixit - Revenue Diagnostic.pdf,88021,b8ea3f8fcfab9292,2026-08-01 00:32,2026-08-01 00:34,n,0,0,PDF document
+One-page-docs/Dr. Dixit - Revenue Diagnostic.png,475346,e61e0e4c6e919312,2026-08-01 00:35,2026-08-01 00:36,n,0,0,PNG image
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.html,65090,2c47727f66e10102,2026-08-01 02:46,2026-08-01 02:47,n,0,0,HTML: Dr. Juvita Aesthetics — Revenue Diagnostic
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg,449813,54ee34f7ab2a0e63,2026-08-01 02:47,2026-08-01 02:47,n,0,0,JPEG image
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf,84590,52c9d32b2965bd34,2026-08-01 02:47,2026-08-01 02:47,n,0,0,PDF document
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.png,572295,f7f4c89c18004c5b,2026-08-01 02:47,2026-08-01 02:47,n,0,0,PNG image
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.html,65227,a0017453ed500c94,2026-08-14 14:11,2026-08-14 14:13,n,0,0,HTML: Dr. Priya's Skin &amp; Hair Clinic — Enquiry Diagnostic
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.jpg,326586,0824ba3dd7ff91ce,2026-08-14 14:13,2026-08-14 14:13,n,0,0,JPEG image
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.pdf,90890,b907049f9a59affa,2026-08-14 14:13,2026-08-14 14:13,n,0,0,PDF document
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.png,437337,c4fe398626337ac2,2026-08-14 14:13,2026-08-14 14:13,n,0,0,PNG image
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html,65773,616e5d711654df63,2026-08-01 04:05,2026-08-01 04:06,n,0,0,HTML: Dr. Swetha's Cosmoderm Centre — Revenue Diagnostic
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg,436884,f2fd5896e5ed0607,2026-08-01 04:07,2026-08-01 04:07,n,0,0,JPEG image
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf,91723,1b8b8c97f8f77aa5,2026-08-01 04:06,2026-08-01 04:06,n,0,0,PDF document
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.png,562423,0b8f19db80814f9a,2026-08-01 04:07,2026-08-01 04:07,n,0,0,PNG image
+One-page-docs/Dr. Tina's Skin Solutionz - A Revenue Diagnostic (WhatsApp image).jpg,217737,3eb53591f4c676cf,2026-07-21 03:48,2026-07-21 03:48,n,0,0,JPEG image
+One-page-docs/Dr. Tina's Skin Solutionz - A Revenue Diagnostic.pdf,95035,d232f49a10d97986,2026-07-21 03:47,2026-07-21 03:47,n,0,0,PDF document
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.html,64990,7d3c23c7d8b7d120,2026-08-14 14:02,2026-08-14 14:09,n,0,0,HTML: The Glow Clinic — Revenue Diagnostic
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.jpg,326483,a545a87062ff7be4,2026-08-14 14:09,2026-08-14 14:09,n,0,0,JPEG image
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.pdf,89136,7498318662990c1e,2026-08-14 14:05,2026-08-14 14:09,n,0,0,PDF document
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.png,440499,c0bff2c15c01988d,2026-08-14 14:05,2026-08-14 14:09,n,0,0,PNG image
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.html,65343,b09f84fc6169af56,2026-08-14 15:17,2026-08-14 15:18,n,0,0,HTML: Gejje&#39;s Marvella — Enquiry Diagnostic
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.jpg,346283,17949b5092dbe2a5,2026-08-14 15:18,2026-08-14 15:18,n,0,0,JPEG image
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.pdf,85418,3758fc20af8757e0,2026-08-14 15:18,2026-08-14 15:18,n,0,0,PDF document
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.png,443060,59a9a9deda548927,2026-08-14 15:18,2026-08-14 15:18,n,0,0,PNG image
+One-page-docs/Iridescent Aesthetics - A Revenue Diagnostic (WhatsApp image).jpg,226068,cc157cbe22deaf2c,2026-07-18 19:56,2026-07-18 19:56,n,0,0,JPEG image
+One-page-docs/Iridescent Aesthetics - A Revenue Diagnostic.pdf,96043,92c5b41841cfdfdd,2026-07-18 19:56,2026-07-18 19:56,n,0,0,PDF document
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.html,64612,f90e0936305661f4,2026-08-24 20:58,2026-08-24 20:59,n,0,0,HTML: Maya Medi Spa — Enquiry Diagnostic
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.jpg,391785,246fb6cada46de14,2026-08-24 20:59,2026-08-24 20:59,n,0,0,JPEG image
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.pdf,92384,261bec4f565f4365,2026-08-24 20:59,2026-08-24 20:59,n,0,0,PDF document
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.png,585737,28fb250bfd5fafda,2026-08-24 20:59,2026-08-24 20:59,n,0,0,PNG image
+One-page-docs/Ministry of Skin - Revenue Diagnostic.html,65907,ce895c3cd0e11257,2026-08-03 14:49,2026-08-03 14:49,n,0,0,HTML: Ministry of Skin — Revenue Diagnostic
+One-page-docs/Ministry of Skin - Revenue Diagnostic.jpg,445543,a102c131ba427d52,2026-08-01 01:32,2026-08-01 01:32,n,0,0,JPEG image
+One-page-docs/Ministry of Skin - Revenue Diagnostic.pdf,90239,1204337d574de5d1,2026-08-01 01:32,2026-08-01 01:32,n,0,0,PDF document
+One-page-docs/Ministry of Skin - Revenue Diagnostic.png,574548,dd6a9b4c7617c70a,2026-08-01 01:32,2026-08-01 01:32,n,0,0,PNG image
+One-page-docs/Project Skin - Enquiry Diagnostic.html,65621,4e032bfbdb9033d4,2026-08-14 14:37,2026-08-14 14:37,n,0,0,HTML: Project Skin — Enquiry Diagnostic
+One-page-docs/Project Skin - Enquiry Diagnostic.jpg,335917,4ce06e47f261dce1,2026-08-14 14:37,2026-08-14 14:37,n,0,0,JPEG image
+One-page-docs/Project Skin - Enquiry Diagnostic.pdf,92718,172e1ce7e4aa5938,2026-08-14 14:37,2026-08-14 14:37,n,0,0,PDF document
+One-page-docs/Project Skin - Enquiry Diagnostic.png,433781,8fe424c6f67acde1,2026-08-14 14:37,2026-08-14 14:37,n,0,0,PNG image
+One-page-docs/The Glow Clinic - Revenue Diagnostic.html,65648,0f6cdd3c4aae71dc,2026-08-03 14:49,2026-08-03 14:49,n,0,0,HTML: The Glow Clinic — Revenue Diagnostic
+One-page-docs/The Glow Clinic - Revenue Diagnostic.jpg,423151,f018cb66c5f3b7d8,2026-08-01 01:03,2026-08-01 01:03,n,0,0,JPEG image
+One-page-docs/The Glow Clinic - Revenue Diagnostic.pdf,85003,9503677004603b77,2026-08-01 01:00,2026-08-01 01:03,n,0,0,PDF document
+One-page-docs/The Glow Clinic - Revenue Diagnostic.png,549245,dd96b262bc1cee13,2026-08-01 01:03,2026-08-01 01:03,n,0,0,PNG image
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.html,65321,328e6de81e1d5d43,2026-08-14 14:18,2026-08-14 14:19,n,0,0,HTML: VIDA Skin &amp; Hair Transplant Clinic — Enquiry Diagnostic
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.jpg,325791,6e7003eab8c0ab7e,2026-08-14 14:19,2026-08-14 14:19,n,0,0,JPEG image
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.pdf,73827,3ed374dc8bb9db54,2026-08-14 14:19,2026-08-14 14:19,n,0,0,PDF document
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.png,420035,e0efd10256ee8674,2026-08-14 14:19,2026-08-14 14:19,n,0,0,PNG image
+One-page-docs/Venkat Center - Revenue Diagnostic.html,66353,bb43dec53f630030,2026-08-04 01:51,2026-08-04 01:51,n,0,0,HTML: Venkat Center — Revenue Diagnostic
+One-page-docs/Venkat Center - Revenue Diagnostic.jpg,373615,ddb9379ad15c16fb,2026-08-04 01:51,2026-08-04 01:51,n,0,0,JPEG image
+One-page-docs/Venkat Center - Revenue Diagnostic.pdf,93230,82a69b249db53693,2026-08-04 01:51,2026-08-04 01:51,n,0,0,PDF document
+One-page-docs/Venkat Center - Revenue Diagnostic.png,346688,ed4b3b7cdd9b0ed1,2026-08-04 01:51,2026-08-04 01:51,n,0,0,PNG image
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html,66351,fec5febc569774fb,2026-08-01 01:51,2026-08-01 01:58,n,0,0,HTML: Vtiara Hair & Skin Clinic — Revenue Diagnostic
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg,494108,7d85d4698e8cee31,2026-08-01 01:58,2026-08-01 01:58,n,0,0,JPEG image
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf,89718,86cb47f0c055b535,2026-08-01 01:53,2026-08-01 01:58,n,0,0,PDF document
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.png,617168,d2e20fc7123eeb0c,2026-08-01 01:58,2026-08-01 01:58,n,0,0,PNG image
+One-page-docs/diagnostic_doc_playbook.md,16529,49176f9ba4bc18db,2026-08-13 02:49,2026-08-14 14:00,n,0,0,The Diagnostic One-Pager — Playbook
+PAPERWORK-HANDBOOK-2026-09-06.md,41918,ce74c23895df48be,2026-09-06 13:50,2026-09-06 13:50,n,0,0,"Paperwork Handbook — every document, what it does, how long it lives"
+PRICING-BUILD-COST-2026-08-21.md,21402,f03fd95c2bad66e2,2026-09-05 14:44,2026-09-05 14:44,n,0,0,Build cost and pricing model — the six-system stack
+PROCESS-MAP.md,14326,e5a8d777017551af,2026-08-13 02:48,2026-08-13 02:48,n,0,0,Valence Ops — The Outbound Process As It Actually Runs Today
+Pitch-decks/sapphire-skin-clinic.pdf,10190527,93cdca3869a3d238,2026-07-31 05:27,2026-07-31 05:27,n,0,0,PDF document
+Pre-outbound-research/.DS_Store,10244,be9677cf0a5a6f97,2026-08-14 01:02,2026-09-07 19:07,n,0,0,macOS Finder metadata (OS artifact)
+Pre-outbound-research/OUTREACH document.md,51604,7bc68bba676fa4f6,2026-07-14 15:57,2026-08-13 17:53,n,0,0,**OUTREACH document**
+Pre-outbound-research/batch1-2-audit-23-clinics.md,32219,a25b5422d2031be4,2026-08-01 17:47,2026-08-01 17:47,n,2,0,Karnataka Clinic Outbound Audit — Batches 1 & 2 (23 clinics)
+Pre-outbound-research/batch3-aesthetic-MASTER.md,50774,066700a9df3df99e,2026-08-03 13:47,2026-08-25 13:03,n,1,1,Batch 3 — Aesthetic Sub-Batch · MASTER DOSSIER
+Pre-outbound-research/batch3-dental-audit.md,26182,7ec8ab5c04c07102,2026-08-03 03:06,2026-08-03 03:06,n,0,1,"Batch 3 Audit — Bangalore Dental Cohort (11 clinics, 14 locations)"
+Pre-outbound-research/batch7/.DS_Store,10244,2bbad2ffb9015158,2026-08-14 01:02,2026-08-14 03:44,n,0,0,macOS Finder metadata (OS artifact)
+Pre-outbound-research/batch7/11-gejjes-marvella.md,6043,4d55e636a4532230,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Gejje's Marvella
+Pre-outbound-research/batch7/12-haircosmos-international.md,8153,e6558b53ca288118,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Haircosmos International
+Pre-outbound-research/batch7/13-ara-skin-clinic.md,6930,c17e077f7b9e1d02,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Ara Skin Clinic
+Pre-outbound-research/batch7/14-dr-priyas-skin-and-hair-clinic.md,6961,6d848daf32338b2d,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Dr. Priya's Skin & Hair Clinic
+Pre-outbound-research/batch7/15-akera-health.md,7219,07b879529787605c,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Akera Health
+Pre-outbound-research/batch7/16-derma-solutions.md,8060,addd331b97f2ed61,2026-08-08 17:17,2026-08-13 17:52,n,0,0,Derma Solutions
+Pre-outbound-research/batch7/18-theory-of-skin.md,6307,c1cc83adebccdf2e,2026-08-08 17:16,2026-08-13 17:52,n,0,0,Theory of Skin
+Pre-outbound-research/batch7/19-dermatonik.md,7236,17793eab6f613a66,2026-08-08 17:16,2026-08-13 17:52,n,0,0,Dermatonik
+Pre-outbound-research/batch7/20-vida-skin-and-hair-transplant.md,5925,205e41693258c69d,2026-08-08 17:16,2026-08-13 17:52,n,0,0,VIDA Skin & Hair Transplant Clinic
+Pre-outbound-research/batch7/21-vitals-klinic.md,9022,ee125cfe9f4ad47f,2026-08-08 19:05,2026-08-13 17:52,n,0,0,Vitals Klinic
+Pre-outbound-research/batch7/22-krity-360.md,7989,4bac3c9477435116,2026-08-08 19:06,2026-08-13 17:53,n,0,0,Krity 360
+Pre-outbound-research/batch7/25-project-skin.md,9213,43625aad6624af0f,2026-08-08 19:08,2026-08-13 17:52,n,0,0,Project Skin Dermatology & Aesthetic Clinic
+Pre-outbound-research/batch7/BATCH7-CONSOLIDATED-STATE.md,20446,43bc8359b7e86bbc,2026-08-14 01:07,2026-08-14 01:07,n,0,0,"Batch 7 (Notion ""Batch 2"") — Consolidated State"
+Pre-outbound-research/batch7/BATCH7-FOLLOWUP2-MESSAGES.md,8121,87354f573dbab96b,2026-08-14 13:09,2026-08-14 13:09,n,0,0,"Batch 7 — Follow-up 2 messages, one per clinic"
+Pre-outbound-research/batch7/BATCH7-MASTER-ALL-CLINICS.md,92040,032f02e7b6ded14d,2026-08-17 13:45,2026-08-17 13:45,n,0,0,"Batch 7 — Master Consolidated Record, All Clinics"
+Pre-outbound-research/batch7/BATCH7-WEDGE-BRIEF.md,42646,ad7785fa4985e6f4,2026-08-14 13:04,2026-08-14 13:04,n,0,0,Batch 7 — Observation Brief for the Follow-up-2 One-Pagers
+Pre-outbound-research/batch7/batch-11-15-summary.md,11567,3d5cdbad188a40d7,2026-08-08 17:31,2026-08-13 17:53,n,0,0,"Batch #11–15 Summary — Vitals Klinic, Krity 360, D White Feather, Dr AG Skin & Hair, Project Skin"
+Pre-outbound-research/batch7/go-list-full-report.md,55220,e5bc1711ae0de3a7,2026-08-08 17:17,2026-08-13 17:53,n,0,0,Pre-Outbound Research — Full Batch Report
+Pre-outbound-research/batch7/mystery-shop-b7/.DS_Store,6148,b567426d9c43742e,2026-08-11 22:21,2026-08-13 19:19,n,0,0,macOS Finder metadata (OS artifact)
+Pre-outbound-research/batch7/mystery-shop-b7/akera-health.png,1361714,cff95fd8264dbb17,2026-08-12 15:09,2026-08-12 15:09,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/ara-skin.png,1402655,ac523dea77588a40,2026-08-12 15:09,2026-08-12 15:09,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dermatonik-1.png,3345282,19445b3f55ba1d58,2026-08-12 15:11,2026-08-12 15:11,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dermatonik-2.png,2818847,a4e492b5911c5181,2026-08-12 15:11,2026-08-12 15:11,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dr-priya.png,1400071,5ae62768c89e7582,2026-08-12 15:07,2026-08-12 15:07,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/gejjes-marvella.png,1370968,3ce8b62c9669b1b5,2026-08-12 15:07,2026-08-12 15:07,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/krity-360-wa.png,1301311,ddd8cd97c3f8adc9,2026-08-12 15:11,2026-08-12 15:11,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/project-skin.png,1321002,43b5ab19bffb02ad,2026-08-12 15:07,2026-08-12 15:07,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/theory-of-skin.png,1278450,31678ded1fa75eea,2026-08-12 15:13,2026-08-12 15:13,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vida-skin-n-hair.png,1244261,4e223395762dd69e,2026-08-12 15:09,2026-08-12 15:09,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vital-skin-1.png,1528615,ebaa936dfbaac31b,2026-08-12 15:20,2026-08-12 15:20,n,0,0,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vital-skin-2.png,1673048,594e25faf1b65e1a,2026-08-12 15:20,2026-08-12 15:20,n,0,0,PNG image
+Pre-outbound-research/outreach -2.md,43325,b043132408c720e0,2026-07-14 15:58,2026-08-13 17:53,n,0,0,**outreach \-2**
+Pre-outbound-research/outreach 3.md,66261,50f8deb50988a5d0,2026-07-23 19:48,2026-08-13 17:53,n,0,0,**outreach-3**
+Pre-outbound-research/outreach 4 (1).md,12464,0919f9390e20d011,2026-08-07 19:52,2026-08-13 17:53,n,0,0,**outreach-4**
+Pre-outbound-research/outreach-5 (1).md,15460,43f8ef2579db4d76,2026-08-09 01:45,2026-08-13 17:53,n,0,0,**outreach-5**
+Pre-outbound-research/rua-skin-hair-CALL-DOSSIER-2026-08-25.md,44531,b3370598a5d560a0,2026-08-25 13:03,2026-08-25 14:40,n,0,0,RUA Skin & Hair Center — Sales Call Dossier
+Pre-outbound-research/south-bangalore-scrape-2026-08-10.csv,2917,529757f801e0f956,2026-08-10 04:02,2026-08-10 04:02,n,0,0,"CSV, header: clinic_name,locality,rating,reviews_total,website,instagram,ig_followers"
+Project-Hand-Off/00-START-HERE.md,7860,d367551afc5fee80,2026-08-13 19:04,2026-08-13 19:04,n,0,0,"START HERE — Valence Ops, mobile working context"
+Project-Hand-Off/01-STATE-OF-PLAY.md,6462,40f0fae5a9042b21,2026-08-13 18:11,2026-08-13 18:11,n,0,0,STATE OF PLAY — as of 13 August 2026
+Project-Hand-Off/02-BUYER-OFFER-AND-DEMO.md,8960,9441d751485abce6,2026-08-13 18:12,2026-08-13 18:12,n,0,0,"THE BUYER, THE OFFER, AND WHAT CAN BE DEMONSTRATED"
+Project-Hand-Off/03-DRAFTING-ENGINE.md,12716,cdb5f1179275bc4c,2026-08-13 19:05,2026-08-13 19:05,n,0,0,THE DRAFTING ENGINE — how to write to these clinics
+Project-Hand-Off/04-WEDGE-ROUTING.md,11390,2a4c42939b92a2ba,2026-08-13 18:14,2026-08-13 18:14,n,0,0,"QUALIFICATION, THE MYSTERY SHOP, AND WEDGE ROUTING"
+Project-Hand-Off/05-CLINIC-INVENTORY.md,17797,41ac1c6e3f6bcb5d,2026-08-13 18:15,2026-08-13 18:15,n,0,0,CLINIC INVENTORY — snapshot 13 August 2026
+Project-Hand-Off/06-DECISIONS-AND-LEARNINGS.md,10050,12ea2b0077977ac6,2026-08-13 18:16,2026-08-13 18:16,n,0,0,"DECISIONS AND LEARNINGS — what was tried, what happened, what was rejected"
+Project-Hand-Off/PROJECT-INSTRUCTIONS-paste-this.txt,8352,a7dbddf6579f97a2,2026-08-13 19:04,2026-08-13 19:04,n,0,0,TXT: ═══════════════════════════════════════════════════════════════════════
+Project-Hand-Off/SETUP.md,3678,9b89d36212064ad2,2026-08-13 18:17,2026-08-13 18:17,n,0,0,"Setup — 4 minutes, once"
+Proposals & SOW/.DS_Store,6148,d65165279105ca67,2026-08-26 15:50,2026-08-26 15:50,n,0,0,macOS Finder metadata (OS artifact)
+Proposals & SOW/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf,132356,65cc69b36431396c,2026-09-05 16:11,2026-09-05 22:35,n,0,0,PDF document
+Proposals & SOW/RUA Skin & Hair Center - Patient Communications Proposal.pdf,177070,17f1a02a32e8df7f,2026-08-26 11:23,2026-08-26 16:32,n,0,0,PDF document
+Proposals & SOW/RUA Skin & Hair Center - Scope of Work.pdf,153733,6e7185357181380e,2026-08-26 11:27,2026-08-26 11:27,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Enquiry System Strategy.html,78702,7469f4e9790c8fe9,2026-08-29 17:03,2026-08-29 17:06,n,0,0,HTML: SkinFit Wellness — Enquiry System Strategy
+Proposals & SOW/SkinFit Wellness - Enquiry System Strategy.pdf,110394,27ea6fdee9f4e8f2,2026-08-29 17:05,2026-08-29 17:07,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Communications Proposal v2.pdf,150989,312164ca9911238f,2026-08-27 23:12,2026-08-27 23:12,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Communications Proposal.pdf,147133,3e4005d997baae20,2026-08-22 18:31,2026-08-22 18:31,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion Proposal.pdf,254827,2c64ab770f4918b3,2026-08-30 19:27,2026-08-30 19:57,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion System.pdf,207302,ae3ff5cc07b27b4b,2026-08-30 16:21,2026-08-30 19:03,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion and Intelligence System.pdf,234008,6c91372bcb784d29,2026-08-30 15:46,2026-08-30 19:03,n,0,0,PDF document
+Proposals & SOW/SkinFit Wellness - Scope of Work.pdf,151011,e7f65f09a26f0d53,2026-08-22 18:30,2026-08-22 18:30,n,0,0,PDF document
+RUNSHEET-aureliere-2026-08-21.md,5688,37cc581c3fbef7c5,2026-08-21 14:33,2026-08-21 14:33,n,0,0,"Runsheet — ""Aureliere Clinic"" call · Fri 21 Aug 2026"
+RUNSHEET-skinfit-gino-2026-08-18.md,12114,753349c8faf3e0d5,2026-08-17 03:17,2026-08-17 03:17,n,0,0,Run-sheet — Gino Tharakan / SkinFit Wellness · Mon 18 Aug 2026
+Research-docs/00-BATCH-FULL-REPORT.md,95420,46340e1b3d3e1e45,2026-08-02 23:55,2026-08-13 17:53,n,0,1,Pre-Outbound Research — Full Batch Report
+Research-docs/01-rua-skin-and-hair-center.md,5523,2f9d667ba1b80e90,2026-08-02 23:55,2026-08-02 23:55,n,0,0,Rua Skin & Hair Center
+Research-docs/02-skin-and-recon.md,5801,f42ea588a86c78ee,2026-08-02 23:56,2026-08-02 23:56,n,0,0,Skin and Recon
+Research-docs/03-koza-aesthetic-care.md,6148,8384aafc637dfcf6,2026-08-02 23:56,2026-08-02 23:56,n,0,0,Koza Aesthetic Care
+Research-docs/04-advanced-grohair-gloskin-jayanagar.md,5120,1a4b41aade5769d4,2026-08-02 23:56,2026-08-13 17:53,n,0,0,Advanced GroHair GloSkin — Jayanagar branch
+Research-docs/05-ss-aesthetic-clinic.md,3713,f652995116f63902,2026-08-02 23:56,2026-08-02 23:56,n,0,0,SS Aesthetic Clinic
+Research-docs/06-contour-cosmetic-clinic.md,5677,fa30ce73011a4933,2026-08-02 23:57,2026-08-02 23:57,n,0,0,Contour Cosmetic Clinic
+Research-docs/07-sanssouci-wellness-clinic.md,4777,a80df45104dc2a99,2026-08-02 23:55,2026-08-02 23:55,n,0,0,Sanssouci Wellness Clinic
+Research-docs/08-skinfit-wellness.md,6080,8a4d4c21df34690f,2026-08-02 23:55,2026-08-02 23:55,n,0,0,SkinFit Wellness
+Research-docs/09-sparha-aesthetic-studio.md,5928,981d5bcee7fd403a,2026-08-02 23:55,2026-08-02 23:55,n,0,0,Sparha Advanced Aesthetic Studio
+Research-docs/10-feather-touch-aesthetic-clinic.md,5647,d08df87f5f2cfa60,2026-08-02 23:55,2026-08-02 23:55,n,0,0,Feather Touch Aesthetic Clinic & Academy
+Research-docs/batch-comparison-table.csv,6033,6bdf8753a17acc98,2026-08-02 23:55,2026-08-02 23:55,n,1,0,"CSV, header: clinic_name,branch,locality,category,contact_name,contact_role,contact_confidence,contact_"
+Resources/.DS_Store,6148,d65165279105ca67,2026-08-18 03:31,2026-08-26 15:50,n,0,0,macOS Finder metadata (OS artifact)
+Resources/Aurilueur Esthetic Clinic - Intake Form (Post-Meeting).md,5236,57204c65bd5c0743,2026-09-03 19:27,2026-09-03 19:27,n,0,0,Aurilueur Esthetic Clinic — Post-Meeting Intake Form
+Resources/Aurilueur Esthetic Clinic - Operations Findings.pdf,70448,fb756e40e8481964,2026-08-23 13:07,2026-08-23 13:07,n,0,0,PDF document
+Resources/Aurilueur Esthetic Clinic - What We're Seeing Across Bangalore.pdf,60640,2316c2d4ecd4901e,2026-08-23 15:20,2026-08-23 15:20,n,0,0,PDF document
+Resources/SkinFit Wellness - Enquiry Handling Review.pdf,128645,0ec01c4c48df9fe0,2026-08-18 03:19,2026-08-18 03:20,n,0,0,PDF document
+Resources/SkinFit Wellness - Patient Conversion Proposal.html,102650,fec3dc6f0a463a95,2026-08-30 19:26,2026-08-30 19:57,n,0,0,HTML: SkinFit Wellness — Patient Conversion Proposal
+Resources/SkinFit Wellness - Patient Conversion System.html,92793,23cbe2640779807d,2026-08-30 16:21,2026-08-30 19:03,n,0,0,HTML: SkinFit Wellness — Patient Conversion System
+Resources/SkinFit Wellness - Patient Conversion and Intelligence System.html,97833,61f0060be3190647,2026-08-30 16:21,2026-08-30 19:03,n,0,0,HTML: SkinFit Wellness — Patient Conversion and Intelligence System
+Resources/SkinFit Wellness - Revenue Diagnostic.pdf,29997,9fb362bfae9d3ae1,2026-08-16 20:20,2026-08-16 20:20,n,0,0,PDF document
+Resources/SkinFit Wellness - Scope of Work.html,82073,9215131dab561a08,2026-08-22 18:30,2026-08-22 18:30,n,0,0,HTML: SkinFit Wellness — Scope of Work
+Resources/What We're Seeing Across Bangalore.pdf,58628,f710e99af02e30b9,2026-08-24 21:56,2026-08-24 21:56,n,0,0,PDF document
+Resources/Where Enquiries Go Quiet.html,63802,08338641362fe5c1,2026-08-25 11:20,2026-08-25 11:20,n,0,0,HTML: Where Enquiries Go Quiet — Valence Ops
+Resources/Where Enquiries Go Quiet.jpg,405245,f60031fa02260cd4,2026-08-25 11:20,2026-08-25 11:20,n,0,0,JPEG image
+Resources/Where Enquiries Go Quiet.pdf,77470,bbf25b9e7d077492,2026-08-25 11:20,2026-08-25 11:20,n,0,0,PDF document
+Resources/Where Enquiries Go Quiet.png,573262,c54a379a2f8af475,2026-08-25 11:20,2026-08-25 11:20,n,0,0,PNG image
+Resources/_source/aurilueur-proposal/README.md,848,8e5a8401161f815f,2026-09-05 16:10,2026-09-05 16:10,n,0,0,Aurilueur proposal — build kit
+Resources/_source/aurilueur-proposal/fonts/Poppins-400-normal.ttf,154628,cdedb1729acac414,2026-09-05 16:08,2026-09-05 16:08,n,0,0,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-500-italic.ttf,176504,cc581d84062e9ae7,2026-09-05 16:08,2026-09-05 16:08,n,0,0,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-500-normal.ttf,152860,fcff04f4bec2b363,2026-09-05 16:08,2026-09-05 16:08,n,0,0,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-600-normal.ttf,151516,dae40ca7b35fe750,2026-09-05 16:08,2026-09-05 16:08,n,0,0,TrueType font
+Resources/_source/aurilueur-proposal/out.pdf,132356,65cc69b36431396c,2026-09-05 22:31,2026-09-05 22:34,n,0,0,PDF document
+Resources/_source/aurilueur-proposal/proposal.html,19435,778c1c662c32db92,2026-09-05 22:34,2026-09-05 22:34,n,0,0,HTML: Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal
+Resources/_source/aurilueur-proposal/style.css,7868,a4c6d83f6a134f0d,2026-09-05 16:08,2026-09-05 16:08,n,0,0,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/rua-proposal/fonts/Poppins-400-normal.ttf,154628,cdedb1729acac414,2026-08-26 11:21,2026-08-26 11:21,n,0,0,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-500-italic.ttf,176504,cc581d84062e9ae7,2026-08-26 11:21,2026-08-26 11:21,n,0,0,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-500-normal.ttf,152860,fcff04f4bec2b363,2026-08-26 11:21,2026-08-26 11:21,n,0,0,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-600-normal.ttf,151516,dae40ca7b35fe750,2026-08-26 11:21,2026-08-26 11:21,n,0,0,TrueType font
+Resources/_source/rua-proposal/proposal.html,26101,cde4263a16ba8558,2026-08-26 11:22,2026-08-26 16:31,n,0,0,HTML: RUA Skin &amp; Hair Center - Patient Communications Proposal
+Resources/_source/rua-proposal/rua-out.pdf,177070,17f1a02a32e8df7f,2026-08-26 11:22,2026-08-26 16:32,n,0,0,PDF document
+Resources/_source/rua-proposal/style.css,7868,a4c6d83f6a134f0d,2026-08-26 11:21,2026-08-26 11:21,n,0,0,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/rua-sow/rua-sow-out.pdf,153733,6e7185357181380e,2026-08-26 11:24,2026-08-26 11:26,n,0,0,PDF document
+Resources/_source/rua-sow/sow.html,82468,189fc5fcf663e7e2,2026-08-26 11:23,2026-08-26 11:26,n,0,0,HTML: RUA Skin &amp; Hair Center — Scope of Work
+Resources/_source/skinfit-proposal-v2/README.md,784,507bcc5ee3128748,2026-08-27 23:10,2026-08-27 23:10,n,0,0,SkinFit proposal — build kit
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-400-normal.ttf,154628,cdedb1729acac414,2026-08-27 23:10,2026-08-27 23:10,n,0,0,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-italic.ttf,176504,cc581d84062e9ae7,2026-08-27 23:10,2026-08-27 23:10,n,0,0,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-normal.ttf,152860,fcff04f4bec2b363,2026-08-27 23:10,2026-08-27 23:10,n,0,0,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-600-normal.ttf,151516,dae40ca7b35fe750,2026-08-27 23:10,2026-08-27 23:10,n,0,0,TrueType font
+Resources/_source/skinfit-proposal-v2/out.pdf,150989,312164ca9911238f,2026-08-27 23:11,2026-08-27 23:11,n,0,0,PDF document
+Resources/_source/skinfit-proposal-v2/proposal.html,20892,d62f96b4bc362e14,2026-08-27 23:10,2026-08-27 23:11,n,0,0,HTML: SkinFit Wellness - Patient Communications Proposal
+Resources/_source/skinfit-proposal-v2/style.css,7868,a4c6d83f6a134f0d,2026-08-27 23:10,2026-08-27 23:10,n,0,0,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/skinfit-proposal/README.md,784,507bcc5ee3128748,2026-08-22 18:31,2026-08-22 18:31,n,0,0,SkinFit proposal — build kit
+Resources/_source/skinfit-proposal/fonts/Poppins-400-normal.ttf,154628,cdedb1729acac414,2026-08-22 18:31,2026-08-22 18:31,n,0,0,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-500-italic.ttf,176504,cc581d84062e9ae7,2026-08-22 18:31,2026-08-22 18:31,n,0,0,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-500-normal.ttf,152860,fcff04f4bec2b363,2026-08-22 18:31,2026-08-22 18:31,n,0,0,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-600-normal.ttf,151516,dae40ca7b35fe750,2026-08-22 18:31,2026-08-22 18:31,n,0,0,TrueType font
+Resources/_source/skinfit-proposal/proposal.html,19882,d3d85cd0aa8b1674,2026-08-22 18:31,2026-08-22 18:31,n,0,0,HTML: SkinFit Wellness - Patient Communications Proposal
+Resources/_source/skinfit-proposal/style.css,7868,a4c6d83f6a134f0d,2026-08-22 18:31,2026-08-22 18:31,n,0,0,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+SALES_MOTION.md,19880,1bfca763e52773b8,2026-08-13 17:51,2026-08-13 17:51,n,0,0,SALES_MOTION.md — What Happens After They Reply
+SESSION-2026-08-10-se-bangalore-scrape.md,24722,586ee23d484bc867,2026-08-10 22:27,2026-08-10 22:28,n,0,0,Session log — SE Bangalore clinic scrape (2026-08-10)
+SKINFIT-INFORMATION-REQUEST-REVIEW.md,14889,d36fea82de23024d,2026-08-20 20:12,2026-08-20 20:12,n,0,0,SkinFit Information Request — Review
+SKINFIT-PROPOSAL-SOW-REVIEW-2026-08-22.md,13393,896fb3d43fc42fc1,2026-08-22 13:29,2026-08-22 13:29,n,0,0,SkinFit Wellness — Proposal & SOW Review
+SKINFIT-TECH-HANDOFF-2026-08-18.md,16636,ffdbc321bf109c90,2026-08-18 04:16,2026-08-18 04:16,n,0,0,SkinFit Wellness — Technical Handoff
+SKINFIT-TECHNICAL-BRIEF.md,6063,c6c7cc41394ae54b,2026-08-20 19:30,2026-08-20 19:30,n,0,0,SkinFit Wellness — Technical Brief
+_archive/README.md,4153,ff25abbfa671e0ac,2026-08-13 02:39,2026-08-13 17:50,n,0,0,_archive — retired files
+_archive/Valence-Research-Intelligence/OUTREACH document.md,48733,18d4326f1f79be82,2026-07-14 15:57,2026-07-14 15:57,n,0,0,**OUTREACH document**
+_archive/Valence-Research-Intelligence/compass_artifact_wf-247346dc-59f2-4074-abaa-8bbe66921f69_text_markdown.md,32182,4538b860e6d4fc4b,2026-07-15 17:55,2026-07-15 17:55,n,0,0,Valence Ops — Commercial Intelligence Manual (Gap-Fill Run)
+_archive/Valence-Research-Intelligence/outreach -2.md,40976,7a854e820046114f,2026-07-14 15:58,2026-07-14 15:58,n,0,0,**outreach \-2**
+_archive/Valence-Research-Intelligence/section 1.md,149314,8ab78ffaa2c19e15,2026-06-16 09:48,2026-06-16 09:48,n,0,0,"IVF, hair, dental, and aesthetic procedures in Bengaluru routinely represent ₹50,000–₹7,00,000+ of potential r"
+_archive/Valence-Research-Intelligence/section 2.md,124255,3ea7bbdd5943ed4f,2026-06-16 09:48,2026-06-16 09:48,n,0,0,**Bengaluru Elective Clinic Market: Patient Journey and Revenue Leakage Intelligence Report**
+_archive/Valence-Research-Intelligence/section 3.md,137030,61c6b4abdaaed33a,2026-06-16 09:48,2026-06-16 09:48,n,0,0,**Bengaluru Elective Healthcare Market: B2B Patient Language and Operational Friction Report**
+_archive/Valence-Research-Intelligence/section 4.md,135471,56a0cd5b6790673b,2026-06-16 09:49,2026-06-16 09:49,n,0,0,**Bengaluru Elective Clinic Owner — GTM Psychology Research**
+_archive/Valence-Research-Intelligence/section 5.md,26056,4f5101fa9167ea37,2026-06-16 09:49,2026-06-16 09:49,n,0,0,**Section 5: Objection Intelligence — How Bengaluru Elective-Clinic Owners Say No**
+_archive/Valence-Research-Intelligence/section 6.md,36965,42b6ed3e77eb225d,2026-06-16 09:49,2026-06-16 09:49,n,0,0,**Website & Positioning Intelligence — Bengaluru Elective Clinics**
+_archive/Valence-Research-Intelligence/section 7.md,57723,49d4caefdb84d0d6,2026-06-16 09:49,2026-06-16 09:49,n,0,0,**Competitive Intelligence Dossier: Elective Clinic Patient Acquisition & Automation in the Indian Market**
+_archive/Valence-Research-Intelligence/section 8.md,40362,88784c437f8cb53c,2026-06-16 09:47,2026-06-16 09:47,n,0,0,**LinkedIn Intelligence Research — Indian Elective Clinic Owners (Aesthetic · Dental · Hair Transplant · IVF)*
+_archive/batch3-aesthetic-audit.md,34652,82c0f19d74e74a77,2026-08-03 03:51,2026-08-03 03:51,n,1,2,> ## ⚠️ SUPERSEDED — use [batch3-aesthetic-MASTER.md](batch3-aesthetic-MASTER.md)
+_archive/clinic-apify-research-skill.md,28442,c541e7260c99b1f9,2026-07-30 16:50,2026-07-30 16:50,y,0,0,Clinic Audit Research — Apify Pipeline (v2)
+_archive/elective-clinics-sales1.md,49637,55239b7f605434ee,2026-06-20 14:55,2026-06-20 14:55,n,0,0,Indian Elective Healthcare Industry Overview
+_archive/one-pager-handoff.zip,3268004,622b0617ed93a6ac,2026-08-04 00:22,2026-08-04 00:22,n,0,0,ZIP archive
+_archive/personalized-outbound-skill.md,15487,45ec4fc3c8677b04,2026-06-21 13:52,2026-06-21 13:52,y,0,0,Personalized Outbound — ValenceOps × Indian Elective Clinics
+_archive/scrape-southeast-bangalore-RESUME.md,4406,b6e03679877e2684,2026-08-10 19:29,2026-08-10 19:29,n,0,0,SE Bangalore clinic scrape — paused state (2026-08-10)
+_archive/valence-ops-clinic-intelligence-os.md,16432,85cf7380ed1999fc,2026-07-14 17:28,2026-07-14 17:28,n,0,0,Valence Ops — Bengaluru Elective Clinic Market Intelligence OS
+apify-discovery-CONTEXT.md,20486,a509ce6e9600e865,2026-08-06 00:36,2026-08-06 00:36,n,0,0,"MESSAGE 1 — CONTEXT PACK (paste this first, then wait for ""ready"")"
+apify-discovery-PROMPT.md,9328,81ed9eec052060b4,2026-08-06 00:37,2026-08-06 00:37,n,0,0,MESSAGE 2 — THE RUN PROMPT (paste after Claude confirms Message 1)
+clinic-audit-checklist.md,6309,83139916f51476fe,2026-08-13 02:47,2026-08-13 02:47,n,0,0,Clinic Audit Checklist
+clinic-research-sources.md,5607,1bc11b1ca9710404,2026-08-13 02:47,2026-08-13 02:47,n,0,0,Clinic Research — Final Source List & Ingestion Guide
+clinics/amintri-skin-hair-clinic.md,3973,cd976db767ef0066,2026-07-19 19:47,2026-08-13 17:53,n,0,0,AMINTRI Skin & Hair Clinic – Research Summary
+clinics/beeyens-skin-and-laser-clinic.md,3066,b506c532b7a76e38,2026-07-19 19:48,2026-08-13 17:53,n,0,0,Beeyens Skin and Laser Clinic – Research Summary
+clinics/clinique-hair-transplant-centre.md,4394,b5f7f236c0823882,2026-07-19 19:49,2026-08-13 17:53,n,0,0,CLINIQUE — Hair Transplant Centre (Dr. Idris) – Research Summary
+clinics/dermaqure.md,4393,3d57e1a825f29173,2026-07-19 20:08,2026-08-13 17:53,n,0,0,Dermaqure Advanced Skin and Cosmetology Centre – Research Summary
+clinics/dr-praba-independent-clinic.md,1857,06df0daac7e2bb81,2026-09-02 17:49,2026-09-02 17:49,n,0,0,Dr. Praba — independent skin & hair clinic (pre-launch)
+clinics/evenly-skin-and-hair-clinic.md,3563,1b25fcdd597bdafc,2026-07-19 19:47,2026-08-13 17:53,n,0,0,Evenly Skin and Hair Clinic – Research Summary
+clinics/looks-hair-and-skin-clinic.md,3823,d26fb57266b02b42,2026-07-19 19:46,2026-08-13 17:53,n,0,0,Looks Hair and Skin Clinic – Research Summary
+clinics/master-scrape-log.csv,3699,e46043f972c824f6,2026-07-19 20:10,2026-07-19 20:10,n,0,0,"CSV, header: clinic_name,vertical_primary,location,founder_name,founder_ig_followers,clinic_ig_follower"
+clinics/mister-hair-clinic.md,4277,2ea4e61c749e9a50,2026-07-19 19:46,2026-08-13 17:53,n,0,0,Mister Hair Clinic – Research Summary
+clinics/nikhilesh-dental-clinic.md,3113,3bfee78e53e56a89,2026-07-19 19:49,2026-08-13 17:53,n,0,0,Nikhilesh Dental Clinic – Research Summary
+clinics/rejected-candidates.md,3566,b5a3bc1f3382793f,2026-07-19 19:50,2026-07-19 19:50,n,0,0,Rejected / Skipped Candidates — 2026-07-19 Scrape Run
+clinics/smile-world-dental-clinic.md,3048,10f7692f6233ea57,2026-07-19 19:48,2026-08-13 17:53,n,0,0,Smile World Dental Clinic and Implant Center – Research Summary
+clinics/the-derma-theory.md,5824,3e1722b9460d0e6b,2026-07-19 20:09,2026-08-13 17:53,n,0,0,The Derma Theory Hair and Skin Clinic – Research Summary
+clinics/tooth-and-root-dental-clinic.md,2827,c7b7ea447d83ab9d,2026-07-19 19:49,2026-08-13 17:53,n,0,0,Tooth & Root Dental Clinic – Research Summary
+clinics/vrudhii-aesthetics.md,3265,6eafb3c40ec9d7f8,2026-07-19 19:48,2026-08-13 17:53,n,0,0,Vrudhii Aesthetics (Skin and Surgery Center) – Research Summary
+dental-discovery-CRITERIA.md,12799,60f1ec251e2e60a4,2026-08-09 14:58,2026-08-09 14:58,n,0,0,Dental Discovery Criteria — Bangalore
+dental-discovery-STEP-1-QUALIFY.md,10986,4453ca25752c28fe,2026-08-09 15:22,2026-08-09 15:22,n,0,0,STEP 1 — QUALIFY (Bangalore Dental)
+dental-discovery-STEP-2-RESEARCH.md,8425,2c3e7dc0bbd53cab,2026-08-09 15:23,2026-08-13 17:52,n,0,0,STEP 2 — RESEARCH (Bangalore Dental)
+files/LEARNINGS_LOG.md,10807,e7fec7dbedb93891,2026-08-13 02:48,2026-08-25 13:03,n,0,0,LEARNINGS_LOG.md — dated entries: tried → happened → changed
+files/OUTBOUND_MEMORY.md,26738,a49b8b96602c92a3,2026-09-05 14:44,2026-09-05 14:44,n,0,0,OUTBOUND_MEMORY.md — Valence Ops Living Outbound Memory
+files/OUTBOUND_SYSTEM_AUDIT.md,25716,6fb60afa973351dc,2026-08-13 02:50,2026-08-13 02:50,n,0,0,Valence Ops — Outbound System Audit & Redesign
+files/REPLY_LOG.csv,1468,f21eb1bce14ae2ab,2026-08-23 13:07,2026-08-23 13:07,n,0,0,"CSV, header: date_replied,clinic,reply_type,hours_to_our_response,packet_sent,personalized_video,call_b"
+files/SEND_LOG.csv,2345,1454d0fe321c991f,2026-08-13 02:43,2026-08-13 03:17,n,0,0,"CSV, header: # FROZEN 2026-08-13 — NOT THE LEDGER. Notion ""Valence Leads tracker"" (Batch 1 + Batch 2) i"
+findings-batch-11-15.md,7615,88dbcb2fa9ef1396,2026-08-08 17:31,2026-08-08 17:31,n,0,0,Findings — Batch #11–15
+findings-batch7-clinics-11-20.md,10128,62ba1c795f80e0bd,2026-08-08 17:20,2026-08-08 17:20,n,0,0,"Findings — Batch 7, Clinics #11–20 (the Tier A ten)"
+go-list-mystery-shop.md,5972,879ed649366f114b,2026-08-13 03:17,2026-08-13 03:17,n,0,0,Go List — Cleared for Research + Mystery Shop + Outbound
+handoff-batch3-remaining-8.md,9576,abf5e2e37d48609e,2026-08-01 18:21,2026-08-01 18:21,n,0,0,Handoff — 11 Remaining Skin/Aesthetic Clinics (Batch 3)
+ig-pregate-40-clinics.md,13821,1f3eb71c707379a7,2026-08-08 12:31,2026-08-08 12:31,n,0,0,IG Pre-Gate — 40-Clinic Shortlist Screen
+lead-prioritization-method.md,24563,db0b0e61fd66a6bf,2026-07-29 20:19,2026-07-29 20:19,n,0,0,Lead Prioritization Method — how the 20-clinic priority table was actually produced
+lead-qualifier-suite/.DS_Store,8196,12978a3f6d042d0d,2026-08-14 00:01,2026-09-07 19:07,n,0,0,macOS Finder metadata (OS artifact)
+lead-qualifier-suite/.claude-plugin/marketplace.json,595,33f3cc283a30c4a5,2026-07-18 23:53,2026-07-18 23:53,n,0,0,"JSON object, keys: name,metadata,owner,plugins"
+lead-qualifier-suite/.claude-plugin/plugin.json,397,e297636e9577e770,2026-07-18 23:53,2026-07-18 23:53,n,0,0,"JSON object, keys: name,version,description,author,keywords"
+lead-qualifier-suite/scripts/company_qualifier.py,19996,b3705fdb60e3d42f,2026-07-18 23:53,2026-07-18 23:53,n,0,0,PY: from __future__ import annotations
+lead-qualifier-suite/skills/.DS_Store,8196,48c62c8d91215e5d,2026-08-14 00:01,2026-08-14 00:02,n,0,0,macOS Finder metadata (OS artifact)
+lead-qualifier-suite/skills/gamma-deck/.DS_Store,6148,0acb852672bf6010,2026-08-14 00:01,2026-08-14 00:01,n,0,0,macOS Finder metadata (OS artifact)
+lead-qualifier-suite/skills/gamma-deck/SKILL.md,9372,541c6069626c9698,2026-07-18 23:53,2026-07-18 23:53,y,0,0,Gamma Deck
+lead-qualifier-suite/skills/gamma-deck/agents/openai.yaml,277,1644574aba2f98e5,2026-07-18 23:53,2026-07-18 23:53,n,0,0,YAML: interface:
+lead-qualifier-suite/skills/gamma-deck/references/gamma-deck-spec.md,4172,249e70adaae934b8,2026-07-18 23:53,2026-07-18 23:53,n,0,0,Gamma Deck Specification
+lead-qualifier-suite/skills/orchestrator/SKILL.md,11320,d896ef5fe237442d,2026-07-18 23:53,2026-07-18 23:53,y,0,0,Orchestrator
+lead-qualifier-suite/skills/orchestrator/agents/openai.yaml,284,962faace646e26d2,2026-07-18 23:53,2026-07-18 23:53,n,0,0,YAML: interface:
+lead-qualifier-suite/skills/personalization/SKILL.md,5582,404a151398eb7ee3,2026-07-18 23:53,2026-07-18 23:53,y,0,0,Personalization
+lead-qualifier-suite/skills/personalization/agents/openai.yaml,254,fb8d19c033f9e8a9,2026-07-18 23:53,2026-07-18 23:53,n,0,0,YAML: interface:
+lead-qualifier-suite/skills/personalization/references/personalization-spec.md,1839,c8baa536f6295515,2026-07-18 23:53,2026-07-18 23:53,n,0,0,Personalization Specification
+lead-qualifier-suite/skills/qualification/SKILL.md,7008,7d19c19358082b0d,2026-07-18 23:53,2026-07-18 23:53,y,0,0,Qualification
+lead-qualifier-suite/skills/qualification/agents/openai.yaml,239,445cf59431d2bac9,2026-07-18 23:53,2026-07-18 23:53,n,0,0,YAML: interface:
+lead-qualifier-suite/skills/qualification/references/default-target-profile.md,2326,84babc4804c60367,2026-07-18 23:53,2026-07-18 23:53,n,0,0,Default Target Profile
+linkedin-sales-navigator-personas.md,10494,529d42982aed3155,2026-08-09 20:03,2026-08-09 20:03,n,0,0,LinkedIn Sales Navigator Personas — ValenceOps ICP
+money-and-tax-explainer.html,35031,bbf1b3847245561b,2026-08-21 13:13,2026-08-21 13:13,n,0,0,HTML: Follow the Rupee
+new_leads_1/ADS-PRESENCE-2026-08-15.md,18282,759558c4ae35d46e,2026-08-15 02:52,2026-08-15 02:52,n,0,0,new_leads_1 — paid-ads presence & Instagram audit
+new_leads_1/CLINIC-CHECK-TABLE-2026-08-15.md,10700,fe022f534b6df5de,2026-08-15 13:05,2026-08-15 13:05,n,0,0,Clinic check table — new_leads_1 (42 clinics)
+new_leads_1/CONTACT-LIST-BATCH-9-2026-08-19.md,8728,3abf64ac0b8e39a3,2026-08-19 19:24,2026-08-19 19:33,n,0,0,Batch 9 — contact list and wedges
+new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5.csv,2828,40afa97f55c972aa,2026-08-14 16:34,2026-08-14 16:34,n,0,0,"CSV, header: ﻿Clinic Name,Clinic Website,Insta Handle,LinkedIn"
+new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5_all.csv,2828,40afa97f55c972aa,2026-08-14 16:34,2026-08-14 16:34,n,0,0,"CSV, header: ﻿Clinic Name,Clinic Website,Insta Handle,LinkedIn"
+new_leads_1/DAY0-DMS-2026-08-20.md,6041,ed526a54fcb5fe58,2026-08-20 16:07,2026-08-20 16:17,n,0,0,Day-0 DMs — Elixir · Maya Medi Spa · Regenique
+new_leads_1/DAY0-DMS-2026-08-23.md,10939,754dff58018babf8,2026-08-23 18:01,2026-08-23 18:01,n,0,0,Day-0 DMs — Elixir · Maya Medi Spa · Regenique
+new_leads_1/FLAG-RESOLUTIONS-2026-08-15.md,7781,57b1a8e4f67fe83e,2026-08-15 19:12,2026-08-15 19:12,n,0,0,"Flag resolutions 21–31 — Tilak's manual checks, 2026-08-15"
+new_leads_1/Mystery_Shop_2026-08-15-1.zip,9893311,80457a435513d7a1,2026-08-19 13:09,2026-08-19 13:09,n,0,0,ZIP archive
+new_leads_1/OPEN-CHECKS-2026-08-15.md,7898,68a9bb32f53f272b,2026-08-15 02:58,2026-08-15 02:58,n,0,0,new_leads_1 — the 16 open checks
+new_leads_1/SESSION-HANDOFF-2026-08-15.md,13471,7cc8038c3d1ce744,2026-08-15 04:14,2026-08-15 04:14,n,0,0,Session handoff — new_leads_1 ads + Instagram audit
+new_leads_1/SHOP-9-WEDGE-REVIEW-2026-08-19.md,13362,6d69e3ca761699c4,2026-08-19 13:19,2026-08-19 13:19,n,0,0,Batch 9 — wedge review of `mystery shop 9.md`
+new_leads_1/SHOP-QUEUE-01-10-2026-08-15.md,7669,644801d3fb42f3e3,2026-08-15 15:45,2026-08-15 15:45,n,0,0,Mystery-shop queue — positions 1–10
+new_leads_1/SHOP-QUEUE-11-20-2026-08-15.md,6276,71186bb40f420f29,2026-08-15 15:00,2026-08-15 15:00,n,0,0,Mystery-shop queue — positions 11–20
+new_leads_1/SHOP-QUEUE-2026-08-15.md,4039,4df4a0eaf91edcfb,2026-08-15 15:01,2026-08-15 15:01,n,0,0,Mystery-shop queue — new_leads_1
+new_leads_1/SHOP-QUEUE-REMAINDER-2026-08-15.md,11298,7ecfbaacfb613997,2026-08-15 16:58,2026-08-15 16:58,n,0,0,The remaining 22 — everything outside shop-queue positions 1–20
+new_leads_1/WEDGE-ANGLES-BATCH-9-2026-08-19.md,26844,9e2db52ff175c346,2026-08-19 14:00,2026-08-19 14:27,n,0,0,Batch 9 — final wedge & observation angles
+new_leads_1/build_targets.py,3731,b5f5af1a0e740480,2026-08-15 02:07,2026-08-15 02:07,n,0,0,PY: #!/usr/bin/env python3
+new_leads_1/consolidate.py,6845,ba5e5f685305a8a8,2026-08-15 02:44,2026-08-15 02:44,n,0,0,PY: #!/usr/bin/env python3
+new_leads_1/fb_search_results.json,7090,dcf566925589550a,2026-08-15 02:32,2026-08-15 02:33,n,0,0,"JSON array, 26 items, keys: id,clinic,found,accepted"
+new_leads_1/fb_search_round3.json,2565,3ebd936485b21ff7,2026-08-15 02:41,2026-08-15 02:41,n,0,0,"JSON array, 13 items, keys: id,clinic,slug,title,shared"
+new_leads_1/fb_url_provenance.json,4525,67337c6fe50d3823,2026-08-15 02:20,2026-08-15 02:20,n,0,0,"JSON array, 38 items, keys: id,clinic,slug,src"
+new_leads_1/fb_urls.json,2408,12c6a2c7e9e8e9a6,2026-08-15 02:20,2026-08-15 02:20,n,0,0,"JSON array, 38 items, keys: url"
+new_leads_1/fb_urls2.json,566,fb75e43fdbec81cb,2026-08-15 02:33,2026-08-15 02:33,n,0,0,"JSON array, 9 items, keys: url"
+new_leads_1/find_socials.py,3132,3258161c6dfdcf18,2026-08-15 02:18,2026-08-15 02:18,n,0,0,PY: #!/usr/bin/env python3
+new_leads_1/gads_detail/1.json,10926,f3b3d8d5a525d34a,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/10.json,4547,eeeade58af805574,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 10 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/11.json,9705,645fa4aa4d45bfc9,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 22 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/14.json,455,4f8fc01a536fb964,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/16.json,5887,bb07e9085472f556,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 13 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/20.json,437,7fd2c4b96f22b19d,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/26.json,916,f405e8cb8ea87a62,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 2 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/28.json,880,20ce02f8d3096f66,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 2 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/3.json,10938,3f46edced94e1e54,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/30.json,12773,97737a1d4e82e6ac,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/35.json,20552,5139cbfe38cc87b8,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/36.json,11343,c4052336dba9ab16,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/39.json,434,8f336e3cad02dbb8,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/40.json,10815,410153184ff5b134,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/5.json,3135,ac543678aa10cbc9,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 7 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/6.json,7398,ab76fe2215791687,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 17 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/7.json,3936,5a6e2800b3bf6a96,2026-08-15 02:35,2026-08-15 02:35,n,0,0,"JSON array, 9 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/9.json,4648,c0919b69ec3c0a85,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 9 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_queries.json,5440,d3676fac00c528bc,2026-08-15 02:10,2026-08-15 02:10,n,0,0,"JSON array, 42 items, keys: id,clinic,q"
+new_leads_1/gads_recency.py,2465,8b276f77b8fe9a78,2026-08-15 02:35,2026-08-15 02:35,n,0,0,PY: #!/usr/bin/env python3
+new_leads_1/google-ads-raw-2026-08-15.json,3717,ce83e0187c09c851,2026-08-15 02:16,2026-08-15 02:16,n,0,0,"JSON object, keys: _meta,clinics_with_zero_hits,in_rows"
+new_leads_1/google-ads-recency.json,5075,fa0142cc69e6841a,2026-08-15 02:36,2026-08-15 02:36,n,0,0,"JSON array, 21 items, keys: id,clinic,advertiser,advertiserId,creatives_seen,first"
+new_leads_1/instagram-raw-2026-08-15.json,1965896,e708a314c77eea88,2026-08-15 02:28,2026-08-15 02:28,n,0,0,"JSON array, 37 items, keys: inputUrl,id,username,url,fullName,biography"
+new_leads_1/instagram-summary.json,13352,fce08009c39cd1f3,2026-08-15 02:28,2026-08-15 02:51,n,0,0,"JSON array, 42 items, keys: id,clinic,handle,followers,posts,verified"
+new_leads_1/meta-ads-raw-2026-08-15.json,206966,d569e037467dca02,2026-08-15 02:25,2026-08-15 02:25,n,0,0,"JSON array, 38 items, keys: url,error,errorDescription"
+new_leads_1/meta-ads-summary-round2.json,2074,84fc180ba9e3458a,2026-08-15 02:34,2026-08-15 02:34,n,0,0,"JSON array, 9 items, keys: id,clinic,slug,state,fb_page_name,page_id"
+new_leads_1/meta-ads-summary-round3.json,1790,13fabb911c191ed3,2026-08-15 02:43,2026-08-15 02:43,n,0,0,"JSON array, 7 items, keys: id,clinic,slug,state,fb_page_name,page_id"
+new_leads_1/meta-ads-summary.json,10623,688f25966e1cedbb,2026-08-15 02:25,2026-08-15 02:25,n,0,0,"JSON array, 38 items, keys: id,clinic,src,slug,fb_page_name,page_id"
+new_leads_1/mystery shop 9.md,27574,5813dff483f3ecf8,2026-08-19 13:11,2026-08-19 13:11,n,0,0,Mystery Shop 9 — Batch 9 Clinics (SHOP-QUEUE positions 11–20)
+new_leads_1/results.json,36357,827b6c0534dd35f6,2026-08-15 02:37,2026-08-15 02:51,n,0,0,"JSON array, 42 items, keys: id,clinic,source,website,ig_handle,google"
+new_leads_1/socials.json,9546,6cf92ed0012ae8da,2026-08-15 02:18,2026-08-15 02:18,n,0,0,"JSON array, 42 items, keys: id,clinic,website,fb,fb_all,ig_on_site"
+new_leads_1/targets.json,10424,d67ba6b191cecdb7,2026-08-15 02:07,2026-08-15 02:51,n,0,0,"JSON array, 42 items, keys: clinic,source,website,ig,linkedin,key"
+new_leads_1/zone-leads.md,4224,1a508ad4e5a81621,2026-08-14 22:16,2026-08-14 22:16,n,0,0,Central zone
+one-pager-handoff/BUILD_GUIDE.md,11096,5f8b21491ca757bc,2026-08-03 15:00,2026-08-03 15:00,n,0,0,Build Guide — Revenue Diagnostic One-Pagers
+one-pager-handoff/CLAUDE.md,6554,d1c83515320110f6,2026-08-14 13:59,2026-08-14 13:59,n,0,0,Valence Ops — Revenue Diagnostic One-Pagers
+one-pager-handoff/COPY_STANDARD.md,15179,868de9b976fd931c,2026-08-14 13:59,2026-08-14 13:59,n,0,0,Copy Standard — Revenue Diagnostic One-Pagers
+one-pager-handoff/diagnostic_doc_playbook.md,16529,49176f9ba4bc18db,2026-08-13 02:49,2026-08-14 14:00,n,0,0,The Diagnostic One-Pager — Playbook
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.html,66123,6bf29f5161f4be48,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: DNA Skin Clinic — Revenue Diagnostic
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.jpg,477801,31f38c8fa49d14e9,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.pdf,89341,bd404922c3be7fd9,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.html,65243,852b643a93dc6eba,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: Dr. Dixit Cosmetic Dermatology Clinic — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.jpg,342366,8f992d282ce41af2,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.pdf,88021,b8ea3f8fcfab9292,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.html,65090,2c47727f66e10102,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: Dr. Juvita Aesthetics — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg,449813,54ee34f7ab2a0e63,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf,84590,52c9d32b2965bd34,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html,65773,616e5d711654df63,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: Dr. Swetha's Cosmoderm Centre — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg,436884,f2fd5896e5ed0607,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf,91723,1b8b8c97f8f77aa5,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.html,65907,ce895c3cd0e11257,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: Ministry of Skin — Revenue Diagnostic
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.jpg,445543,a102c131ba427d52,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.pdf,90239,1204337d574de5d1,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.html,65648,0f6cdd3c4aae71dc,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: The Glow Clinic — Revenue Diagnostic
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.jpg,423151,f018cb66c5f3b7d8,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.pdf,85003,9503677004603b77,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html,66351,fec5febc569774fb,2026-08-03 14:53,2026-08-03 14:53,n,0,0,HTML: Vtiara Hair & Skin Clinic — Revenue Diagnostic
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg,494108,7d85d4698e8cee31,2026-08-03 14:53,2026-08-03 14:53,n,0,0,JPEG image
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf,89718,86cb47f0c055b535,2026-08-03 14:53,2026-08-03 14:53,n,0,0,PDF document
+one-pager-handoff/wedge-signal-entry.md,18878,0e776b5c6565b9fc,2026-08-03 14:53,2026-08-14 01:13,n,0,0,"Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook"
+outbound-process-changes-2026-08-11.md,14188,bb5579285e92079d,2026-08-13 17:53,2026-08-13 17:54,n,0,0,Outbound process — proposed changes
+outreach-aesthetica-veda-vaibhav-whatsapp.md,11986,0dc77007b0e55b81,2026-08-16 16:20,2026-08-16 16:20,n,0,0,"Aesthetica Veda — Dr. Vybhav Deraje, WhatsApp first touch (Tilak takes over)"
+outreach-drafts-glow-clinic.md,2424,c3715a253f306c6d,2026-07-29 02:31,2026-07-29 02:31,n,0,0,Outreach Drafts — The Glow Clinic
+outreach-drafts-ministry-of-skin.md,3138,d3842c3b5e602850,2026-07-29 20:29,2026-07-29 20:29,n,0,0,Outreach Drafts — Ministry of Skin
+outreach-drafts-utkarsha-to-evenly.md,33084,243b6e76c1327da8,2026-07-25 22:18,2026-07-25 22:18,n,0,0,Outreach Drafts — Dr. Utkarsha's → Evenly Skin and Hair Clinic
+outreach-drafts-vtiara.md,6668,0afe6faa035ea639,2026-07-29 21:04,2026-07-30 03:08,n,0,0,Outreach Drafts — Vtiara Hair & Skin Clinic
+outreach-emails-utkarsha-keshav-karishma-dixit-juvita.md,5220,9b13ad4ac66aba50,2026-07-25 21:06,2026-07-25 21:06,n,0,0,Cold emails — the 5 contacts with email but no DM channel
+personalized-outbound-v2.md,22162,68206afa961d9a9c,2026-08-13 17:52,2026-08-13 17:52,y,0,0,Personalized Outbound — ValenceOps × Indian Elective Clinics
+prompt-research-clinics-11-15.md,8937,1f97c8853f32dc53,2026-08-08 16:10,2026-08-08 16:10,n,0,0,Prompt — Research Clinics #11–15 (ScrapeGraphAI / Claude Code)
+revenue_os_discovery_audit_fillable.pdf,66561,d7e7c0a9ed2ad07f,2026-08-05 17:27,2026-08-05 17:27,n,0,0,PDF document
+sales-motion/01-reply-to-call.md,9453,be3e1f5b40acbe87,2026-08-04 17:05,2026-08-13 17:52,n,0,0,01 — Reply to Booked Call
+sales-motion/02-credibility-packet.md,12627,934da369fa3f085a,2026-08-04 17:06,2026-08-13 17:52,n,0,0,02 — The Credibility Packet
+sales-motion/03-operations-call.md,15601,fd7aa5dc3cc6f298,2026-08-04 17:07,2026-08-04 17:07,n,0,0,03 — The Operations Call
+sales-motion/04-findings-and-rollout.md,10934,c67bcef295a9319c,2026-08-04 17:08,2026-08-04 17:08,n,0,0,04 — Findings and Rollout Plan
+sales-motion/05-pilot-and-onboarding.md,10535,1ffd877eaa62a710,2026-08-04 17:09,2026-08-13 17:52,n,0,0,05 — Pilot Agreement and the First 14 Days
+sales-motion/client-facing/HOW-WE-WORK.md,9168,69546e64e33e1c7d,2026-08-13 17:50,2026-08-13 17:50,n,0,0,How We Work
+se-bangalore-scrape/ADS-PRESENCE-2026-08-14.md,11985,3f8d3cfe33046b8a,2026-08-14 15:54,2026-08-14 15:54,n,0,0,SE Bangalore — paid-ads presence & Instagram audit
+se-bangalore-scrape/NEW-CLINICS-TABLE.md,12210,9f23acc11c30a74b,2026-08-10 22:25,2026-08-10 22:25,n,0,0,New clinic prospects — SE Bangalore & outer expansion (scraped 2026-08-10)
+se-bangalore-scrape/QUALIFIED-TARGETS-2026-08-14.md,23323,755950d15e940be8,2026-08-14 14:23,2026-08-14 14:24,n,0,0,SE Bangalore — qualified outreach targets
+se-bangalore-scrape/SHORTLIST-2026-08-14.md,12662,9cbffd8952fa8f1c,2026-08-14 20:57,2026-08-14 20:57,n,0,0,SE Bangalore — shortlist from the 35-clinic working list
+se-bangalore-scrape/autosave.log,68,a107cf6b318667d2,2026-08-10 22:16,2026-08-10 22:17,n,0,0,LOG: eleccity snapshot: 3
+se-bangalore-scrape/autosave.sh,1016,255d6740a5990117,2026-08-10 22:16,2026-08-10 22:16,n,0,0,SH: #!/bin/zsh
+se-bangalore-scrape/gen_targets.py,10547,0e3bdaf72ec9edbf,2026-08-14 14:25,2026-08-14 14:25,n,0,0,"PY: import json, glob, os, re"
+se-bangalore-scrape/process.py,11822,fca05048e17dfdd4,2026-08-10 22:25,2026-08-10 22:25,n,0,0,PY: #!/usr/bin/env python3
+se-bangalore-scrape/raw/bannerghatta.json,365454,e8634789b54dcebb,2026-08-10 22:17,2026-08-10 22:21,n,0,0,"JSON array, 75 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/bommanahalli_partial.json,15457,4c232b76de60aa4b,2026-08-10 22:16,2026-08-10 22:16,n,0,0,"JSON array, 4 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/eleccity.json,246726,257a608b96eebb78,2026-08-10 22:16,2026-08-10 22:21,n,0,0,"JSON array, 57 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/hsr.json,382180,887a3a719aa94f47,2026-08-10 22:15,2026-08-10 22:15,n,0,0,"JSON array, 78 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/sarjapur_partial.json,179403,5de330856888c556,2026-08-10 22:15,2026-08-10 22:16,n,0,0,"JSON array, 37 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/results.json,44312,37ed9e01181b3fea,2026-08-10 22:22,2026-08-10 22:25,n,0,0,"JSON object, keys: qualified,excluded,below_bar,noise"
+taste-n-judgement.md,46660,3427f299171bd72b,2026-09-05 21:34,2026-09-05 21:34,n,0,0,taste-n-judgement.md
+valenceops_context_1.pdf,80919,ed700016427a7c27,2026-06-12 23:39,2026-06-12 23:39,n,0,0,PDF document
+verify-2026-08-18/DISQUALIFIED.md,700,4ce090388c456fc7,2026-08-19 16:10,2026-08-19 16:10,n,0,0,"Disqualified — Tilak's call, 18 Aug 2026"
+verify-2026-08-18/ENQUIRY-FLOW-SHORTLIST.md,4994,b4bb080e86864da5,2026-08-19 16:22,2026-08-19 16:22,n,0,0,Enquiry-flow shortlist — 2026-08-19
+verify-2026-08-18/FINAL-TABLE.md,4843,ac14e2ab98dd23dd,2026-08-18 17:01,2026-08-19 16:10,n,0,0,(no readable first line)
+verify-2026-08-18/QUALIFIED-LEADS-2026-08-19.md,5354,f384108cdb8ca453,2026-08-19 16:57,2026-08-19 16:57,n,0,0,Qualified leads — 2026-08-19
+verify-2026-08-18/QUALIFIED-LEADS-2026-08-20.md,3721,c2f8ea731c23d1d4,2026-08-20 15:47,2026-08-25 11:42,n,0,0,(no readable first line)
+verify-2026-08-18/RESUME.md,2758,da61812fe575316a,2026-08-18 18:03,2026-08-18 18:03,n,0,0,"Resume note — 2026-08-18, stopped mid-job"
+verify-2026-08-18/domains.json,5213,7c314031c3fbcd9c,2026-08-18 16:48,2026-08-18 16:48,n,0,0,"JSON array, 56 items, keys: name,domain"
+verify-2026-08-18/doms.txt,438,95ba8b4e41c87a78,2026-08-19 02:21,2026-08-19 02:21,n,0,0,TXT: iskinclinic.in
+verify-2026-08-18/fetchig.sh,603,aab8d6ef4c14f241,2026-08-19 02:21,2026-08-19 02:21,n,0,0,SH: #!/bin/bash
+verify-2026-08-18/gads.json,1800,ba2732ce103600ef,2026-08-18 16:53,2026-08-18 16:53,n,0,0,"JSON object, keys: drnamratasingh.com,ahisaesthetics.com,consultdrharini.in,dyuaesthetics.com,allureskincare.co,calyxskinlab.com,hairline.co.in,mairawellness.com"
+verify-2026-08-18/gbp.json,3738,98035e098609ce24,2026-08-18 16:42,2026-08-18 16:42,n,0,0,"JSON array, 20 items, keys: q,t,s,r,ph,w"
+verify-2026-08-18/state.json,48863,d83ed13f1fa6cf9a,2026-08-18 16:39,2026-08-25 11:42,n,0,0,"JSON object, keys: generated,budget_usd_start,spent_usd,rows,method_notes,ig_rejected_impostors"
+wedge-signal-entry.md,18878,0e776b5c6565b9fc,2026-08-13 02:46,2026-08-13 02:46,n,0,0,"Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook"
+
+## EXACT DUPLICATES (same sha256)
+checksum,paths
+44136fa355b3678a,.obsidian/app.json | .obsidian/appearance.json
+d65165279105ca67,One-page-docs/.DS_Store | Proposals & SOW/.DS_Store | Resources/.DS_Store
+6bf29f5161f4be48,One-page-docs/DNA Skin Clinic - Revenue Diagnostic.html | one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.html
+31f38c8fa49d14e9,One-page-docs/DNA Skin Clinic - Revenue Diagnostic.jpg | one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.jpg
+bd404922c3be7fd9,One-page-docs/DNA Skin Clinic - Revenue Diagnostic.pdf | one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.pdf
+852b643a93dc6eba,One-page-docs/Dr. Dixit - Revenue Diagnostic.html | one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.html
+8f992d282ce41af2,One-page-docs/Dr. Dixit - Revenue Diagnostic.jpg | one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.jpg
+b8ea3f8fcfab9292,One-page-docs/Dr. Dixit - Revenue Diagnostic.pdf | one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.pdf
+2c47727f66e10102,One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.html | one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.html
+54ee34f7ab2a0e63,One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg | one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg
+52c9d32b2965bd34,One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf | one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf
+616e5d711654df63,One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html | one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html
+f2fd5896e5ed0607,One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg | one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg
+1b8b8c97f8f77aa5,One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf | one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf
+ce895c3cd0e11257,One-page-docs/Ministry of Skin - Revenue Diagnostic.html | one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.html
+a102c131ba427d52,One-page-docs/Ministry of Skin - Revenue Diagnostic.jpg | one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.jpg
+1204337d574de5d1,One-page-docs/Ministry of Skin - Revenue Diagnostic.pdf | one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.pdf
+0f6cdd3c4aae71dc,One-page-docs/The Glow Clinic - Revenue Diagnostic.html | one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.html
+f018cb66c5f3b7d8,One-page-docs/The Glow Clinic - Revenue Diagnostic.jpg | one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.jpg
+9503677004603b77,One-page-docs/The Glow Clinic - Revenue Diagnostic.pdf | one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.pdf
+fec5febc569774fb,One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html | one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html
+7d85d4698e8cee31,One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg | one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg
+86cb47f0c055b535,One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf | one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf
+49176f9ba4bc18db,One-page-docs/diagnostic_doc_playbook.md | one-pager-handoff/diagnostic_doc_playbook.md
+65cc69b36431396c,Proposals & SOW/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf | Resources/_source/aurilueur-proposal/out.pdf
+17f1a02a32e8df7f,Proposals & SOW/RUA Skin & Hair Center - Patient Communications Proposal.pdf | Resources/_source/rua-proposal/rua-out.pdf
+6e7185357181380e,Proposals & SOW/RUA Skin & Hair Center - Scope of Work.pdf | Resources/_source/rua-sow/rua-sow-out.pdf
+312164ca9911238f,Proposals & SOW/SkinFit Wellness - Patient Communications Proposal v2.pdf | Resources/_source/skinfit-proposal-v2/out.pdf
+cdedb1729acac414,Resources/_source/aurilueur-proposal/fonts/Poppins-400-normal.ttf | Resources/_source/rua-proposal/fonts/Poppins-400-normal.ttf | Resources/_source/skinfit-proposal-v2/fonts/Poppins-400-normal.ttf | Resources/_source/skinfit-proposal/fonts/Poppins-400-normal.ttf
+cc581d84062e9ae7,Resources/_source/aurilueur-proposal/fonts/Poppins-500-italic.ttf | Resources/_source/rua-proposal/fonts/Poppins-500-italic.ttf | Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-italic.ttf | Resources/_source/skinfit-proposal/fonts/Poppins-500-italic.ttf
+fcff04f4bec2b363,Resources/_source/aurilueur-proposal/fonts/Poppins-500-normal.ttf | Resources/_source/rua-proposal/fonts/Poppins-500-normal.ttf | Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-normal.ttf | Resources/_source/skinfit-proposal/fonts/Poppins-500-normal.ttf
+dae40ca7b35fe750,Resources/_source/aurilueur-proposal/fonts/Poppins-600-normal.ttf | Resources/_source/rua-proposal/fonts/Poppins-600-normal.ttf | Resources/_source/skinfit-proposal-v2/fonts/Poppins-600-normal.ttf | Resources/_source/skinfit-proposal/fonts/Poppins-600-normal.ttf
+a4c6d83f6a134f0d,Resources/_source/aurilueur-proposal/style.css | Resources/_source/rua-proposal/style.css | Resources/_source/skinfit-proposal-v2/style.css | Resources/_source/skinfit-proposal/style.css
+507bcc5ee3128748,Resources/_source/skinfit-proposal-v2/README.md | Resources/_source/skinfit-proposal/README.md
+40afa97f55c972aa,new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5.csv | new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5_all.csv
+0e776b5c6565b9fc,one-pager-handoff/wedge-signal-entry.md | wedge-signal-entry.md
+
+## ORPHANS (0 links in AND 0 links out; excludes .obsidian/.claude/.DS_Store/.gitignore)
+path,size_bytes,description
+AI Readiness Workbook .pdf,225721,PDF document
+AURILUEUR-BANGALORE-PRICE-BENCHMARKS-2026-09-05.md,15417,Bangalore Published Price Benchmarks — 11 Treatment Categories
+AURILUEUR-REVENUE-RESEARCH-2026-09-05.md,32866,"Aurilueur Esthetic Clinic — Revenue, Service Mix and Economics Research"
+Audit_call_docs/01_shadow_audit_checklist.docx,16416,Word document
+Audit_call_docs/01_shadow_audit_checklist.md,12175,**VALENCE OPS**
+Audit_call_docs/02_data_intake_requirements.docx,13380,Word document
+Audit_call_docs/02_data_intake_requirements.md,7903,**VALENCE OPS**
+Audit_call_docs/03_discovery_call_question_map.docx,16589,Word document
+Audit_call_docs/03_discovery_call_question_map.md,13522,**VALENCE OPS**
+CLAUDE.md,10849,Valence Ops — Outbound & Sales
+COHORT-INDEX.md,5175,"Cohort Index — every clinic cohort, where it lives, what state it's in"
+EVENT-SNAPSHOT-2026-09-02.md,17500,ValenceOps — Event Snapshot
+LEGAL-AND-COMMERCIAL-DOC-SET.md,45569,Legal & Commercial Document Set — Interested Client → Signed → Build Start
+MEETING-BRIEF-sapphire-2026-08-13.md,18783,Sapphire Skin & Aesthetics — Meeting Brief
+MEETING-BRIEF-skinfit-2026-08-18.md,24816,Meeting Brief — SkinFit Wellness / Gino Tharakan · Mon 18 Aug 2026
+MEMORY.md,33259,Memory — Valence Ops Outbound & Sales
+Mystery_Shop_2026-08-15/Aestheticaa_Dr_Madhulika_AcnePeel_2026-08-15.jpg,763881,JPEG image
+Mystery_Shop_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15_Part1.jpg,812838,JPEG image
+Mystery_Shop_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15/Body_Science_The_Aesthetic_Clinic_HairFall_2026-08-15_Part2.jpg,768019,JPEG image
+Mystery_Shop_2026-08-15/Divine_Aesthetics_AcneTreatment_2026-08-15.jpg,806570,JPEG image
+Mystery_Shop_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15_Part1.jpg,809153,JPEG image
+Mystery_Shop_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15/Dr_Sood_Aesthetics_HairFall_2026-08-15_Part2.jpg,803098,JPEG image
+Mystery_Shop_2026-08-15/Elixir_Advanced_Aesthetics_HairLoss_2026-08-15.jpg,824137,JPEG image
+Mystery_Shop_2026-08-15/Kavana_Dermo_Glamm_HairFall_2026-08-15.jpg,798412,JPEG image
+Mystery_Shop_2026-08-15/Maya_HairFall_2026-08-15.jpg,779621,JPEG image
+Mystery_Shop_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15_Part1.jpg,746844,JPEG image
+Mystery_Shop_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15/Moon_Aesthetic_HairFall_2026-08-15_Part2.jpg,734068,JPEG image
+Mystery_Shop_2026-08-15/Regenique_Dermatology_and_Aesthetics_HairThinning_2026-08-15.jpg,804942,JPEG image
+Mystery_Shop_2026-08-15/Sun_Light_Skin_Clinic_HairSpa_2026-08-15.jpg,747942,JPEG image
+ONE-PAGER-AUDIT-AND-TEST-PLAN.md,18096,One-Pager Audit & Outbound Test Plan
+ONE-PAGER-STEELMAN-2026-08-14.md,20625,The One-Pager — Steel-Man Review
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.html,66226,HTML: Aesthetica Veda — Revenue Diagnostic
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.jpg,354907,JPEG image
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.pdf,84729,PDF document
+One-page-docs/Aesthetica Veda - Revenue Diagnostic.png,329940,PNG image
+One-page-docs/Akera Health - Enquiry Diagnostic.html,64499,HTML: Akera Health — Enquiry Diagnostic
+One-page-docs/Akera Health - Enquiry Diagnostic.jpg,294490,JPEG image
+One-page-docs/Akera Health - Enquiry Diagnostic.pdf,92596,PDF document
+One-page-docs/Akera Health - Enquiry Diagnostic.png,383807,PNG image
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.html,65208,HTML: Ara Skin Clinic — Enquiry Diagnostic
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.jpg,325178,JPEG image
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.pdf,85927,PDF document
+One-page-docs/Ara Skin Clinic - Enquiry Diagnostic.png,417238,PNG image
+One-page-docs/AvatarLuxe - A Revenue Diagnostic (WhatsApp image).jpg,231194,JPEG image
+One-page-docs/AvatarLuxe - A Revenue Diagnostic.pdf,97019,PDF document
+One-page-docs/Clinic Next Face - A Revenue Diagnostic (WhatsApp image).jpg,595165,JPEG image
+One-page-docs/Clinic Next Face - A Revenue Diagnostic.pdf,127453,PDF document
+One-page-docs/Cozmo Blis - What We Found.pdf,742614,PDF document
+One-page-docs/DNA Skin Clinic - A Revenue Diagnostic (WhatsApp image).jpg,241264,JPEG image
+One-page-docs/DNA Skin Clinic - A Revenue Diagnostic.pdf,96351,PDF document
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.html,66123,HTML: DNA Skin Clinic — Revenue Diagnostic
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.jpg,477801,JPEG image
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.pdf,89341,PDF document
+One-page-docs/DNA Skin Clinic - Revenue Diagnostic.png,607097,PNG image
+One-page-docs/Derma Solutions - Enquiry Diagnostic.html,65788,HTML: Derma Solutions — Enquiry Diagnostic
+One-page-docs/Derma Solutions - Enquiry Diagnostic.jpg,335883,JPEG image
+One-page-docs/Derma Solutions - Enquiry Diagnostic.pdf,97583,PDF document
+One-page-docs/Derma Solutions - Enquiry Diagnostic.png,423992,PNG image
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.html,65836,HTML: Dermatonik Aesthetic Clinic — Enquiry Diagnostic
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.jpg,342865,JPEG image
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.pdf,84481,PDF document
+One-page-docs/Dermatonik Aesthetic Clinic - Enquiry Diagnostic.png,448664,PNG image
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.html,65531,HTML: Dermaville Skin Clinic — Revenue Diagnostic
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.jpg,337639,JPEG image
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.pdf,81622,PDF document
+One-page-docs/Dermaville Skin Clinic - Revenue Diagnostic.png,308114,PNG image
+One-page-docs/Dr. Dixit - Revenue Diagnostic.html,65243,HTML: Dr. Dixit Cosmetic Dermatology Clinic — Revenue Diagnostic
+One-page-docs/Dr. Dixit - Revenue Diagnostic.jpg,342366,JPEG image
+One-page-docs/Dr. Dixit - Revenue Diagnostic.pdf,88021,PDF document
+One-page-docs/Dr. Dixit - Revenue Diagnostic.png,475346,PNG image
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.html,65090,HTML: Dr. Juvita Aesthetics — Revenue Diagnostic
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg,449813,JPEG image
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf,84590,PDF document
+One-page-docs/Dr. Juvita Aesthetics - Revenue Diagnostic.png,572295,PNG image
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.html,65227,HTML: Dr. Priya's Skin &amp; Hair Clinic — Enquiry Diagnostic
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.jpg,326586,JPEG image
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.pdf,90890,PDF document
+One-page-docs/Dr. Priya's Skin & Hair Clinic - Enquiry Diagnostic.png,437337,PNG image
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html,65773,HTML: Dr. Swetha's Cosmoderm Centre — Revenue Diagnostic
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg,436884,JPEG image
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf,91723,PDF document
+One-page-docs/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.png,562423,PNG image
+One-page-docs/Dr. Tina's Skin Solutionz - A Revenue Diagnostic (WhatsApp image).jpg,217737,JPEG image
+One-page-docs/Dr. Tina's Skin Solutionz - A Revenue Diagnostic.pdf,95035,PDF document
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.html,64990,HTML: The Glow Clinic — Revenue Diagnostic
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.jpg,326483,JPEG image
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.pdf,89136,PDF document
+One-page-docs/Dr. Tina's Skin Solutionz - Enquiry Diagnostic.png,440499,PNG image
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.html,65343,HTML: Gejje&#39;s Marvella — Enquiry Diagnostic
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.jpg,346283,JPEG image
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.pdf,85418,PDF document
+One-page-docs/Gejje's Marvella - Enquiry Diagnostic.png,443060,PNG image
+One-page-docs/Iridescent Aesthetics - A Revenue Diagnostic (WhatsApp image).jpg,226068,JPEG image
+One-page-docs/Iridescent Aesthetics - A Revenue Diagnostic.pdf,96043,PDF document
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.html,64612,HTML: Maya Medi Spa — Enquiry Diagnostic
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.jpg,391785,JPEG image
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.pdf,92384,PDF document
+One-page-docs/Maya Medi Spa - Enquiry Diagnostic.png,585737,PNG image
+One-page-docs/Ministry of Skin - Revenue Diagnostic.html,65907,HTML: Ministry of Skin — Revenue Diagnostic
+One-page-docs/Ministry of Skin - Revenue Diagnostic.jpg,445543,JPEG image
+One-page-docs/Ministry of Skin - Revenue Diagnostic.pdf,90239,PDF document
+One-page-docs/Ministry of Skin - Revenue Diagnostic.png,574548,PNG image
+One-page-docs/Project Skin - Enquiry Diagnostic.html,65621,HTML: Project Skin — Enquiry Diagnostic
+One-page-docs/Project Skin - Enquiry Diagnostic.jpg,335917,JPEG image
+One-page-docs/Project Skin - Enquiry Diagnostic.pdf,92718,PDF document
+One-page-docs/Project Skin - Enquiry Diagnostic.png,433781,PNG image
+One-page-docs/The Glow Clinic - Revenue Diagnostic.html,65648,HTML: The Glow Clinic — Revenue Diagnostic
+One-page-docs/The Glow Clinic - Revenue Diagnostic.jpg,423151,JPEG image
+One-page-docs/The Glow Clinic - Revenue Diagnostic.pdf,85003,PDF document
+One-page-docs/The Glow Clinic - Revenue Diagnostic.png,549245,PNG image
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.html,65321,HTML: VIDA Skin &amp; Hair Transplant Clinic — Enquiry Diagnostic
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.jpg,325791,JPEG image
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.pdf,73827,PDF document
+One-page-docs/VIDA Skin & Hair Transplant Clinic - Enquiry Diagnostic.png,420035,PNG image
+One-page-docs/Venkat Center - Revenue Diagnostic.html,66353,HTML: Venkat Center — Revenue Diagnostic
+One-page-docs/Venkat Center - Revenue Diagnostic.jpg,373615,JPEG image
+One-page-docs/Venkat Center - Revenue Diagnostic.pdf,93230,PDF document
+One-page-docs/Venkat Center - Revenue Diagnostic.png,346688,PNG image
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html,66351,HTML: Vtiara Hair & Skin Clinic — Revenue Diagnostic
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg,494108,JPEG image
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf,89718,PDF document
+One-page-docs/Vtiara Hair & Skin Clinic - Revenue Diagnostic.png,617168,PNG image
+One-page-docs/diagnostic_doc_playbook.md,16529,The Diagnostic One-Pager — Playbook
+PAPERWORK-HANDBOOK-2026-09-06.md,41918,"Paperwork Handbook — every document, what it does, how long it lives"
+PRICING-BUILD-COST-2026-08-21.md,21402,Build cost and pricing model — the six-system stack
+PROCESS-MAP.md,14326,Valence Ops — The Outbound Process As It Actually Runs Today
+Pitch-decks/sapphire-skin-clinic.pdf,10190527,PDF document
+Pre-outbound-research/OUTREACH document.md,51604,**OUTREACH document**
+Pre-outbound-research/batch7/11-gejjes-marvella.md,6043,Gejje's Marvella
+Pre-outbound-research/batch7/12-haircosmos-international.md,8153,Haircosmos International
+Pre-outbound-research/batch7/13-ara-skin-clinic.md,6930,Ara Skin Clinic
+Pre-outbound-research/batch7/14-dr-priyas-skin-and-hair-clinic.md,6961,Dr. Priya's Skin & Hair Clinic
+Pre-outbound-research/batch7/15-akera-health.md,7219,Akera Health
+Pre-outbound-research/batch7/16-derma-solutions.md,8060,Derma Solutions
+Pre-outbound-research/batch7/18-theory-of-skin.md,6307,Theory of Skin
+Pre-outbound-research/batch7/19-dermatonik.md,7236,Dermatonik
+Pre-outbound-research/batch7/20-vida-skin-and-hair-transplant.md,5925,VIDA Skin & Hair Transplant Clinic
+Pre-outbound-research/batch7/21-vitals-klinic.md,9022,Vitals Klinic
+Pre-outbound-research/batch7/22-krity-360.md,7989,Krity 360
+Pre-outbound-research/batch7/25-project-skin.md,9213,Project Skin Dermatology & Aesthetic Clinic
+Pre-outbound-research/batch7/BATCH7-CONSOLIDATED-STATE.md,20446,"Batch 7 (Notion ""Batch 2"") — Consolidated State"
+Pre-outbound-research/batch7/BATCH7-FOLLOWUP2-MESSAGES.md,8121,"Batch 7 — Follow-up 2 messages, one per clinic"
+Pre-outbound-research/batch7/BATCH7-MASTER-ALL-CLINICS.md,92040,"Batch 7 — Master Consolidated Record, All Clinics"
+Pre-outbound-research/batch7/BATCH7-WEDGE-BRIEF.md,42646,Batch 7 — Observation Brief for the Follow-up-2 One-Pagers
+Pre-outbound-research/batch7/batch-11-15-summary.md,11567,"Batch #11–15 Summary — Vitals Klinic, Krity 360, D White Feather, Dr AG Skin & Hair, Project Skin"
+Pre-outbound-research/batch7/go-list-full-report.md,55220,Pre-Outbound Research — Full Batch Report
+Pre-outbound-research/batch7/mystery-shop-b7/akera-health.png,1361714,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/ara-skin.png,1402655,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dermatonik-1.png,3345282,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dermatonik-2.png,2818847,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/dr-priya.png,1400071,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/gejjes-marvella.png,1370968,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/krity-360-wa.png,1301311,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/project-skin.png,1321002,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/theory-of-skin.png,1278450,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vida-skin-n-hair.png,1244261,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vital-skin-1.png,1528615,PNG image
+Pre-outbound-research/batch7/mystery-shop-b7/vital-skin-2.png,1673048,PNG image
+Pre-outbound-research/outreach -2.md,43325,**outreach \-2**
+Pre-outbound-research/outreach 3.md,66261,**outreach-3**
+Pre-outbound-research/outreach 4 (1).md,12464,**outreach-4**
+Pre-outbound-research/outreach-5 (1).md,15460,**outreach-5**
+Pre-outbound-research/rua-skin-hair-CALL-DOSSIER-2026-08-25.md,44531,RUA Skin & Hair Center — Sales Call Dossier
+Pre-outbound-research/south-bangalore-scrape-2026-08-10.csv,2917,"CSV, header: clinic_name,locality,rating,reviews_total,website,instagram,ig_followers"
+Project-Hand-Off/00-START-HERE.md,7860,"START HERE — Valence Ops, mobile working context"
+Project-Hand-Off/01-STATE-OF-PLAY.md,6462,STATE OF PLAY — as of 13 August 2026
+Project-Hand-Off/02-BUYER-OFFER-AND-DEMO.md,8960,"THE BUYER, THE OFFER, AND WHAT CAN BE DEMONSTRATED"
+Project-Hand-Off/03-DRAFTING-ENGINE.md,12716,THE DRAFTING ENGINE — how to write to these clinics
+Project-Hand-Off/04-WEDGE-ROUTING.md,11390,"QUALIFICATION, THE MYSTERY SHOP, AND WEDGE ROUTING"
+Project-Hand-Off/05-CLINIC-INVENTORY.md,17797,CLINIC INVENTORY — snapshot 13 August 2026
+Project-Hand-Off/06-DECISIONS-AND-LEARNINGS.md,10050,"DECISIONS AND LEARNINGS — what was tried, what happened, what was rejected"
+Project-Hand-Off/PROJECT-INSTRUCTIONS-paste-this.txt,8352,TXT: ═══════════════════════════════════════════════════════════════════════
+Project-Hand-Off/SETUP.md,3678,"Setup — 4 minutes, once"
+Proposals & SOW/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf,132356,PDF document
+Proposals & SOW/RUA Skin & Hair Center - Patient Communications Proposal.pdf,177070,PDF document
+Proposals & SOW/RUA Skin & Hair Center - Scope of Work.pdf,153733,PDF document
+Proposals & SOW/SkinFit Wellness - Enquiry System Strategy.html,78702,HTML: SkinFit Wellness — Enquiry System Strategy
+Proposals & SOW/SkinFit Wellness - Enquiry System Strategy.pdf,110394,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Communications Proposal v2.pdf,150989,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Communications Proposal.pdf,147133,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion Proposal.pdf,254827,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion System.pdf,207302,PDF document
+Proposals & SOW/SkinFit Wellness - Patient Conversion and Intelligence System.pdf,234008,PDF document
+Proposals & SOW/SkinFit Wellness - Scope of Work.pdf,151011,PDF document
+RUNSHEET-aureliere-2026-08-21.md,5688,"Runsheet — ""Aureliere Clinic"" call · Fri 21 Aug 2026"
+RUNSHEET-skinfit-gino-2026-08-18.md,12114,Run-sheet — Gino Tharakan / SkinFit Wellness · Mon 18 Aug 2026
+Research-docs/01-rua-skin-and-hair-center.md,5523,Rua Skin & Hair Center
+Research-docs/02-skin-and-recon.md,5801,Skin and Recon
+Research-docs/03-koza-aesthetic-care.md,6148,Koza Aesthetic Care
+Research-docs/04-advanced-grohair-gloskin-jayanagar.md,5120,Advanced GroHair GloSkin — Jayanagar branch
+Research-docs/05-ss-aesthetic-clinic.md,3713,SS Aesthetic Clinic
+Research-docs/06-contour-cosmetic-clinic.md,5677,Contour Cosmetic Clinic
+Research-docs/07-sanssouci-wellness-clinic.md,4777,Sanssouci Wellness Clinic
+Research-docs/08-skinfit-wellness.md,6080,SkinFit Wellness
+Research-docs/09-sparha-aesthetic-studio.md,5928,Sparha Advanced Aesthetic Studio
+Research-docs/10-feather-touch-aesthetic-clinic.md,5647,Feather Touch Aesthetic Clinic & Academy
+Resources/Aurilueur Esthetic Clinic - Intake Form (Post-Meeting).md,5236,Aurilueur Esthetic Clinic — Post-Meeting Intake Form
+Resources/Aurilueur Esthetic Clinic - Operations Findings.pdf,70448,PDF document
+Resources/Aurilueur Esthetic Clinic - What We're Seeing Across Bangalore.pdf,60640,PDF document
+Resources/SkinFit Wellness - Enquiry Handling Review.pdf,128645,PDF document
+Resources/SkinFit Wellness - Patient Conversion Proposal.html,102650,HTML: SkinFit Wellness — Patient Conversion Proposal
+Resources/SkinFit Wellness - Patient Conversion System.html,92793,HTML: SkinFit Wellness — Patient Conversion System
+Resources/SkinFit Wellness - Patient Conversion and Intelligence System.html,97833,HTML: SkinFit Wellness — Patient Conversion and Intelligence System
+Resources/SkinFit Wellness - Revenue Diagnostic.pdf,29997,PDF document
+Resources/SkinFit Wellness - Scope of Work.html,82073,HTML: SkinFit Wellness — Scope of Work
+Resources/What We're Seeing Across Bangalore.pdf,58628,PDF document
+Resources/Where Enquiries Go Quiet.html,63802,HTML: Where Enquiries Go Quiet — Valence Ops
+Resources/Where Enquiries Go Quiet.jpg,405245,JPEG image
+Resources/Where Enquiries Go Quiet.pdf,77470,PDF document
+Resources/Where Enquiries Go Quiet.png,573262,PNG image
+Resources/_source/aurilueur-proposal/README.md,848,Aurilueur proposal — build kit
+Resources/_source/aurilueur-proposal/fonts/Poppins-400-normal.ttf,154628,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-500-italic.ttf,176504,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-500-normal.ttf,152860,TrueType font
+Resources/_source/aurilueur-proposal/fonts/Poppins-600-normal.ttf,151516,TrueType font
+Resources/_source/aurilueur-proposal/out.pdf,132356,PDF document
+Resources/_source/aurilueur-proposal/proposal.html,19435,HTML: Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal
+Resources/_source/aurilueur-proposal/style.css,7868,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/rua-proposal/fonts/Poppins-400-normal.ttf,154628,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-500-italic.ttf,176504,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-500-normal.ttf,152860,TrueType font
+Resources/_source/rua-proposal/fonts/Poppins-600-normal.ttf,151516,TrueType font
+Resources/_source/rua-proposal/proposal.html,26101,HTML: RUA Skin &amp; Hair Center - Patient Communications Proposal
+Resources/_source/rua-proposal/rua-out.pdf,177070,PDF document
+Resources/_source/rua-proposal/style.css,7868,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/rua-sow/rua-sow-out.pdf,153733,PDF document
+Resources/_source/rua-sow/sow.html,82468,HTML: RUA Skin &amp; Hair Center — Scope of Work
+Resources/_source/skinfit-proposal-v2/README.md,784,SkinFit proposal — build kit
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-400-normal.ttf,154628,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-italic.ttf,176504,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-500-normal.ttf,152860,TrueType font
+Resources/_source/skinfit-proposal-v2/fonts/Poppins-600-normal.ttf,151516,TrueType font
+Resources/_source/skinfit-proposal-v2/out.pdf,150989,PDF document
+Resources/_source/skinfit-proposal-v2/proposal.html,20892,HTML: SkinFit Wellness - Patient Communications Proposal
+Resources/_source/skinfit-proposal-v2/style.css,7868,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+Resources/_source/skinfit-proposal/README.md,784,SkinFit proposal — build kit
+Resources/_source/skinfit-proposal/fonts/Poppins-400-normal.ttf,154628,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-500-italic.ttf,176504,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-500-normal.ttf,152860,TrueType font
+Resources/_source/skinfit-proposal/fonts/Poppins-600-normal.ttf,151516,TrueType font
+Resources/_source/skinfit-proposal/proposal.html,19882,HTML: SkinFit Wellness - Patient Communications Proposal
+Resources/_source/skinfit-proposal/style.css,7868,CSS: @font-face{font-family:'Poppins';font-style:italic;font-weight:500;src:url('fonts/Poppins-
+SALES_MOTION.md,19880,SALES_MOTION.md — What Happens After They Reply
+SESSION-2026-08-10-se-bangalore-scrape.md,24722,Session log — SE Bangalore clinic scrape (2026-08-10)
+SKINFIT-INFORMATION-REQUEST-REVIEW.md,14889,SkinFit Information Request — Review
+SKINFIT-PROPOSAL-SOW-REVIEW-2026-08-22.md,13393,SkinFit Wellness — Proposal & SOW Review
+SKINFIT-TECH-HANDOFF-2026-08-18.md,16636,SkinFit Wellness — Technical Handoff
+SKINFIT-TECHNICAL-BRIEF.md,6063,SkinFit Wellness — Technical Brief
+_archive/README.md,4153,_archive — retired files
+_archive/Valence-Research-Intelligence/OUTREACH document.md,48733,**OUTREACH document**
+_archive/Valence-Research-Intelligence/compass_artifact_wf-247346dc-59f2-4074-abaa-8bbe66921f69_text_markdown.md,32182,Valence Ops — Commercial Intelligence Manual (Gap-Fill Run)
+_archive/Valence-Research-Intelligence/outreach -2.md,40976,**outreach \-2**
+_archive/Valence-Research-Intelligence/section 1.md,149314,"IVF, hair, dental, and aesthetic procedures in Bengaluru routinely represent ₹50,000–₹7,00,000+ of potential r"
+_archive/Valence-Research-Intelligence/section 2.md,124255,**Bengaluru Elective Clinic Market: Patient Journey and Revenue Leakage Intelligence Report**
+_archive/Valence-Research-Intelligence/section 3.md,137030,**Bengaluru Elective Healthcare Market: B2B Patient Language and Operational Friction Report**
+_archive/Valence-Research-Intelligence/section 4.md,135471,**Bengaluru Elective Clinic Owner — GTM Psychology Research**
+_archive/Valence-Research-Intelligence/section 5.md,26056,**Section 5: Objection Intelligence — How Bengaluru Elective-Clinic Owners Say No**
+_archive/Valence-Research-Intelligence/section 6.md,36965,**Website & Positioning Intelligence — Bengaluru Elective Clinics**
+_archive/Valence-Research-Intelligence/section 7.md,57723,**Competitive Intelligence Dossier: Elective Clinic Patient Acquisition & Automation in the Indian Market**
+_archive/Valence-Research-Intelligence/section 8.md,40362,**LinkedIn Intelligence Research — Indian Elective Clinic Owners (Aesthetic · Dental · Hair Transplant · IVF)*
+_archive/clinic-apify-research-skill.md,28442,Clinic Audit Research — Apify Pipeline (v2)
+_archive/elective-clinics-sales1.md,49637,Indian Elective Healthcare Industry Overview
+_archive/one-pager-handoff.zip,3268004,ZIP archive
+_archive/personalized-outbound-skill.md,15487,Personalized Outbound — ValenceOps × Indian Elective Clinics
+_archive/scrape-southeast-bangalore-RESUME.md,4406,SE Bangalore clinic scrape — paused state (2026-08-10)
+_archive/valence-ops-clinic-intelligence-os.md,16432,Valence Ops — Bengaluru Elective Clinic Market Intelligence OS
+apify-discovery-CONTEXT.md,20486,"MESSAGE 1 — CONTEXT PACK (paste this first, then wait for ""ready"")"
+apify-discovery-PROMPT.md,9328,MESSAGE 2 — THE RUN PROMPT (paste after Claude confirms Message 1)
+clinic-audit-checklist.md,6309,Clinic Audit Checklist
+clinic-research-sources.md,5607,Clinic Research — Final Source List & Ingestion Guide
+clinics/amintri-skin-hair-clinic.md,3973,AMINTRI Skin & Hair Clinic – Research Summary
+clinics/beeyens-skin-and-laser-clinic.md,3066,Beeyens Skin and Laser Clinic – Research Summary
+clinics/clinique-hair-transplant-centre.md,4394,CLINIQUE — Hair Transplant Centre (Dr. Idris) – Research Summary
+clinics/dermaqure.md,4393,Dermaqure Advanced Skin and Cosmetology Centre – Research Summary
+clinics/dr-praba-independent-clinic.md,1857,Dr. Praba — independent skin & hair clinic (pre-launch)
+clinics/evenly-skin-and-hair-clinic.md,3563,Evenly Skin and Hair Clinic – Research Summary
+clinics/looks-hair-and-skin-clinic.md,3823,Looks Hair and Skin Clinic – Research Summary
+clinics/master-scrape-log.csv,3699,"CSV, header: clinic_name,vertical_primary,location,founder_name,founder_ig_followers,clinic_ig_follower"
+clinics/mister-hair-clinic.md,4277,Mister Hair Clinic – Research Summary
+clinics/nikhilesh-dental-clinic.md,3113,Nikhilesh Dental Clinic – Research Summary
+clinics/rejected-candidates.md,3566,Rejected / Skipped Candidates — 2026-07-19 Scrape Run
+clinics/smile-world-dental-clinic.md,3048,Smile World Dental Clinic and Implant Center – Research Summary
+clinics/the-derma-theory.md,5824,The Derma Theory Hair and Skin Clinic – Research Summary
+clinics/tooth-and-root-dental-clinic.md,2827,Tooth & Root Dental Clinic – Research Summary
+clinics/vrudhii-aesthetics.md,3265,Vrudhii Aesthetics (Skin and Surgery Center) – Research Summary
+dental-discovery-CRITERIA.md,12799,Dental Discovery Criteria — Bangalore
+dental-discovery-STEP-1-QUALIFY.md,10986,STEP 1 — QUALIFY (Bangalore Dental)
+dental-discovery-STEP-2-RESEARCH.md,8425,STEP 2 — RESEARCH (Bangalore Dental)
+files/LEARNINGS_LOG.md,10807,LEARNINGS_LOG.md — dated entries: tried → happened → changed
+files/OUTBOUND_MEMORY.md,26738,OUTBOUND_MEMORY.md — Valence Ops Living Outbound Memory
+files/OUTBOUND_SYSTEM_AUDIT.md,25716,Valence Ops — Outbound System Audit & Redesign
+files/REPLY_LOG.csv,1468,"CSV, header: date_replied,clinic,reply_type,hours_to_our_response,packet_sent,personalized_video,call_b"
+files/SEND_LOG.csv,2345,"CSV, header: # FROZEN 2026-08-13 — NOT THE LEDGER. Notion ""Valence Leads tracker"" (Batch 1 + Batch 2) i"
+findings-batch-11-15.md,7615,Findings — Batch #11–15
+findings-batch7-clinics-11-20.md,10128,"Findings — Batch 7, Clinics #11–20 (the Tier A ten)"
+go-list-mystery-shop.md,5972,Go List — Cleared for Research + Mystery Shop + Outbound
+handoff-batch3-remaining-8.md,9576,Handoff — 11 Remaining Skin/Aesthetic Clinics (Batch 3)
+ig-pregate-40-clinics.md,13821,IG Pre-Gate — 40-Clinic Shortlist Screen
+lead-prioritization-method.md,24563,Lead Prioritization Method — how the 20-clinic priority table was actually produced
+lead-qualifier-suite/.claude-plugin/marketplace.json,595,"JSON object, keys: name,metadata,owner,plugins"
+lead-qualifier-suite/.claude-plugin/plugin.json,397,"JSON object, keys: name,version,description,author,keywords"
+lead-qualifier-suite/scripts/company_qualifier.py,19996,PY: from __future__ import annotations
+lead-qualifier-suite/skills/gamma-deck/SKILL.md,9372,Gamma Deck
+lead-qualifier-suite/skills/gamma-deck/agents/openai.yaml,277,YAML: interface:
+lead-qualifier-suite/skills/gamma-deck/references/gamma-deck-spec.md,4172,Gamma Deck Specification
+lead-qualifier-suite/skills/orchestrator/SKILL.md,11320,Orchestrator
+lead-qualifier-suite/skills/orchestrator/agents/openai.yaml,284,YAML: interface:
+lead-qualifier-suite/skills/personalization/SKILL.md,5582,Personalization
+lead-qualifier-suite/skills/personalization/agents/openai.yaml,254,YAML: interface:
+lead-qualifier-suite/skills/personalization/references/personalization-spec.md,1839,Personalization Specification
+lead-qualifier-suite/skills/qualification/SKILL.md,7008,Qualification
+lead-qualifier-suite/skills/qualification/agents/openai.yaml,239,YAML: interface:
+lead-qualifier-suite/skills/qualification/references/default-target-profile.md,2326,Default Target Profile
+linkedin-sales-navigator-personas.md,10494,LinkedIn Sales Navigator Personas — ValenceOps ICP
+money-and-tax-explainer.html,35031,HTML: Follow the Rupee
+new_leads_1/ADS-PRESENCE-2026-08-15.md,18282,new_leads_1 — paid-ads presence & Instagram audit
+new_leads_1/CLINIC-CHECK-TABLE-2026-08-15.md,10700,Clinic check table — new_leads_1 (42 clinics)
+new_leads_1/CONTACT-LIST-BATCH-9-2026-08-19.md,8728,Batch 9 — contact list and wedges
+new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5.csv,2828,"CSV, header: ﻿Clinic Name,Clinic Website,Insta Handle,LinkedIn"
+new_leads_1/Clinic_Directory_Template csv 3b771d3ba7f680e0b00acf18a11921d5_all.csv,2828,"CSV, header: ﻿Clinic Name,Clinic Website,Insta Handle,LinkedIn"
+new_leads_1/DAY0-DMS-2026-08-20.md,6041,Day-0 DMs — Elixir · Maya Medi Spa · Regenique
+new_leads_1/DAY0-DMS-2026-08-23.md,10939,Day-0 DMs — Elixir · Maya Medi Spa · Regenique
+new_leads_1/FLAG-RESOLUTIONS-2026-08-15.md,7781,"Flag resolutions 21–31 — Tilak's manual checks, 2026-08-15"
+new_leads_1/Mystery_Shop_2026-08-15-1.zip,9893311,ZIP archive
+new_leads_1/OPEN-CHECKS-2026-08-15.md,7898,new_leads_1 — the 16 open checks
+new_leads_1/SESSION-HANDOFF-2026-08-15.md,13471,Session handoff — new_leads_1 ads + Instagram audit
+new_leads_1/SHOP-9-WEDGE-REVIEW-2026-08-19.md,13362,Batch 9 — wedge review of `mystery shop 9.md`
+new_leads_1/SHOP-QUEUE-01-10-2026-08-15.md,7669,Mystery-shop queue — positions 1–10
+new_leads_1/SHOP-QUEUE-11-20-2026-08-15.md,6276,Mystery-shop queue — positions 11–20
+new_leads_1/SHOP-QUEUE-2026-08-15.md,4039,Mystery-shop queue — new_leads_1
+new_leads_1/SHOP-QUEUE-REMAINDER-2026-08-15.md,11298,The remaining 22 — everything outside shop-queue positions 1–20
+new_leads_1/WEDGE-ANGLES-BATCH-9-2026-08-19.md,26844,Batch 9 — final wedge & observation angles
+new_leads_1/build_targets.py,3731,PY: #!/usr/bin/env python3
+new_leads_1/consolidate.py,6845,PY: #!/usr/bin/env python3
+new_leads_1/fb_search_results.json,7090,"JSON array, 26 items, keys: id,clinic,found,accepted"
+new_leads_1/fb_search_round3.json,2565,"JSON array, 13 items, keys: id,clinic,slug,title,shared"
+new_leads_1/fb_url_provenance.json,4525,"JSON array, 38 items, keys: id,clinic,slug,src"
+new_leads_1/fb_urls.json,2408,"JSON array, 38 items, keys: url"
+new_leads_1/fb_urls2.json,566,"JSON array, 9 items, keys: url"
+new_leads_1/find_socials.py,3132,PY: #!/usr/bin/env python3
+new_leads_1/gads_detail/1.json,10926,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/10.json,4547,"JSON array, 10 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/11.json,9705,"JSON array, 22 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/14.json,455,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/16.json,5887,"JSON array, 13 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/20.json,437,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/26.json,916,"JSON array, 2 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/28.json,880,"JSON array, 2 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/3.json,10938,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/30.json,12773,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/35.json,20552,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/36.json,11343,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/39.json,434,"JSON array, 1 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/40.json,10815,"JSON array, 25 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/5.json,3135,"JSON array, 7 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/6.json,7398,"JSON array, 17 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/7.json,3936,"JSON array, 9 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_detail/9.json,4648,"JSON array, 9 items, keys: advertiserId,advertiserName,creativeId,adFormat,firstShown,lastShown"
+new_leads_1/gads_queries.json,5440,"JSON array, 42 items, keys: id,clinic,q"
+new_leads_1/gads_recency.py,2465,PY: #!/usr/bin/env python3
+new_leads_1/google-ads-raw-2026-08-15.json,3717,"JSON object, keys: _meta,clinics_with_zero_hits,in_rows"
+new_leads_1/google-ads-recency.json,5075,"JSON array, 21 items, keys: id,clinic,advertiser,advertiserId,creatives_seen,first"
+new_leads_1/instagram-raw-2026-08-15.json,1965896,"JSON array, 37 items, keys: inputUrl,id,username,url,fullName,biography"
+new_leads_1/instagram-summary.json,13352,"JSON array, 42 items, keys: id,clinic,handle,followers,posts,verified"
+new_leads_1/meta-ads-raw-2026-08-15.json,206966,"JSON array, 38 items, keys: url,error,errorDescription"
+new_leads_1/meta-ads-summary-round2.json,2074,"JSON array, 9 items, keys: id,clinic,slug,state,fb_page_name,page_id"
+new_leads_1/meta-ads-summary-round3.json,1790,"JSON array, 7 items, keys: id,clinic,slug,state,fb_page_name,page_id"
+new_leads_1/meta-ads-summary.json,10623,"JSON array, 38 items, keys: id,clinic,src,slug,fb_page_name,page_id"
+new_leads_1/mystery shop 9.md,27574,Mystery Shop 9 — Batch 9 Clinics (SHOP-QUEUE positions 11–20)
+new_leads_1/results.json,36357,"JSON array, 42 items, keys: id,clinic,source,website,ig_handle,google"
+new_leads_1/socials.json,9546,"JSON array, 42 items, keys: id,clinic,website,fb,fb_all,ig_on_site"
+new_leads_1/targets.json,10424,"JSON array, 42 items, keys: clinic,source,website,ig,linkedin,key"
+new_leads_1/zone-leads.md,4224,Central zone
+one-pager-handoff/BUILD_GUIDE.md,11096,Build Guide — Revenue Diagnostic One-Pagers
+one-pager-handoff/CLAUDE.md,6554,Valence Ops — Revenue Diagnostic One-Pagers
+one-pager-handoff/COPY_STANDARD.md,15179,Copy Standard — Revenue Diagnostic One-Pagers
+one-pager-handoff/diagnostic_doc_playbook.md,16529,The Diagnostic One-Pager — Playbook
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.html,66123,HTML: DNA Skin Clinic — Revenue Diagnostic
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.jpg,477801,JPEG image
+one-pager-handoff/examples/DNA Skin Clinic - Revenue Diagnostic.pdf,89341,PDF document
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.html,65243,HTML: Dr. Dixit Cosmetic Dermatology Clinic — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.jpg,342366,JPEG image
+one-pager-handoff/examples/Dr. Dixit - Revenue Diagnostic.pdf,88021,PDF document
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.html,65090,HTML: Dr. Juvita Aesthetics — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.jpg,449813,JPEG image
+one-pager-handoff/examples/Dr. Juvita Aesthetics - Revenue Diagnostic.pdf,84590,PDF document
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.html,65773,HTML: Dr. Swetha's Cosmoderm Centre — Revenue Diagnostic
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.jpg,436884,JPEG image
+one-pager-handoff/examples/Dr. Swetha's Cosmoderm Centre - Revenue Diagnostic.pdf,91723,PDF document
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.html,65907,HTML: Ministry of Skin — Revenue Diagnostic
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.jpg,445543,JPEG image
+one-pager-handoff/examples/Ministry of Skin - Revenue Diagnostic.pdf,90239,PDF document
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.html,65648,HTML: The Glow Clinic — Revenue Diagnostic
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.jpg,423151,JPEG image
+one-pager-handoff/examples/The Glow Clinic - Revenue Diagnostic.pdf,85003,PDF document
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.html,66351,HTML: Vtiara Hair & Skin Clinic — Revenue Diagnostic
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.jpg,494108,JPEG image
+one-pager-handoff/examples/Vtiara Hair & Skin Clinic - Revenue Diagnostic.pdf,89718,PDF document
+one-pager-handoff/wedge-signal-entry.md,18878,"Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook"
+outbound-process-changes-2026-08-11.md,14188,Outbound process — proposed changes
+outreach-aesthetica-veda-vaibhav-whatsapp.md,11986,"Aesthetica Veda — Dr. Vybhav Deraje, WhatsApp first touch (Tilak takes over)"
+outreach-drafts-glow-clinic.md,2424,Outreach Drafts — The Glow Clinic
+outreach-drafts-ministry-of-skin.md,3138,Outreach Drafts — Ministry of Skin
+outreach-drafts-utkarsha-to-evenly.md,33084,Outreach Drafts — Dr. Utkarsha's → Evenly Skin and Hair Clinic
+outreach-drafts-vtiara.md,6668,Outreach Drafts — Vtiara Hair & Skin Clinic
+outreach-emails-utkarsha-keshav-karishma-dixit-juvita.md,5220,Cold emails — the 5 contacts with email but no DM channel
+personalized-outbound-v2.md,22162,Personalized Outbound — ValenceOps × Indian Elective Clinics
+prompt-research-clinics-11-15.md,8937,Prompt — Research Clinics #11–15 (ScrapeGraphAI / Claude Code)
+revenue_os_discovery_audit_fillable.pdf,66561,PDF document
+sales-motion/01-reply-to-call.md,9453,01 — Reply to Booked Call
+sales-motion/02-credibility-packet.md,12627,02 — The Credibility Packet
+sales-motion/03-operations-call.md,15601,03 — The Operations Call
+sales-motion/04-findings-and-rollout.md,10934,04 — Findings and Rollout Plan
+sales-motion/05-pilot-and-onboarding.md,10535,05 — Pilot Agreement and the First 14 Days
+sales-motion/client-facing/HOW-WE-WORK.md,9168,How We Work
+se-bangalore-scrape/ADS-PRESENCE-2026-08-14.md,11985,SE Bangalore — paid-ads presence & Instagram audit
+se-bangalore-scrape/NEW-CLINICS-TABLE.md,12210,New clinic prospects — SE Bangalore & outer expansion (scraped 2026-08-10)
+se-bangalore-scrape/QUALIFIED-TARGETS-2026-08-14.md,23323,SE Bangalore — qualified outreach targets
+se-bangalore-scrape/SHORTLIST-2026-08-14.md,12662,SE Bangalore — shortlist from the 35-clinic working list
+se-bangalore-scrape/autosave.log,68,LOG: eleccity snapshot: 3
+se-bangalore-scrape/autosave.sh,1016,SH: #!/bin/zsh
+se-bangalore-scrape/gen_targets.py,10547,"PY: import json, glob, os, re"
+se-bangalore-scrape/process.py,11822,PY: #!/usr/bin/env python3
+se-bangalore-scrape/raw/bannerghatta.json,365454,"JSON array, 75 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/bommanahalli_partial.json,15457,"JSON array, 4 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/eleccity.json,246726,"JSON array, 57 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/hsr.json,382180,"JSON array, 78 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/raw/sarjapur_partial.json,179403,"JSON array, 37 items, keys: title,subTitle,description,price,categoryName,address"
+se-bangalore-scrape/results.json,44312,"JSON object, keys: qualified,excluded,below_bar,noise"
+taste-n-judgement.md,46660,taste-n-judgement.md
+valenceops_context_1.pdf,80919,PDF document
+verify-2026-08-18/DISQUALIFIED.md,700,"Disqualified — Tilak's call, 18 Aug 2026"
+verify-2026-08-18/ENQUIRY-FLOW-SHORTLIST.md,4994,Enquiry-flow shortlist — 2026-08-19
+verify-2026-08-18/FINAL-TABLE.md,4843,(no readable first line)
+verify-2026-08-18/QUALIFIED-LEADS-2026-08-19.md,5354,Qualified leads — 2026-08-19
+verify-2026-08-18/QUALIFIED-LEADS-2026-08-20.md,3721,(no readable first line)
+verify-2026-08-18/RESUME.md,2758,"Resume note — 2026-08-18, stopped mid-job"
+verify-2026-08-18/domains.json,5213,"JSON array, 56 items, keys: name,domain"
+verify-2026-08-18/doms.txt,438,TXT: iskinclinic.in
+verify-2026-08-18/fetchig.sh,603,SH: #!/bin/bash
+verify-2026-08-18/gads.json,1800,"JSON object, keys: drnamratasingh.com,ahisaesthetics.com,consultdrharini.in,dyuaesthetics.com,allureskincare.co,calyxskinlab.com,hairline.co.in,mairawellness.com"
+verify-2026-08-18/gbp.json,3738,"JSON array, 20 items, keys: q,t,s,r,ph,w"
+verify-2026-08-18/state.json,48863,"JSON object, keys: generated,budget_usd_start,spent_usd,rows,method_notes,ig_rejected_impostors"
+wedge-signal-entry.md,18878,"Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook"
+
+"## MERGE CANDIDATES (topical overlap, content differs — NOT duplicates; nothing merged automatically). Method: 6-word-shingle Jaccard/containment across all .md + heading review."
+path_a,path_b,jaccard,containment,overlapping_section (specific),note
+Pre-outbound-research/OUTREACH document.md,_archive/Valence-Research-Intelligence/OUTREACH document.md,0.97,0.99,Every clinic's '### ICP Qualification' section (Aura Cutisurg etc.),Same dossier set; Pre-outbound copy (mod 2026-08-13) adds 11 '(ICP/prestige scoring was RETIRED 2026-07-22)' annotations; _archive copy (mod 2026-07-14) is the pre-annotation version
+Pre-outbound-research/outreach -2.md,_archive/Valence-Research-Intelligence/outreach -2.md,0.96,0.99,'# ICP Qualification' section of Dr. Swetha's Cosmoderm Centre dossier and 8 others,Same pattern as above: 9 RETIRED annotations only in the Pre-outbound copy
+.claude/skills/clinic-audit-research/SKILL.md,_archive/clinic-apify-research-skill.md,0.91,0.98,"'## Phase 0 — Intake, depth mode, preflight, pre-screen' and 'What this skill is for'",SKILL.md (2026-08-13) adds the '> Sequencing changed 2026-08-13' block; _archive copy (2026-07-30) is the prior version (29 diff lines)
+_archive/personalized-outbound-skill.md,personalized-outbound-v2.md,0.56,0.89,"'## The Sequence — Three Threads' → '### 5 · The meet ask' and '### 6 · The silence bumps' (v1: 'call/offline meet ask', 'silence bump Day 2–3')","v2 adds 'Revised 2026-08-13' block (rev-share struck, 2-touch cap). Shared verbatim: Offer Engineering Lens, Risk Reversal Standard, Language Rules"
+Pre-outbound-research/batch7/BATCH7-FOLLOWUP2-MESSAGES.md,Pre-outbound-research/batch7/BATCH7-MASTER-ALL-CLINICS.md,0.08,0.84,The 12 per-clinic Follow-up 2 message bodies (## 1 · Akera Health … ## 12) are embedded inside the MASTER's per-clinic records,84% of FOLLOWUP2 text is contained in MASTER; MASTER is the declared precedence file
+Resources/_source/aurilueur-proposal/README.md,"Resources/_source/skinfit-proposal/README.md (== skinfit-proposal-v2/README.md, exact dup)",0.56,0.76,"Whole file: 'build kit' rebuild instructions (Chrome headless command, Poppins/palette design system)",Only title line and output PDF path differ. Note: skinfit-proposal-v2/README.md still names the v1 output path
+Project-Hand-Off/04-WEDGE-ROUTING.md,"wedge-signal-entry.md (== one-pager-handoff/wedge-signal-entry.md, exact dup)",0.18,0.42,"'### 2.3 Save the screenshot, not the summary', '### 2.4 Verdict', 'Hard kills — disqualify immediately', 'Signal → wedge routing' table",04-WEDGE-ROUTING is a condensed hand-off rewrite of wedge-signal-entry (which carries a Change log and §4 schema tagging that 04 lacks)
+Pre-outbound-research/batch7/BATCH7-CONSOLIDATED-STATE.md,Project-Hand-Off/05-CLINIC-INVENTORY.md,0.19,0.34,"'## 1. Send + shop state, all 12' ↔ 'PART A · Batch 2 — the live cohort (12 clinics)'; the five confirmed wedges (Dr. Priya's, Akera Health …)","Same 12-clinic Batch 7/'Batch 2' roster snapshot, 2026-08-13/14, different framing"
+verify-2026-08-18/FINAL-TABLE.md,verify-2026-08-18/QUALIFIED-LEADS-2026-08-19.md,0.16,0.28,"Clinic table (IG followers / Google reviews / Meta ads / Google ads) rows e.g. dr_shettys_cosmetic_centre, Hairline International",QUALIFIED-LEADS re-sorts the table into Qualified / Borderline / Held back sections
+SALES_MOTION.md,sales-motion/01-reply-to-call.md … 05-pilot-and-onboarding.md,—,—,"SALES_MOTION '## 2 · The motion — five stages' + '## 3 · Stage detail' ↔ the five per-stage files (01 Reply→Call, 02 Credibility Packet, 03 Operations Call, 04 Findings & Rollout, 05 Pilot)",Heading-level overlap (not caught by shingles — prose differs). Summary vs expanded stage docs
+ONE-PAGER-AUDIT-AND-TEST-PLAN.md,ONE-PAGER-STEELMAN-2026-08-14.md,—,—,Audit '## 5 · The three arms' ↔ Steelman '## 4 · The test design — and why the Aug-5 three-arm plan can't run'; Steelman '## 3 · Four things the Aug-5 audit did not catch',Steelman explicitly supersedes/responds to the Aug-5 audit; sequential reviews of the same one-pager set
+findings-batch-11-15.md,findings-batch7-clinics-11-20.md,—,—,'## 1. Master table' — clinics #11–15 appear in both; '## 4/6 Provisional wedges' for the same clinics,11–15 is a subset range of 11–20 for Batch 7; also both carry 'Corrections to' sections aimed at go-list-mystery-shop.md / wedge-signal-entry.md
+clinic-audit-checklist.md,wedge-signal-entry.md,—,—,checklist '## 4 · Booking-Flow Mystery Shop' ↔ wedge-signal-entry '## 2. Speed-to-lead audit SOP',Both define the mystery-shop procedure; wedge-signal-entry is the declared canonical rulebook
+Project-Hand-Off/03-DRAFTING-ENGINE.md,personalized-outbound-v2.md,—,—,"03 '## 4 · The sequence — 4 touches, 2 channels' ↔ v2 '## The Sequence — Three Threads' / '### 6 · The silence bumps — touches 2, 3 and 4'; both have a 'rebuttal test' and banned-language list",Hand-off condensation of the outbound skill
+dental-discovery-CRITERIA.md,dental-discovery-STEP-1-QUALIFY.md,—,—,CRITERIA '## 2. Qualification gates' ↔ STEP-1 '1A · Discovery + hard kills' … '1D · Demand gate',"CRITERIA defines the gates, STEP-1 operationalises them with budgets; intended pair, not a merge"
+Resources/_source/skinfit-proposal/proposal.html,Resources/_source/skinfit-proposal-v2/proposal.html,—,—,Same 7 sections (Where this picks up … What the system runs on); 20 changed text lines,v1 → v2 of the same SkinFit proposal; v1 PDF 'SkinFit Wellness - Patient Communications Proposal.pdf' and v2 PDF both live in Proposals & SOW
+Proposals & SOW/SkinFit Wellness - Patient Conversion System.pdf,Proposals & SOW/SkinFit Wellness - Patient Conversion and Intelligence System.pdf; … - Patient Conversion Proposal.pdf,—,—,Three SkinFit 'Patient Conversion' PDFs generated 2026-08-30 within 54 minutes; no HTML source in vault for any of them,Binary — not text-compared. Flag only: which is the sent version is unknowable from the files
+_archive/one-pager-handoff.zip,one-pager-handoff/ (folder),—,—,"ZIP (3.2 MB, 2026-08-04) presumably packages an earlier one-pager-handoff/ tree",Not extracted/compared; binary archive. Flag for human decision
+lead-qualifier-suite/skills/gamma-deck/SKILL.md,lead-qualifier-suite/skills/personalization/SKILL.md,0.16,0.38,'## Notes' + the Stage 1 'approve the contract' / Stage 2 'generate' scaffold,Shared skill boilerplate only — NOT a merge candidate; listed because the metric flagged it
+
+## STRUCTURAL NOTES
+Resources/_source/skinfit-proposal-v2/Resources/_source/aurilueur-proposal/,"empty nested directory (0 files) — stray path artefact, not counted in file totals"
+Link density,"Only 4 resolving markdown links exist in the whole vault (Pre-outbound-research ↔ _archive batch3 files, Research-docs). Zero [[wikilinks]]. Hence 444/469 files are orphans — this is the baseline state, not a defect introduced by the audit"
+Non-notes,".DS_Store ×11, .obsidian/*.json ×5, .claude/settings.local.json, .gitignore are counted in the 469 total"
+
+## UNRESOLVED LINKS (link text that matches no vault file)
+source,target
