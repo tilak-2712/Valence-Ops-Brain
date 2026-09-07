@@ -1,0 +1,230 @@
+[
+ {
+  "id": 1,
+  "clinic": "The Aesthetic Edge",
+  "slug": "theaestheticedge",
+  "src": "website"
+ },
+ {
+  "id": 3,
+  "clinic": "Augusté Skin",
+  "slug": "auguste.skin.2024",
+  "src": "website"
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "slug": "aestheticaa_drmadhulika",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 5,
+  "clinic": "Aurilueur Esthetic Clinic",
+  "slug": "aurilueurestheticclinicbanglore",
+  "src": "website"
+ },
+ {
+  "id": 6,
+  "clinic": "Metphi Clinic",
+  "slug": "metphiclinic",
+  "src": "website"
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "slug": "kezaskinandhairclinic",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 8,
+  "clinic": "Maya Medi Spa",
+  "slug": "mayamedispaindia",
+  "src": "website"
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "slug": "newlooklc",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "slug": "sutvacha",
+  "src": "website"
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "slug": "seoulful.korean_care",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 12,
+  "clinic": "Pearl Aesthetic",
+  "slug": "PearlAestheticBengaluru",
+  "src": "website"
+ },
+ {
+  "id": 13,
+  "clinic": "Livglam Anti-Ageing Clinic",
+  "slug": "livglamclinic",
+  "src": "website"
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "slug": "pigmentclinics",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 15,
+  "clinic": "Dr. Sunaina Hameed – Advanced Dermatology & Skin Care Center |",
+  "slug": "yourfamilydermatologist",
+  "src": "website"
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "slug": "regeniqueclinic",
+  "src": "website"
+ },
+ {
+  "id": 17,
+  "clinic": "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+  "slug": "merakiaesthetics.in",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 18,
+  "clinic": "DermaGlo Laser Skin Clinic",
+  "slug": "dermaglo_laserskin_clinic",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 20,
+  "clinic": "Skinray Clinic, Dommasandra",
+  "slug": "skinrayclinic",
+  "src": "website"
+ },
+ {
+  "id": 23,
+  "clinic": "Rock Aesthetics Clinic",
+  "slug": "rockaestheticsclinic",
+  "src": "website"
+ },
+ {
+  "id": 24,
+  "clinic": "Promed aesthetics",
+  "slug": "promedaesthetics",
+  "src": "website"
+ },
+ {
+  "id": 25,
+  "clinic": "bodyscience_clinic",
+  "slug": "bodyscience_clinic",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "slug": "richmondaestheticsblr",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "slug": "cradle_of_youth",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "slug": "theradiantaestheticclinic",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 29,
+  "clinic": "dr_shettys_cosmetic_centre",
+  "slug": "DrShettysCosmeticCentre",
+  "src": "website"
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "slug": "hairlineinternational",
+  "src": "website"
+ },
+ {
+  "id": 31,
+  "clinic": "Aesthetics Plus - DrSurindher",
+  "slug": "aestheticsplusclinics",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 32,
+  "clinic": "dermo glamm",
+  "slug": "dermoglamm_laser_skin_hair",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 33,
+  "clinic": "Masa aesthetics",
+  "slug": "masa__aesthetics",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 34,
+  "clinic": "skinwork",
+  "slug": "skinworkclinic",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "slug": "divineaestheticblr",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 36,
+  "clinic": "The aesthetic Co.Skin",
+  "slug": "theAestheticCoInd",
+  "src": "website"
+ },
+ {
+  "id": 37,
+  "clinic": "mantras clinic",
+  "slug": "maacbangalore",
+  "src": "website"
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "slug": "facial_aesthetics_center",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "slug": "docanilabe",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "slug": "moonaesthetic.in",
+  "src": "ig-handle guess"
+ },
+ {
+  "id": 41,
+  "clinic": "Dr. Sneha Sood – Dermatologist in Bangalore | Sood Aesthetics",
+  "slug": "snehasoodaesthetics",
+  "src": "website"
+ },
+ {
+  "id": 42,
+  "clinic": "Elixir Advanced Aesthetics and Follicular Revival Center",
+  "slug": "p/Elixir-Skin-Hair-and-Laser-Clinic-New-BEL-Road-61578334685181",
+  "src": "website(p-form)"
+ }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Qualifier Suite (Full Pipeline)"
+  short_description: "Run qualification, personalization, and Gamma deck generation end to end on a Google Sheet"
+  default_prompt: "Use $orchestrator to run the full lead-qualifier-suite pipeline on my Google Sheet."

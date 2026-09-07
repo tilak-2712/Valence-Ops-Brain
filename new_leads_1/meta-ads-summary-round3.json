@@ -1,0 +1,79 @@
+[
+ {
+  "id": 19,
+  "clinic": "ZIUR Skin, Hair & Laser Clinic",
+  "slug": "ziurwellness",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "ZIUR - A Premium Aesthetic Clinic",
+  "page_id": "182312398288600",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "slug": "wellnessatnewlookclinic",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Wellness at New Look Health & Skin Clinic",
+  "page_id": "111520465354619",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "slug": "100086723094794",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Aestheticaa By Dr Madhulika",
+  "page_id": "107653952139441",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 22,
+  "clinic": "Avance Derma Skin, Hair & Laser Clinic",
+  "slug": "avancederma",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Avance Derma Skin, Hair, And Laser Clinic",
+  "page_id": "176436593089831",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "slug": "100064161544655",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Facial Aesthetics Center",
+  "page_id": "1289064047878890",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "slug": "rqhealthgroup",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Regenique Wellness Clinic",
+  "page_id": "273889529790898",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "slug": "cradlechildrenhospital",
+  "state": "PAGE_FOUND",
+  "fb_page_name": "Cradle Children Hospital",
+  "page_id": "408247652897249",
+  "total": 0,
+  "newest": null,
+  "d30": 0
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "id": 2,
+  "clinic": "Calyx Skin Lab - Indiranagar",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 3,
+  "clinic": "Augusté Skin",
+  "found": [
+   {
+    "slug": "61559212201857",
+    "title": "At Augusté Skin, passion drives every treatment. No trends. "
+   },
+   {
+    "slug": "61559212201857",
+    "title": "Auguste Skin (@61559212201857) - Mentions"
+   },
+   {
+    "slug": "61559212201857",
+    "title": "It was absolutely painless — and I could literally go back t"
+   }
+  ],
+  "accepted": {
+   "slug": "61559212201857",
+   "title": "At Augusté Skin, passion drives every treatment. No trends. ",
+   "shared": [
+    "auguste"
+   ]
+  }
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "found": [
+   {
+    "slug": "61573526283746",
+    "title": "Keza Skin and Hair Clinic | Bangalore"
+   },
+   {
+    "slug": "61573526283746",
+    "title": "Keza Skin and Hair Clinic (@61573526283746) - Photos"
+   },
+   {
+    "slug": "61573526283746",
+    "title": "Keza Skin and Hair Clinic (@61573526283746) - Mentions"
+   }
+  ],
+  "accepted": {
+   "slug": "61573526283746",
+   "title": "Keza Skin and Hair Clinic | Bangalore",
+   "shared": [
+    "keza"
+   ]
+  }
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 17,
+  "clinic": "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 18,
+  "clinic": "DermaGlo Laser Skin Clinic",
+  "found": [
+   {
+    "slug": "More-Than-Facials-Express-Skin-Spa-204586923243869",
+    "title": "DermaGlo Laser Skin Clinic | Bangalore"
+   },
+   {
+    "slug": "NexusWhitefield",
+    "title": "Nexus - Dr. Vinita Sharma is the founder and medical ..."
+   },
+   {
+    "slug": "DermaGloLaserSkinClinicBangalore",
+    "title": "DermaGLO Skin Rejuvenation Treatments- 080 40939285 , ..."
+   }
+  ],
+  "accepted": {
+   "slug": "More-Than-Facials-Express-Skin-Spa-204586923243869",
+   "title": "DermaGlo Laser Skin Clinic | Bangalore",
+   "shared": [
+    "dermaglo"
+   ]
+  }
+ },
+ {
+  "id": 19,
+  "clinic": "ZIUR Skin, Hair & Laser Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 21,
+  "clinic": "Sun Light Skin Clinic",
+  "found": [
+   {
+    "slug": "61591519555638",
+    "title": "Sunlight Skin Clinic | Bangalore"
+   },
+   {
+    "slug": "61591519555638",
+    "title": "Targets Stubborn Fat Cells • Body Contouring & Sculpting ..."
+   }
+  ],
+  "accepted": {
+   "slug": "61591519555638",
+   "title": "Sunlight Skin Clinic | Bangalore",
+   "shared": [
+    "light"
+   ]
+  }
+ },
+ {
+  "id": 22,
+  "clinic": "Avance Derma Skin, Hair & Laser Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 23,
+  "clinic": "Rock Aesthetics Clinic",
+  "found": [
+   {
+    "slug": "mamatareddy.sudha",
+    "title": "Hydrafacial for that instant glow that you need before Impor"
+   },
+   {
+    "slug": "mamatareddy.sudha",
+    "title": "Mamata Reddy S (@mamatareddy.sudha)"
+   },
+   {
+    "slug": "mamatareddy.sudha",
+    "title": "Mamata Reddy - Another Morning✈️ #busyday #travel # ..."
+   }
+  ],
+  "accepted": null
+ },
+ {
+  "id": 25,
+  "clinic": "bodyscience_clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "found": [
+   {
+    "slug": "richmonddentalindia",
+    "title": "Richmondentalindia (@richmonddentalindia)"
+   }
+  ],
+  "accepted": {
+   "slug": "richmonddentalindia",
+   "title": "Richmondentalindia (@richmonddentalindia)",
+   "shared": [
+    "dental"
+   ]
+  }
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "found": [
+   {
+    "slug": "61576627811952",
+    "title": "The Radiant Clinic | Bangalore"
+   },
+   {
+    "slug": "stephen.jaw.7",
+    "title": "Your Physio & chiropractor Dr. Steephan john from Radiant .."
+   },
+   {
+    "slug": "nisha.umashankar.3",
+    "title": "Dr.Shalu Chawla Adiryan Kaya  Akshaya Red Stone Survey ..."
+   }
+  ],
+  "accepted": {
+   "slug": "61576627811952",
+   "title": "The Radiant Clinic | Bangalore",
+   "shared": [
+    "radiant"
+   ]
+  }
+ },
+ {
+  "id": 29,
+  "clinic": "dr_shettys_cosmetic_centre",
+  "found": [
+   {
+    "slug": "BangaloreTimesOfficial",
+    "title": "Bangalore - Dr. Sahegowda Shetty, Proprietor of Dr. ..."
+   },
+   {
+    "slug": "sahebgowdashetty",
+    "title": "Sahebgowda Shetty (@sahebgowdashetty)"
+   },
+   {
+    "slug": "doctorscircleindia",
+    "title": "Thinking about a nose job but not sure which option is right"
+   }
+  ],
+  "accepted": null
+ },
+ {
+  "id": 32,
+  "clinic": "dermo glamm",
+  "found": [
+   {
+    "slug": "61578140294899",
+    "title": "For more details contact- 8951201555 😊🙌🧿 ..."
+   },
+   {
+    "slug": "61578140294899",
+    "title": "For more details contact- 8951201555 😊🙌🧿 ..."
+   }
+  ],
+  "accepted": null
+ },
+ {
+  "id": 33,
+  "clinic": "Masa aesthetics",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 34,
+  "clinic": "skinwork",
+  "found": [
+   {
+    "slug": "Dr.DeepaDhivik",
+    "title": "theskinwork | Bangalore"
+   },
+   {
+    "slug": "skinworksoho",
+    "title": "Make yourself a priority this weekend and treat yourself to "
+   },
+   {
+    "slug": "tingeshop",
+    "title": "Only 3 dates left for May. Dm to block your seat 9008417753 "
+   }
+  ],
+  "accepted": {
+   "slug": "Dr.DeepaDhivik",
+   "title": "theskinwork | Bangalore",
+   "shared": [
+    "skinwork"
+   ]
+  }
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "found": [
+   {
+    "slug": "298469373359255",
+    "title": "Divine aesthetics | Bangalore"
+   },
+   {
+    "slug": "61561735112689",
+    "title": "Tired of facials that only give you a temporary glow? 😩 If ."
+   },
+   {
+    "slug": "divinehairtransplant",
+    "title": "Divine Aesthetic and Laser Clinic | Amritsar"
+   }
+  ],
+  "accepted": {
+   "slug": "298469373359255",
+   "title": "Divine aesthetics | Bangalore",
+   "shared": [
+    "divine"
+   ]
+  }
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "found": [],
+  "accepted": null
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "found": [
+   {
+    "slug": "sogra23",
+    "title": "Tume kab jarin? J dao #bangalore #funny #dakhini | Sogra M"
+   },
+   {
+    "slug": "61574832297966",
+    "title": "Night sky beauty | iPhone moon photograpo | Celestial vibes"
+   },
+   {
+    "slug": "daisy.pathak.982",
+    "title": "Daisy Pathak"
+   }
+  ],
+  "accepted": {
+   "slug": "61574832297966",
+   "title": "Night sky beauty | iPhone moon photograpo | Celestial vibes",
+   "shared": [
+    "moon"
+   ]
+  }
+ }
+]

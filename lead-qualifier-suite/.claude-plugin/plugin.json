@@ -1,0 +1,9 @@
+{
+  "name": "lead-qualifier-suite",
+  "version": "0.1.0",
+  "description": "Qualify B2B leads from a Google Sheet, write grounded personalized outreach lines, and generate a 3-video-idea Gamma deck per lead for the YouTube mini-course offer.",
+  "author": {
+    "name": "Riddhiman"
+  },
+  "keywords": ["lead-qualification", "outbound", "gtm", "gamma", "n8n", "google-sheets", "personalization"]
+}

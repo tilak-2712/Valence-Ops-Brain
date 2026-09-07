@@ -1,0 +1,756 @@
+<title>Follow the Rupee</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap">
+
+<style>
+  :root {
+    --ground:      #F1F4F7;
+    --surface:     #FFFFFF;
+    --surface-alt: #E9EEF3;
+    --ink:         #15202B;
+    --ink-soft:    #52626F;
+    --ink-faint:   #7C8B97;
+    --rule:        #D3DCE4;
+    --rule-strong: #B4C1CC;
+    --accent:      #1F3A5F;
+    --accent-soft: #DDE6F0;
+    --flag:        #9C3226;
+    --flag-soft:   #F5E2DF;
+    --safe:        #43614A;
+    --safe-soft:   #E0EAE1;
+
+    --measure: 34rem;
+    --wide: 54rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --ground:      #0F151B;
+      --surface:     #161F27;
+      --surface-alt: #1D2831;
+      --ink:         #E5ECF2;
+      --ink-soft:    #A2B0BC;
+      --ink-faint:   #7A8894;
+      --rule:        #2A3742;
+      --rule-strong: #3B4A57;
+      --accent:      #8FB4DC;
+      --accent-soft: #1E2E3F;
+      --flag:        #E39A90;
+      --flag-soft:   #33211E;
+      --safe:        #97BC9C;
+      --safe-soft:   #1E2B21;
+    }
+  }
+
+  :root[data-theme="dark"] {
+    --ground:      #0F151B;
+    --surface:     #161F27;
+    --surface-alt: #1D2831;
+    --ink:         #E5ECF2;
+    --ink-soft:    #A2B0BC;
+    --ink-faint:   #7A8894;
+    --rule:        #2A3742;
+    --rule-strong: #3B4A57;
+    --accent:      #8FB4DC;
+    --accent-soft: #1E2E3F;
+    --flag:        #E39A90;
+    --flag-soft:   #33211E;
+    --safe:        #97BC9C;
+    --safe-soft:   #1E2B21;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    background: var(--ground);
+    color: var(--ink);
+    font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.62;
+    margin: 0;
+    padding: 0 1.25rem 6rem;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .page { max-width: var(--wide); margin: 0 auto; }
+  .col  { max-width: var(--measure); }
+
+  /* ---------- masthead ---------- */
+
+  header.masthead {
+    padding: 4.5rem 0 2.5rem;
+    border-bottom: 2px solid var(--ink);
+  }
+
+  .eyebrow {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.7rem;
+    font-weight: 500;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 1.6rem;
+  }
+
+  h1 {
+    font-family: Archivo, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    font-size: clamp(2.6rem, 7vw, 4.1rem);
+    line-height: 0.98;
+    letter-spacing: -0.025em;
+    margin: 0 0 1.4rem;
+    text-wrap: balance;
+  }
+
+  .standfirst {
+    font-size: 1.14rem;
+    color: var(--ink-soft);
+    max-width: var(--measure);
+    margin: 0;
+  }
+
+  /* ---------- standing facts ---------- */
+
+  .standing {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+    gap: 0;
+    border-bottom: 1px solid var(--rule);
+  }
+
+  .standing div {
+    padding: 1.3rem 1.2rem 1.4rem 0;
+    border-right: 1px solid var(--rule);
+  }
+  .standing div:last-child { border-right: none; }
+
+  .standing dt {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.66rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin-bottom: 0.4rem;
+  }
+  .standing dd {
+    margin: 0;
+    font-family: Archivo, sans-serif;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+
+  /* ---------- sections ---------- */
+
+  section { padding: 3.4rem 0 0; }
+
+  h2 {
+    font-family: Archivo, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 700;
+    font-size: 1.62rem;
+    letter-spacing: -0.015em;
+    line-height: 1.18;
+    margin: 0 0 0.5rem;
+    text-wrap: balance;
+  }
+
+  h3 {
+    font-family: Archivo, "Helvetica Neue", Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.05rem;
+    letter-spacing: -0.005em;
+    margin: 2.2rem 0 0.6rem;
+    text-wrap: balance;
+  }
+
+  .kicker {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin: 0 0 0.9rem;
+  }
+
+  p { margin: 0 0 1.05rem; max-width: var(--measure); }
+  p.lead { font-size: 1.05rem; color: var(--ink-soft); }
+
+  strong { font-weight: 600; }
+  em { font-style: italic; }
+
+  code {
+    font-family: "IBM Plex Mono", ui-monospace, monospace;
+    font-size: 0.86em;
+    background: var(--surface-alt);
+    padding: 0.1em 0.34em;
+    border-radius: 2px;
+  }
+
+  ul { margin: 0 0 1.1rem; padding-left: 1.1rem; max-width: var(--measure); }
+  li { margin-bottom: 0.42rem; }
+
+  /* ---------- definition rows ---------- */
+
+  .defs { border-top: 1px solid var(--rule); margin-top: 1.6rem; }
+
+  .def {
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: 1.5rem;
+    padding: 1.15rem 0;
+    border-bottom: 1px solid var(--rule);
+  }
+  .def .term {
+    font-family: Archivo, sans-serif;
+    font-weight: 700;
+    font-size: 0.95rem;
+    letter-spacing: -0.005em;
+  }
+  .def .term span {
+    display: block;
+    font-family: "IBM Plex Mono", monospace;
+    font-weight: 400;
+    font-size: 0.66rem;
+    letter-spacing: 0.06em;
+    color: var(--ink-faint);
+    margin-top: 0.2rem;
+    text-transform: uppercase;
+  }
+  .def .body { font-size: 0.98rem; }
+  .def .body p { margin: 0; max-width: none; }
+
+  @media (max-width: 34rem) {
+    .def { grid-template-columns: 1fr; gap: 0.4rem; }
+  }
+
+  /* ---------- ledger cards ---------- */
+
+  .ledgers {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+    gap: 1.25rem;
+    margin: 1.8rem 0 1.4rem;
+  }
+
+  .ledger {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    border-top: 3px solid var(--rule-strong);
+    padding: 1.4rem 1.4rem 1.2rem;
+  }
+  .ledger.now  { border-top-color: var(--flag); }
+  .ledger.next { border-top-color: var(--safe); }
+
+  .ledger h4 {
+    font-family: Archivo, sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    margin: 0 0 0.15rem;
+  }
+  .ledger .when {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    margin: 0 0 1.1rem;
+  }
+
+  .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 1rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px dotted var(--rule);
+    font-size: 0.92rem;
+  }
+  .row .label { color: var(--ink-soft); }
+  .row .amt {
+    font-family: "IBM Plex Mono", monospace;
+    font-variant-numeric: tabular-nums;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .row.total {
+    border-bottom: none;
+    border-top: 2px solid var(--ink);
+    margin-top: 0.5rem;
+    padding-top: 0.7rem;
+    font-family: Archivo, sans-serif;
+    font-weight: 700;
+  }
+  .row.total .label { color: var(--ink); }
+  .row.total .amt { font-weight: 600; font-size: 1.02rem; }
+  .row .amt.minus { color: var(--flag); }
+  .row .amt.zero  { color: var(--safe); }
+
+  .ledger .note {
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+    margin: 1rem 0 0;
+    max-width: none;
+  }
+
+  /* ---------- callout ---------- */
+
+  .callout {
+    background: var(--accent-soft);
+    border-left: 3px solid var(--accent);
+    padding: 1.15rem 1.3rem;
+    margin: 1.8rem 0;
+    max-width: var(--measure);
+  }
+  .callout p { margin: 0; }
+  .callout p + p { margin-top: 0.7rem; }
+
+  .callout.warn {
+    background: var(--flag-soft);
+    border-left-color: var(--flag);
+  }
+
+  /* ---------- tables ---------- */
+
+  .scroll { overflow-x: auto; margin: 1.5rem 0; }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.93rem;
+    min-width: 30rem;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.72rem 1rem 0.72rem 0;
+    border-bottom: 1px solid var(--rule);
+    vertical-align: top;
+  }
+  th {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.66rem;
+    font-weight: 500;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    border-bottom: 1px solid var(--ink);
+  }
+  td strong { font-family: Archivo, sans-serif; font-weight: 600; }
+
+  /* ---------- checklist ---------- */
+
+  .stack { display: grid; gap: 1.25rem; margin-top: 1.8rem; }
+
+  .band {
+    background: var(--surface);
+    border: 1px solid var(--rule);
+    padding: 1.3rem 1.4rem 1.1rem;
+  }
+  .band header {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    margin-bottom: 0.9rem;
+  }
+  .chip {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 0.62rem;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+    padding: 0.24rem 0.5rem;
+    border-radius: 2px;
+    white-space: nowrap;
+  }
+  .chip.must { background: var(--flag-soft);   color: var(--flag); }
+  .chip.soon { background: var(--accent-soft); color: var(--accent); }
+  .chip.wait { background: var(--safe-soft);   color: var(--safe); }
+
+  .band header h3 {
+    margin: 0;
+    font-size: 1rem;
+  }
+  .band ul { margin: 0; max-width: none; }
+
+  /* ---------- footer ---------- */
+
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.6rem;
+    border-top: 1px solid var(--rule);
+    font-size: 0.86rem;
+    color: var(--ink-faint);
+  }
+  footer p { max-width: var(--measure); }
+</style>
+
+<div class="page">
+
+  <header class="masthead">
+    <p class="eyebrow">Valence Ops · Internal reference · August 2026</p>
+    <h1>Follow the Rupee</h1>
+    <p class="standfirst">GST, reverse charge, input credit and TDS, traced through one client invoice and one API bill. Everything else on this page supports those two examples.</p>
+  </header>
+
+  <dl class="standing">
+    <div><dt>Entity</dt><dd>Sole proprietorship<br>S Tilak</dd></div>
+    <div><dt>GST</dt><dd>Not registered</dd></div>
+    <div><dt>Held</dt><dd>Udyam · Karnataka S&amp;E</dd></div>
+    <div><dt>Tax on income</dt><dd>Personal slab rates</dd></div>
+    <div><dt>Liability</dt><dd>Personal, unlimited</dd></div>
+  </dl>
+
+  <section>
+    <p class="kicker">The four words</p>
+    <h2>What each one actually is</h2>
+    <p class="lead">Four terms do all the work. None of them is complicated once you see what it is for.</p>
+
+    <div class="defs">
+      <div class="def">
+        <div class="term">GST<span>Goods &amp; Services Tax</span></div>
+        <div class="body"><p>A tax on selling something in India. For services like yours it is 18%. You add it to the client's bill, collect it, and pass it to the government. <strong>It is never your money.</strong> You are a collection agent.</p></div>
+      </div>
+      <div class="def">
+        <div class="term">RCM<span>Reverse charge</span></div>
+        <div class="body"><p>Normally the seller collects GST and pays it. When the seller is foreign <em>and not registered here</em>, the job flips to you: you declare the 18% yourself and pay it directly. That flip is all "reverse charge" means. Note the condition. A foreign supplier who <em>is</em> registered in India charges you normally, and no reverse charge arises.</p></div>
+      </div>
+      <div class="def">
+        <div class="term">ITC<span>Input tax credit</span></div>
+        <div class="body"><p>The GST you paid on things you bought for the business comes off the GST you owe on things you sold. <strong>Only available if you are registered.</strong> This is the entire reason registering saves money.</p></div>
+      </div>
+      <div class="def">
+        <div class="term">TDS<span>Tax deducted at source</span></div>
+        <div class="body"><p>Your client holds back a slice of your fee and deposits it with the income tax department against your PAN. It is your income tax, prepaid on your behalf. You get it back, but later.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">Worked example one</p>
+    <h2>One ₹40,000 invoice to SkinFit</h2>
+    <p class="lead">The same month's work, billed under both scenarios. Watch the last line in each.</p>
+
+    <div class="ledgers">
+      <div class="ledger now">
+        <h4>Today</h4>
+        <p class="when">No GST registration</p>
+        <div class="row"><span class="label">Fee</span><span class="amt">₹40,000</span></div>
+        <div class="row"><span class="label">GST you may charge</span><span class="amt">nil</span></div>
+        <div class="row"><span class="label">Invoice total</span><span class="amt">₹40,000</span></div>
+        <div class="row"><span class="label">TDS held back, 10%</span><span class="amt minus">−₹4,000</span></div>
+        <div class="row total"><span class="label">Lands in your account</span><span class="amt">₹36,000</span></div>
+        <p class="note">The ₹4,000 is not lost. It shows against your PAN in Form 26AS and comes off your income tax bill at filing.</p>
+      </div>
+
+      <div class="ledger next">
+        <h4>After registering</h4>
+        <p class="when">Client is in Karnataka</p>
+        <div class="row"><span class="label">Fee</span><span class="amt">₹40,000</span></div>
+        <div class="row"><span class="label">CGST 9% + SGST 9%</span><span class="amt">₹7,200</span></div>
+        <div class="row"><span class="label">Invoice total</span><span class="amt">₹47,200</span></div>
+        <div class="row"><span class="label">TDS held back, 10% of fee</span><span class="amt minus">−₹4,000</span></div>
+        <div class="row"><span class="label">Client pays you</span><span class="amt">₹43,200</span></div>
+        <div class="row"><span class="label">You remit the GST onward</span><span class="amt minus">−₹7,200</span></div>
+        <div class="row total"><span class="label">You keep</span><span class="amt">₹36,000</span></div>
+        <p class="note">TDS is calculated on the fee only, never on the GST, as long as the GST is shown as its own line.</p>
+      </div>
+    </div>
+
+    <div class="callout">
+      <p><strong>Registering does not change what you earn.</strong> ₹36,000 either way. GST passes straight through you. All it changes is how much paperwork sits around the same money, and whether you can reclaim what you spend abroad.</p>
+    </div>
+
+    <div class="callout warn">
+      <p><strong>The one line that costs real money.</strong> If the proposal says "₹40,000 inclusive of all taxes" and you register in month three, ₹40,000 has to become ₹33,898 plus ₹6,102 GST. You absorb ₹6,102 every month.</p>
+      <p>Write it as <strong>exclusive of applicable taxes</strong> and you simply add 18% from the month you register. That single word is worth about ₹7,200 a month.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">Worked example two</p>
+    <h2>One ₹8,400 bill from a US API</h2>
+    <p class="lead">Roughly a hundred dollars of model or cloud usage. This is where the money is actually leaking today.</p>
+
+    <div class="ledgers">
+      <div class="ledger now">
+        <h4>Today</h4>
+        <p class="when">No GST registration</p>
+        <div class="row"><span class="label">Service</span><span class="amt">₹8,400</span></div>
+        <div class="row"><span class="label">GST the supplier adds</span><span class="amt">₹1,512</span></div>
+        <div class="row"><span class="label">You pay</span><span class="amt">₹9,912</span></div>
+        <div class="row"><span class="label">You can reclaim</span><span class="amt minus">nil</span></div>
+        <div class="row total"><span class="label">Real cost to you</span><span class="amt">₹9,912</span></div>
+        <p class="note">A foreign supplier selling digital services to an <em>unregistered</em> Indian buyer has to charge Indian GST. That is why your invoices from abroad already show 18%.</p>
+      </div>
+
+      <div class="ledger next">
+        <h4>After registering</h4>
+        <p class="when">You give them your GSTIN</p>
+        <div class="row"><span class="label">Service</span><span class="amt">₹8,400</span></div>
+        <div class="row"><span class="label">GST the supplier adds</span><span class="amt">nil</span></div>
+        <div class="row"><span class="label">You declare under RCM</span><span class="amt">₹1,512</span></div>
+        <div class="row"><span class="label">You claim it back as ITC</span><span class="amt zero">+₹1,512</span></div>
+        <div class="row total"><span class="label">Real cost to you</span><span class="amt">₹8,400</span></div>
+        <p class="note">The ₹1,512 has to be paid in cash first, then claimed the same cycle. In practice it cancels against the GST you owe on client invoices.</p>
+      </div>
+    </div>
+
+    <div class="callout">
+      <p><strong>This is the answer to your question.</strong> Not registering is not, on its own, a violation. It is a <em>leak</em>: roughly 18% of everything you spend on foreign tools, gone, every month, permanently.</p>
+      <p>Reverse charge is not a penalty you are dodging. It is the mechanism that gets that money back, and you cannot use it until you register.</p>
+    </div>
+
+    <h3>The one thing that turns a leak into an obligation</h3>
+    <p>Since October 2023, an unregistered person buying <strong>automated digital services</strong> from abroad is treated as a non-taxable online recipient. The law puts the duty on the foreign supplier, who must register in India and charge you. It does <em>not</em> put reverse charge on you. The 99-series GSTIN on your hosting invoice is that rule working.</p>
+    <p>So the question that decides whether registration is compulsory is not <em>"is this vendor foreign?"</em>, and not <em>"does the invoice add Indian GST?"</em> It is:</p>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>What you are buying from abroad</th><th>Reverse charge on you</th><th>Forces registration</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Automated digital services</strong><br>APIs, cloud, hosting, SaaS</td><td>No. The supplier carries it</td><td>No</td></tr>
+          <tr><td><strong>Human-delivered work</strong><br>A foreign freelancer, contractor or agency</td><td>Yes</td><td>Yes, from the first rupee</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>A normal software stack sits entirely in the first row, which means there is usually no compulsory trigger in it at all. The thing to check for is whether you pay any <em>person</em> abroad for work.</p>
+    <p><strong>Note the two tests are different questions.</strong> "Does the invoice add Indian GST?" decides what you can reclaim. "Automated or human-delivered?" decides whether you must register. Keep them apart.</p>
+  </section>
+
+  <section>
+    <p class="kicker">The test</p>
+    <h2>How to tell, from any invoice, what you can reclaim</h2>
+    <p>This settles the money question. It does not settle whether you must register, which is the separate test in the section above.</p>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>What the invoice shows</th><th>What it is</th><th>What you do</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>An Indian GSTIN, with CGST/SGST or IGST</strong></td>
+            <td>A normal Indian purchase. The supplier has an Indian entity</td>
+            <td>Nothing special. Claim it as input credit once registered</td>
+          </tr>
+          <tr>
+            <td><strong>No Indian GSTIN, billed from abroad</strong></td>
+            <td>An import of services. Reverse charge territory</td>
+            <td>Once registered, declare the 18% yourself and reclaim it</td>
+          </tr>
+          <tr>
+            <td><strong>A GSTIN beginning 99, with IGST added</strong></td>
+            <td>A foreign supplier registered in India specifically to charge unregistered buyers</td>
+            <td>This is the leak. Give them your GSTIN once you have one and they should stop charging</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Sort your vendor list into those three buckets once, and the GST question stops being abstract. The third bucket is your monthly loss, in rupees.</p>
+
+    <div class="callout warn">
+      <p><strong>One trap in that third bucket.</strong> The fix is to get the GSTIN onto the account so the tax <em>stops being charged</em>. Do not plan on paying it and reclaiming it later.</p>
+      <p>The 99-series registration exists to serve unregistered buyers. Once you are registered the supply is meant to move to reverse charge, declared and reclaimed by you. If a 99-series supplier still adds IGST after you have given them your GSTIN, credit on that invoice is doubtful ground. Enter the number, then check the next invoice comes through clean.</p>
+    </div>
+
+    <p>One practical note for the SkinFit build: if the WhatsApp messaging runs through an <strong>Indian</strong> provider rather than billed from abroad, you get a clean Indian tax invoice with reclaimable GST. That is a second, independent reason to go that route, alongside the compliance commitment already made in writing.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Whose card</p>
+    <h2>When the client pays for the tools</h2>
+    <p class="lead">The cleanest structure available to you, and it is already what you promised in writing.</p>
+
+    <p>If the clinic contracts and pays the vendors directly, the invoices carry <strong>their</strong> name and GSTIN. They pay the GST and reclaim it themselves. You never import those services, so no reverse charge arises on you for any of them, and they stop counting toward the compulsory-registration trigger.</p>
+
+    <p>Your fee then becomes a clean service charge with no pass-through: no markup questions, no float out of your own pocket, no arguments about what a tool cost last month.</p>
+
+    <div class="callout warn">
+      <p><strong>The condition that makes or breaks it.</strong> The account has to be theirs from the start. If you sign up, pay with your card and bill it back, that is an import of services by you, and the rebill forms part of your own taxable supply on top.</p>
+      <p>A "pure agent" structure exists to avoid exactly this, but its conditions are strict and fiddly. Far simpler: they open the accounts, they pay, their name is on everything.</p>
+    </div>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>Tool</th><th>Where it bills from</th><th>What that means</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Sarvam AI</strong></td><td>Indian company</td><td>Not an import at all. Ordinary domestic GST, no reverse charge in any scenario</td></tr>
+          <tr><td><strong>Meta / WhatsApp</strong></td><td>Direct, or via an Indian provider</td><td>An Indian provider issues a clean Indian tax invoice. A second reason to route it that way</td></tr>
+          <tr><td><strong>Hostinger</strong></td><td>Singapore, registered in India to collect GST</td><td>Confirmed from a real invoice: IGST at 18% on the whole bill. Give them a GSTIN and it should stop being charged</td></tr>
+          <tr><td><strong>The clinic's own CRM</strong></td><td>Already theirs</td><td>Already their cost and their credit. Nothing changes</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Every Indian vendor you pick is one less reverse-charge question to answer. That is a real argument for an Indian provider where the technical choice is otherwise close.</p>
+
+    <h3>What this does not fix</h3>
+    <p>Client-paid tooling shrinks your foreign spend to your own build stack. It does not remove it. Whatever you buy to <em>build</em> with is still yours, still billed abroad, and still leaking 18% every month. The case for registering never rested on the client's tools.</p>
+  </section>
+
+  <section>
+    <p class="kicker">A common misreading</p>
+    <h2>Not charging GST does not make you cheaper</h2>
+    <p class="lead">It feels like an 18% discount to the client. Against a registered buyer it is worth nothing at all.</p>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>From the clinic's side</th><th>You unregistered</th><th>You registered</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>They pay you</td><td>₹40,000</td><td>₹47,200</td></tr>
+          <tr><td>They reclaim as input credit</td><td>nothing</td><td>₹7,200</td></tr>
+          <tr><td><strong>Their real cost</strong></td><td><strong>₹40,000</strong></td><td><strong>₹40,000</strong></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p>Identical, because input credit exists precisely to make GST neutral for a business buyer. Your 18% only ever looks like a discount to an <em>unregistered</em> customer.</p>
+
+    <p>So the commercial argument for staying unregistered does not survive contact with a registered client. It leaves your price the same, your paperwork slightly more awkward for their accounts team, and your own tooling 18% more expensive than it needs to be.</p>
+
+    <h3>One wrinkle, for accuracy</h3>
+    <p>Healthcare services are GST-exempt, but cosmetic treatments are carved out of that exemption and taxable. An aesthetics clinic is therefore likely to have a mixed supply: taxable cosmetic work alongside possibly exempt dermatology. Where supply is mixed, input credit is apportioned, so the reclaim is near-total rather than perfect.</p>
+    <p>That is their accountant's problem, not yours, and it does not change anything you should do. It only means the neutrality above is very close rather than exact.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Your paperwork</p>
+    <h2>What has to be on the invoice you send</h2>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>Line</th><th>Today, unregistered</th><th>After registering</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Document title</strong></td><td>Invoice, or Bill of Supply</td><td>Tax Invoice</td></tr>
+          <tr><td><strong>Your identity</strong></td><td>Valence Ops · S Tilak, Proprietor · registered address · PAN</td><td>Same, plus your GSTIN</td></tr>
+          <tr><td><strong>Numbering</strong></td><td colspan="2">Sequential, never reset mid-year, never skipped. Start at 001</td></tr>
+          <tr><td><strong>Client</strong></td><td colspan="2">Their full legal entity name, address and GSTIN. Not the brand name</td></tr>
+          <tr><td><strong>Service</strong></td><td>Description and the period covered</td><td>Same, plus the SAC code</td></tr>
+          <tr><td><strong>Tax</strong></td><td><strong>No GST line at all</strong></td><td>Taxable value, then CGST and SGST as separate lines</td></tr>
+          <tr><td><strong>Never include</strong></td><td colspan="2">A CIN. You do not have one, and printing one is a misrepresentation, not a formatting slip</td></tr>
+          <tr><td><strong>Worth including</strong></td><td colspan="2">Your Udyam number. It is what makes the 45-day payment protection enforceable</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout warn">
+      <p><strong>The one thing that is actually illegal.</strong> Do not put a GST line on an invoice while you are unregistered. Collecting tax without authority to collect it is an offence with a real penalty, and it is the single easiest mistake to make when copying someone else's invoice template.</p>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">Terms</p>
+    <h2>What to ask for, and when</h2>
+    <p class="lead">You are a proprietorship with personal liability and no working capital. You should not be financing a clinic.</p>
+
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr><th>Item</th><th>Recommended</th><th>Why</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><strong>Setup, ₹20,000</strong></td><td>100% before step 01 begins</td><td>Smaller number, and paying it is the commitment signal. Nothing starts before it clears</td></tr>
+          <tr><td><strong>Monthly, ₹40,000</strong></td><td>In advance, first working day of the month</td><td>In arrears means you carry a month of their costs on your own money</td></tr>
+          <tr><td><strong>Due</strong></td><td>On receipt, or net 7 if they push</td><td>Not net 30. You have no cushion for it</td></tr>
+          <tr><td><strong>Price stated as</strong></td><td>Exclusive of applicable taxes</td><td>Worth ₹7,200 a month the day you register. See example one</td></tr>
+          <tr><td><strong>Mode</strong></td><td>Bank transfer to the Valence Ops current account</td><td>Never a personal savings account. It destroys the audit trail even though the money is legally yours either way</td></tr>
+          <tr><td><strong>If they run late</strong></td><td>Work pauses at 15 days overdue</td><td>Simple, stated once, non-aggressive. Better than a penalty clause you would never invoke</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>Something you already have and probably do not know about</h3>
+    <p>Your Udyam registration makes Valence Ops a Micro enterprise under the MSMED Act. A buyer is then required to pay within <strong>45 days</strong>, and past that the liability is compound interest at three times the RBI bank rate. You would rarely invoke it against a first client, but it is real leverage and it costs nothing to have.</p>
+
+    <h3>How you actually collect</h3>
+    <p>At one client: issue the invoice by email or WhatsApp, they transfer to the current account, you mark it received. That is the whole system. Do not add a payment gateway to save two minutes of work and give away roughly 2% of every rupee.</p>
+    <p>Keep one sheet with seven columns: invoice number, date, client, fee, GST, TDS held, amount received, date received. That sheet is what makes your first ITR take an hour instead of a week.</p>
+  </section>
+
+  <section>
+    <p class="kicker">Income tax</p>
+    <h2>TDS, and the cash-flow trap inside it</h2>
+    <p>Your client deducts 10% on professional and technical fees and deposits it against your PAN. You will therefore <strong>always receive 90% of every invoice</strong>. Budget on 90%, not 100%.</p>
+    <p>You get that 10% back, but at filing, which can be up to a year later. It appears in Form 26AS and your AIS, and it comes off the final tax bill.</p>
+
+    <div class="callout warn">
+      <p><strong>The trap.</strong> The client withholds 10%. If your income lands you in a higher slab, your actual liability is more than 10%, and TDS will not have covered it. Once your yearly tax exceeds ₹10,000 you are also expected to pay <strong>advance tax</strong> in quarterly instalments through the year, not as one payment at filing.</p>
+      <p>Missing those instalments is not dramatic, but it accrues interest quietly and surfaces at exactly the wrong moment. Ask your CA to put the four dates in your calendar in the first month you have revenue.</p>
+    </div>
+
+    <p>You do not need a TAN yet. That is only for when <em>you</em> start deducting TDS from people you pay, which is triggered by turnover thresholds you are nowhere near.</p>
+  </section>
+
+  <section>
+    <p class="kicker">The short version</p>
+    <h2>Mandatory, crucial, and safely ignorable</h2>
+
+    <div class="stack">
+      <div class="band">
+        <header>
+          <span class="chip must">Mandatory now</span>
+          <h3>Get these wrong and it is a legal problem</h3>
+        </header>
+        <ul>
+          <li>No GST line on any invoice while unregistered.</li>
+          <li>Sequential invoice numbering, and records kept. Six years is the safe assumption.</li>
+          <li>Contracts signed <em>"S Tilak, Proprietor, trading as Valence Ops."</em> No CIN anywhere, ever.</li>
+          <li>Client money into the business current account, never personal savings.</li>
+          <li>Price written as exclusive of applicable taxes.</li>
+          <li>Business income declared in your personal ITR at slab rates, with advance tax if the bill will exceed ₹10,000.</li>
+        </ul>
+      </div>
+
+      <div class="band">
+        <header>
+          <span class="chip soon">Decide now</span>
+          <h3>Not urgent today, expensive if left</h3>
+        </header>
+        <ul>
+          <li><strong>GST registration.</strong> Mandatory from rupee one only if you pay a foreign <em>person or firm</em> for human-delivered work. An all-software stack does not trigger it. Otherwise optional until turnover nears ₹20 lakh, though registering stops the 18% leak from day one.</li>
+          <li><strong>Fix the two document defects first.</strong> The address on your S&amp;E certificate and your Udyam certificate do not match, and the NOC on file is unsigned and names a different building. Both are the classic cause of an application being pushed to physical verification.</li>
+          <li><strong>Professional Tax enrolment, Karnataka.</strong> Annual, small, mandatory for the proprietor. It accrues silently if unfiled.</li>
+        </ul>
+      </div>
+
+      <div class="band">
+        <header>
+          <span class="chip wait">Can wait</span>
+          <h3>Ignore these until something changes</h3>
+        </header>
+        <ul>
+          <li><strong>TAN.</strong> Only when you begin deducting TDS from contractors you pay.</li>
+          <li><strong>Payment gateway or auto-debit mandate.</strong> Pointless at one client, and it costs about 2%.</li>
+          <li><strong>E-invoicing.</strong> A turnover-threshold obligation far above where you are.</li>
+          <li><strong>Incorporating as a company.</strong> Worth doing at the first signed paying client or first outside money, not before. It would reset the bank account and the GST clock by weeks.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <p class="kicker">Action</p>
+    <h2>Ask your CA exactly two questions</h2>
+    <p>Everything above is mechanics you can hold yourself. These two need a professional, and both are short.</p>
+    <ul>
+      <li><strong>Do we pay any foreign person or firm for human-delivered work, rather than for automated services?</strong> If no, registration is optional and purely a cost question. If yes, it is compulsory from the first rupee and becomes urgent.</li>
+      <li><strong>Which SAC code do we bill under, and is our client's TDS deduction 194J at 10% or 194C?</strong> This decides a line on every invoice and 10% of every payment.</li>
+    </ul>
+    <p>Neither answer changes what to do this week: correct the address mismatch, get a signed NOC for the registered premises, then file.</p>
+  </section>
+
+  <footer>
+    <p>Internal working reference for Valence Ops, written 21 August 2026. It explains mechanics and is not a substitute for advice from a chartered accountant. Rates, thresholds and classifications change; confirm anything that carries a number before acting on it. Entity facts are drawn from the registration documents on file.</p>
+  </footer>
+
+</div>

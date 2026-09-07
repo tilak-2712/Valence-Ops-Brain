@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Obsidian per-machine state (keep the rest of .obsidian/ so vault settings travel)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Claude Code local settings
+.claude/settings.local.json

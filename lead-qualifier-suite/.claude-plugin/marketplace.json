@@ -1,0 +1,20 @@
+{
+  "name": "lead-qualifier-suite-marketplace",
+  "metadata": {
+    "description": "Lead qualification, personalization, and Gamma deck generation skills for the YouTube mini-course GTM offer."
+  },
+  "owner": {
+    "name": "Riddhiman"
+  },
+  "plugins": [
+    {
+      "name": "lead-qualifier-suite",
+      "description": "Qualify leads, write grounded personalized outreach lines, and generate a Gamma deck pitching the YouTube mini-course offer for each qualified lead.",
+      "author": {
+        "name": "Riddhiman"
+      },
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

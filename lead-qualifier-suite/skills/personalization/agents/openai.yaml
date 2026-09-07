@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Personalization"
+  short_description: "Write grounded custom outreach lines for already-qualified leads"
+  default_prompt: "Use $personalization to write custom outreach lines for the qualified leads in my Google Sheet."

@@ -1,0 +1,357 @@
+[
+ {
+  "id": 1,
+  "clinic": "The Aesthetic Edge",
+  "q": [
+   "The Aesthetic Edge",
+   "Edge"
+  ]
+ },
+ {
+  "id": 2,
+  "clinic": "Calyx Skin Lab - Indiranagar",
+  "q": [
+   "Calyx Skin Lab",
+   "Calyx Lab",
+   "Calyx"
+  ]
+ },
+ {
+  "id": 3,
+  "clinic": "Augusté Skin",
+  "q": [
+   "Auguste Skin",
+   "Auguste"
+  ]
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "q": [
+   "Aestheticaa by Dr Madhulika",
+   "Aestheticaa Madhulika",
+   "Aestheticaa"
+  ]
+ },
+ {
+  "id": 5,
+  "clinic": "Aurilueur Esthetic Clinic",
+  "q": [
+   "Aurilueur Esthetic Clinic",
+   "Aurilueur Esthetic",
+   "Aurilueur"
+  ]
+ },
+ {
+  "id": 6,
+  "clinic": "Metphi Clinic",
+  "q": [
+   "Metphi Clinic",
+   "Metphi"
+  ]
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "q": [
+   "KEZA Skin And Hair Clinic",
+   "KEZA"
+  ]
+ },
+ {
+  "id": 8,
+  "clinic": "Maya Medi Spa",
+  "q": [
+   "Maya Medi Spa",
+   "Maya Medi",
+   "Maya"
+  ]
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "q": [
+   "New Look Skin Hair And Laser Clinic",
+   "New Look",
+   "New"
+  ]
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "q": [
+   "SUTVACHA"
+  ]
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "q": [
+   "Seoulful Aesthetic Clinic",
+   "Seoulful"
+  ]
+ },
+ {
+  "id": 12,
+  "clinic": "Pearl Aesthetic",
+  "q": [
+   "Pearl Aesthetic",
+   "Pearl"
+  ]
+ },
+ {
+  "id": 13,
+  "clinic": "Livglam Anti-Ageing Clinic",
+  "q": [
+   "Livglam Anti Ageing Clinic",
+   "Livglam Anti",
+   "Livglam"
+  ]
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "q": [
+   "Pigment Skin And Hair Clinic",
+   "Pigment"
+  ]
+ },
+ {
+  "id": 15,
+  "clinic": "Dr. Sunaina Hameed – Advanced Dermatology & Skin Care Center |",
+  "q": [
+   "Dr. Sunaina Hameed Advanced Dermatology & Skin Care Center",
+   "Sunaina Hameed",
+   "Sunaina"
+  ]
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "q": [
+   "REGENIQUE Advanced Dermatology & Aesthetics Center",
+   "REGENIQUE &",
+   "REGENIQUE"
+  ]
+ },
+ {
+  "id": 17,
+  "clinic": "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+  "q": [
+   "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+   "Meraki &",
+   "Meraki"
+  ]
+ },
+ {
+  "id": 18,
+  "clinic": "DermaGlo Laser Skin Clinic",
+  "q": [
+   "DermaGlo Laser Skin Clinic",
+   "DermaGlo"
+  ]
+ },
+ {
+  "id": 19,
+  "clinic": "ZIUR Skin, Hair & Laser Clinic",
+  "q": [
+   "ZIUR Skin Hair & Laser Clinic",
+   "ZIUR &",
+   "ZIUR"
+  ]
+ },
+ {
+  "id": 20,
+  "clinic": "Skinray Clinic, Dommasandra",
+  "q": [
+   "Skinray Clinic Dommasandra",
+   "Skinray Dommasandra",
+   "Skinray"
+  ]
+ },
+ {
+  "id": 21,
+  "clinic": "Sun Light Skin Clinic",
+  "q": [
+   "Sun Light Skin Clinic",
+   "Sun Light",
+   "Sun"
+  ]
+ },
+ {
+  "id": 22,
+  "clinic": "Avance Derma Skin, Hair & Laser Clinic",
+  "q": [
+   "Avance Derma Skin Hair & Laser Clinic",
+   "Avance Derma",
+   "Avance"
+  ]
+ },
+ {
+  "id": 23,
+  "clinic": "Rock Aesthetics Clinic",
+  "q": [
+   "Rock Aesthetics Clinic",
+   "Rock"
+  ]
+ },
+ {
+  "id": 24,
+  "clinic": "Promed aesthetics",
+  "q": [
+   "Promed aesthetics",
+   "Promed"
+  ]
+ },
+ {
+  "id": 25,
+  "clinic": "bodyscience_clinic",
+  "q": [
+   "bodyscience clinic",
+   "bodyscience"
+  ]
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "q": [
+   "rich mond dental and aesthetic center",
+   "rich mond",
+   "rich"
+  ]
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "q": [
+   "cradle of youth",
+   "cradle of",
+   "cradle"
+  ]
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "q": [
+   "the radiant clinic",
+   "radiant"
+  ]
+ },
+ {
+  "id": 29,
+  "clinic": "dr_shettys_cosmetic_centre",
+  "q": [
+   "dr shettys cosmetic centre",
+   "shettys cosmetic",
+   "shettys"
+  ]
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "q": [
+   "Hairline International Hair & Skin Clinic Richmond Town",
+   "Hairline International",
+   "Hairline"
+  ]
+ },
+ {
+  "id": 31,
+  "clinic": "Aesthetics Plus - DrSurindher",
+  "q": [
+   "Aesthetics Plus",
+   "Plus"
+  ]
+ },
+ {
+  "id": 32,
+  "clinic": "dermo glamm",
+  "q": [
+   "dermo glamm",
+   "dermo"
+  ]
+ },
+ {
+  "id": 33,
+  "clinic": "Masa aesthetics",
+  "q": [
+   "Masa aesthetics",
+   "Masa"
+  ]
+ },
+ {
+  "id": 34,
+  "clinic": "skinwork",
+  "q": [
+   "skinwork"
+  ]
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "q": [
+   "divine aesthetics",
+   "divine"
+  ]
+ },
+ {
+  "id": 36,
+  "clinic": "The aesthetic Co.Skin",
+  "q": [
+   "The aesthetic Co.Skin",
+   "Co"
+  ]
+ },
+ {
+  "id": 37,
+  "clinic": "mantras clinic",
+  "q": [
+   "mantras clinic",
+   "mantras"
+  ]
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "q": [
+   "Facial aesthetics Center Dr Nisha Shetty KN",
+   "Facial Nisha",
+   "Facial"
+  ]
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "q": [
+   "Dr. Anil Abraham's Skin & Hair Clinic",
+   "Anil Abraham's",
+   "Anil"
+  ]
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "q": [
+   "moon aesthetic",
+   "moon"
+  ]
+ },
+ {
+  "id": 41,
+  "clinic": "Dr. Sneha Sood – Dermatologist in Bangalore | Sood Aesthetics",
+  "q": [
+   "Dr. Sneha Sood Dermatologist in Bangalore",
+   "Sneha Sood",
+   "Sneha"
+  ]
+ },
+ {
+  "id": 42,
+  "clinic": "Elixir Advanced Aesthetics and Follicular Revival Center",
+  "q": [
+   "Elixir Advanced Aesthetics and Follicular Revival Center",
+   "Elixir Follicular",
+   "Elixir"
+  ]
+ }
+]

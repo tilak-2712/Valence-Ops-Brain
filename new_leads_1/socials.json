@@ -1,0 +1,490 @@
+[
+ {
+  "id": 1,
+  "clinic": "The Aesthetic Edge",
+  "website": "https://theaestheticedge.in/",
+  "fb": "theaestheticedge",
+  "fb_all": [
+   "theaestheticedge"
+  ],
+  "ig_on_site": [
+   "theaestheticedge__"
+  ],
+  "err": null
+ },
+ {
+  "id": 2,
+  "clinic": "Calyx Skin Lab - Indiranagar",
+  "website": "https://derm.calyxskinlab.com/mole-removal?utm_source=google&utm_medium=ppc&utm_campaign=INDR_Dermatosurgery&utm_term=laser%20mole%20removal&ads_group=INDR_Mole_Removal&gad_source=1&gad_campaignid=22135492301&gbraid=0AAAAA-Ql4WYg2FyhlFrYpdJ1mTsU8Fgsb&gclid=CjwKCAjwyuDTBhB-EiwANCQhLEd9nx8Im_4o6EMFLezzfUcQ6r9_KyGOTLFXGst9hj_ytO0evDkwyRoCtg4QAvD_BwE",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 3,
+  "clinic": "Augusté Skin",
+  "website": "https://augusteskin.com/",
+  "fb": "auguste.skin.2024",
+  "fb_all": [
+   "auguste.skin.2024"
+  ],
+  "ig_on_site": [
+   "augusteskin"
+  ],
+  "err": null
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "website": "https://aestheticaabymadhulika.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "aestheticaa_drmadhulika"
+  ],
+  "err": null
+ },
+ {
+  "id": 5,
+  "clinic": "Aurilueur Esthetic Clinic",
+  "website": "https://www.aurilueur.com/",
+  "fb": "aurilueurestheticclinicbanglore",
+  "fb_all": [
+   "aurilueurestheticclinicbanglore"
+  ],
+  "ig_on_site": [
+   "aurilueurestheticclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 6,
+  "clinic": "Metphi Clinic",
+  "website": "https://www.metphi.com/",
+  "fb": "metphiclinic",
+  "fb_all": [
+   "metphiclinic"
+  ],
+  "ig_on_site": [
+   "metphiclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "website": "https://kezaclinic.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "kezaskinandhairclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 8,
+  "clinic": "Maya Medi Spa",
+  "website": "https://mayamedispa.in/",
+  "fb": "mayamedispaindia",
+  "fb_all": [
+   "mayamedispaindia"
+  ],
+  "ig_on_site": [
+   "mayamedispaindia"
+  ],
+  "err": null
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "website": "https://newlookskinandhairclinic.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "newlooklc"
+  ],
+  "err": null
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "website": "https://sutvachaofficial.com/",
+  "fb": "sutvacha",
+  "fb_all": [
+   "sutvacha"
+  ],
+  "ig_on_site": [
+   "sutvacha"
+  ],
+  "err": null
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "website": "https://seoulfulkoreancare.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "seoulful.korean_care"
+  ],
+  "err": null
+ },
+ {
+  "id": 12,
+  "clinic": "Pearl Aesthetic",
+  "website": "https://www.pearlaesthetic.in/",
+  "fb": "PearlAestheticBengaluru",
+  "fb_all": [
+   "PearlAestheticBengaluru"
+  ],
+  "ig_on_site": [
+   "pearl_aesthetic_clinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 13,
+  "clinic": "Livglam Anti-Ageing Clinic",
+  "website": "https://www.livglam.com/",
+  "fb": "livglamclinic",
+  "fb_all": [
+   "livglamclinic",
+   "LivglamClinic"
+  ],
+  "ig_on_site": [
+   "livglamclinics",
+   "livglamclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "website": "https://pigmentclinics.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "pigmentclinics"
+  ],
+  "err": null
+ },
+ {
+  "id": 15,
+  "clinic": "Dr. Sunaina Hameed – Advanced Dermatology & Skin Care Center |",
+  "website": "http://www.drsunaina.com/",
+  "fb": "yourfamilydermatologist",
+  "fb_all": [
+   "yourfamilydermatologist",
+   "v2.5/plugins"
+  ],
+  "ig_on_site": [
+   "sunainahameed"
+  ],
+  "err": null
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "website": "https://regenique.in/skin-clinic-whitefield/",
+  "fb": "regeniqueclinic",
+  "fb_all": [
+   "regeniqueclinic",
+   "regeniqueskinclinic"
+  ],
+  "ig_on_site": [
+   "regeniqueclinic",
+   "regeniqueskin"
+  ],
+  "err": null
+ },
+ {
+  "id": 17,
+  "clinic": "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+  "website": "https://www.merakiaesthetics.in/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "merakiaesthetics.in"
+  ],
+  "err": null
+ },
+ {
+  "id": 18,
+  "clinic": "DermaGlo Laser Skin Clinic",
+  "website": "https://www.dermaglo.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 19,
+  "clinic": "ZIUR Skin, Hair & Laser Clinic",
+  "website": "https://ziurwellness.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 20,
+  "clinic": "Skinray Clinic, Dommasandra",
+  "website": "https://www.skinray.in/",
+  "fb": "skinrayclinic",
+  "fb_all": [
+   "skinrayclinic"
+  ],
+  "ig_on_site": [
+   "skinray_clinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 21,
+  "clinic": "Sun Light Skin Clinic",
+  "website": "https://www.sunlightskinclinic.com/#about",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "sunlightskinclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 22,
+  "clinic": "Avance Derma Skin, Hair & Laser Clinic",
+  "website": "https://www.avancederma.com/",
+  "fb": "WixStudio",
+  "fb_all": [
+   "WixStudio"
+  ],
+  "ig_on_site": [
+   "wix"
+  ],
+  "err": null
+ },
+ {
+  "id": 23,
+  "clinic": "Rock Aesthetics Clinic",
+  "website": "https://rockaestheticsclinic.com/",
+  "fb": "rockaestheticsclinic",
+  "fb_all": [
+   "rockaestheticsclinic"
+  ],
+  "ig_on_site": [
+   "embed.js",
+   "rockaestheticsclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 24,
+  "clinic": "Promed aesthetics",
+  "website": "https://promedaesthetics.in/",
+  "fb": "promedaesthetics",
+  "fb_all": [
+   "promedaesthetics"
+  ],
+  "ig_on_site": [
+   "promedaestheticsclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 25,
+  "clinic": "bodyscience_clinic",
+  "website": null,
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": "no website in source list"
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "website": "https://richmonddental.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "richmondaestheticsblr"
+  ],
+  "err": null
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "website": null,
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": "no website in source list"
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "website": "https://theradiantskin.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "theradiantaestheticclinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 29,
+  "clinic": "dr_shettys_cosmetic_centre",
+  "website": "https://www.drshettys.in/cosmetic-treatments-before-and-after-images/",
+  "fb": "DrShettysCosmeticCentre",
+  "fb_all": [
+   "DrShettysCosmeticCentre"
+  ],
+  "ig_on_site": [
+   "dr_shettys_cosmetic_centre"
+  ],
+  "err": null
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "website": "https://www.hairline.co.in/",
+  "fb": "hairlineinternational",
+  "fb_all": [
+   "hairlineinternational"
+  ],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 31,
+  "clinic": "Aesthetics Plus - DrSurindher",
+  "website": null,
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": "no website in source list"
+ },
+ {
+  "id": 32,
+  "clinic": "dermo glamm",
+  "website": "https://www.dermoglamm.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [
+   "dermoglamm_laser_skin_hair"
+  ],
+  "err": null
+ },
+ {
+  "id": 33,
+  "clinic": "Masa aesthetics",
+  "website": "https://masaaesthetics.in/",
+  "fb": "2008/fbml",
+  "fb_all": [
+   "2008/fbml"
+  ],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 34,
+  "clinic": "skinwork",
+  "website": "https://www.skinworkclinic.com/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "website": "https://www.divineaesthetics.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 36,
+  "clinic": "The aesthetic Co.Skin",
+  "website": "https://theaestheticco.in/",
+  "fb": "theAestheticCoInd",
+  "fb_all": [
+   "theAestheticCoInd",
+   "theaestheticco"
+  ],
+  "ig_on_site": [
+   "theaestheticco",
+   "theaestheticco_ind"
+  ],
+  "err": null
+ },
+ {
+  "id": 37,
+  "clinic": "mantras clinic",
+  "website": "https://www.maac.co.in/",
+  "fb": "maacbangalore",
+  "fb_all": [
+   "maacbangalore"
+  ],
+  "ig_on_site": [
+   "maac_clinic"
+  ],
+  "err": null
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "website": null,
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": "no website in source list"
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "website": null,
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": "no website in source list"
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "website": "https://moonaesthetic.in/",
+  "fb": null,
+  "fb_all": [],
+  "ig_on_site": [],
+  "err": null
+ },
+ {
+  "id": 41,
+  "clinic": "Dr. Sneha Sood – Dermatologist in Bangalore | Sood Aesthetics",
+  "website": "https://www.drsoodaesthetics.com/dr-sneha-sood",
+  "fb": "snehasoodaesthetics",
+  "fb_all": [
+   "snehasoodaesthetics"
+  ],
+  "ig_on_site": [
+   "snehasoodaesthetics"
+  ],
+  "err": null
+ },
+ {
+  "id": 42,
+  "clinic": "Elixir Advanced Aesthetics and Follicular Revival Center",
+  "website": "https://elixirvcus.com/",
+  "fb": "p/Elixir-Skin-Hair-and-Laser-Clinic-New-BEL-Road-61578334685181",
+  "fb_all": [
+   "p/Elixir-Skin-Hair-and-Laser-Clinic-New-BEL-Road-61578334685181",
+   "elixirvcus"
+  ],
+  "ig_on_site": [
+   "elixiradvancedaesthetics",
+   "elixirvcus"
+  ],
+  "err": null
+ }
+]

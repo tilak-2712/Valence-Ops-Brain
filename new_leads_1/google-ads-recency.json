@@ -1,0 +1,212 @@
+[
+ {
+  "id": 1,
+  "clinic": "The Aesthetic Edge",
+  "advertiser": "The Aesthetic Edge",
+  "advertiserId": "AR18148001026366504961",
+  "creatives_seen": 25,
+  "first": "2024-03-20",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 5,
+  "clinic": "Aurilueur Esthetic Clinic",
+  "advertiser": "Aurilueur Esthetic Clinic",
+  "advertiserId": "AR14868080943616229377",
+  "creatives_seen": 7,
+  "first": "2022-09-26",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 6,
+  "clinic": "Metphi Clinic",
+  "advertiser": "Metphi Clinic",
+  "advertiserId": "AR17466447097254379521",
+  "creatives_seen": 17,
+  "first": "2025-02-07",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "advertiser": "Keza Skin and Hair Clinic",
+  "advertiserId": "AR14627585435287683073",
+  "creatives_seen": 9,
+  "first": "2025-04-04",
+  "last": "2026-08-13",
+  "days_since": 2
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "advertiser": "New Look Skin Care Ltd",
+  "advertiserId": "AR06456893080770445313",
+  "creatives_seen": 9,
+  "first": "2024-05-31",
+  "last": "2026-04-08",
+  "days_since": 129
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "advertiser": "SUTVACHA SKINCARE PRIVATE LIMITED",
+  "advertiserId": "AR03942636027604107265",
+  "creatives_seen": 9,
+  "first": "2025-03-18",
+  "last": "2025-12-13",
+  "days_since": 245
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "advertiser": "Sutvacha Skincare Pvt Ltd",
+  "advertiserId": "AR16144916352111476737",
+  "creatives_seen": 1,
+  "first": "2026-06-08",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "advertiser": "SEOULFUL",
+  "advertiserId": "AR02293129545240281089",
+  "creatives_seen": 22,
+  "first": "2025-07-01",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "advertiser": "PIGMENT PLUS SKIN AND HAIR CLINIC",
+  "advertiserId": "AR07037772220550086657",
+  "creatives_seen": 1,
+  "first": "2025-08-09",
+  "last": "2025-10-14",
+  "days_since": 305
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "advertiser": "REGENIQUE MULTISPECIALTY CENTER",
+  "advertiserId": "AR03173180576257540097",
+  "creatives_seen": 13,
+  "first": "2025-08-22",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 20,
+  "clinic": "Skinray Clinic, Dommasandra",
+  "advertiser": "Skinray Clinic",
+  "advertiserId": "AR07377965172633108481",
+  "creatives_seen": 1,
+  "first": "2025-10-21",
+  "last": "2026-06-27",
+  "days_since": 49
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "advertiser": "Richmond Dental and Aesthetic Centre",
+  "advertiserId": "AR06904177211268399105",
+  "creatives_seen": 2,
+  "first": "2025-10-31",
+  "last": "2026-08-13",
+  "days_since": 2
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "advertiser": "Radiant Aesthetics",
+  "advertiserId": "AR13533658519126933505",
+  "creatives_seen": 2,
+  "first": "2025-08-11",
+  "last": "2025-11-23",
+  "days_since": 265
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "advertiser": "HAIRLINE DIAGNOSTICS AND HEALTH CARE PRIVATE LIMITED",
+  "advertiserId": "AR10627776486666403841",
+  "creatives_seen": 23,
+  "first": "2023-12-19",
+  "last": "2026-08-09",
+  "days_since": 6
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "advertiser": "Hairline Clinic Brisbane Pty Ltd",
+  "advertiserId": "AR12949435764487225345",
+  "creatives_seen": 1,
+  "first": "2024-05-14",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "advertiser": "Hairline Design",
+  "advertiserId": "AR01961723924446183425",
+  "creatives_seen": 1,
+  "first": "2024-10-15",
+  "last": "2026-02-16",
+  "days_since": 180
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "advertiser": "DIVINE AESTHETICS SURGERY",
+  "advertiserId": "AR11428523154176212993",
+  "creatives_seen": 24,
+  "first": "2021-10-25",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "advertiser": "DIVINE AESTHETICS SURGERY LLP",
+  "advertiserId": "AR06558628417787396097",
+  "creatives_seen": 1,
+  "first": "2026-08-03",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 36,
+  "clinic": "The aesthetic Co.Skin",
+  "advertiser": "The Aesthetic Co",
+  "advertiserId": "AR10021053927371309057",
+  "creatives_seen": 25,
+  "first": "2025-04-14",
+  "last": "2026-08-14",
+  "days_since": 1
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "advertiser": "ANIL ABRAHAM",
+  "advertiserId": "AR08590589505793163265",
+  "creatives_seen": 1,
+  "first": "2025-02-03",
+  "last": "2026-07-27",
+  "days_since": 19
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "advertiser": "Moon Aesthetic",
+  "advertiserId": "AR11740269859252994049",
+  "creatives_seen": 25,
+  "first": "2025-10-28",
+  "last": "2026-08-14",
+  "days_since": 1
+ }
+]

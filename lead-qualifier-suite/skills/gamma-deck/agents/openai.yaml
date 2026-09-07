@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Gamma Deck"
+  short_description: "Generate a 3-video-idea Gamma deck per qualified lead and write the link back to the sheet"
+  default_prompt: "Use $gamma-deck to generate a personalized Gamma deck for each qualified lead in my Google Sheet."

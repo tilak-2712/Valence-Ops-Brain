@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Qualification"
+  short_description: "Qualify companies from a Google Sheet against the GTM target profile, batched via n8n"
+  default_prompt: "Use $qualification to qualify companies from my Google Sheet."

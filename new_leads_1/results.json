@@ -1,0 +1,1514 @@
+[
+ {
+  "id": 1,
+  "clinic": "The Aesthetic Edge",
+  "source": "csv",
+  "website": "https://theaestheticedge.in/",
+  "ig_handle": "theaestheticedge__",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "The Aesthetic Edge",
+   "creatives_seen": 25,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "The aesthetic edge",
+   "page_id": "102983836181329",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'The aesthetic edge' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "theaestheticedge__",
+   "followers": 12375,
+   "posts": 555,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 22.3
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 2,
+  "clinic": "Calyx Skin Lab - Indiranagar",
+  "source": "csv",
+  "website": "https://derm.calyxskinlab.com/mole-removal?utm_source=google&utm_medium=ppc&utm_campaign=INDR_Dermatosurgery&utm_term=laser%20mole%20removal&ads_group=INDR_Mole_Removal&gad_source=1&gad_campaignid=22135492301&gbraid=0AAAAA-Ql4WYg2FyhlFrYpdJ1mTsU8Fgsb&gclid=CjwKCAjwyuDTBhB-EiwANCQhLEd9nx8Im_4o6EMFLezzfUcQ6r9_KyGOTLFXGst9hj_ytO0evDkwyRoCtg4QAvD_BwE",
+  "ig_handle": "calyx_skin_lab",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": null,
+   "caveat": "no Facebook page located (site had no FB link; search found none)"
+  },
+  "instagram": {
+   "handle": "calyx_skin_lab",
+   "followers": 899,
+   "posts": 100,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 9.0
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 3,
+  "clinic": "Augusté Skin",
+  "source": "csv",
+  "website": "https://augusteskin.com/",
+  "ig_handle": "augusteskin",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Auguste Skin ",
+   "page_id": "291550247380664",
+   "total_ads": 1,
+   "newest_ad": "2026-08-14",
+   "days_since": 1,
+   "ads_last_30d": 1,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "augusteskin",
+   "followers": 5075,
+   "posts": null,
+   "verified": false,
+   "last_post": null,
+   "days_since_post": null,
+   "followers_per_post": null
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 4,
+  "clinic": "Aestheticaa by Dr Madhulika",
+  "source": "csv",
+  "website": "https://aestheticaabymadhulika.com/",
+  "ig_handle": "aestheticaa_drmadhulika",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Aestheticaa By Dr Madhulika",
+   "page_id": "107653952139441",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Aestheticaa By Dr Madhulika' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "aestheticaa_drmadhulika",
+   "followers": 15205,
+   "posts": 206,
+   "verified": true,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 73.8
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 5,
+  "clinic": "Aurilueur Esthetic Clinic",
+  "source": "csv",
+  "website": "https://www.aurilueur.com/",
+  "ig_handle": "aurilueurestheticclinic",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Aurilueur Esthetic Clinic",
+   "creatives_seen": 7,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Aurilueur Esthetic Clinic",
+   "page_id": "215907394933905",
+   "total_ads": 3,
+   "newest_ad": "2026-08-14",
+   "days_since": 1,
+   "ads_last_30d": 2,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "aurilueurestheticclinic",
+   "followers": 7777,
+   "posts": 114,
+   "verified": false,
+   "last_post": "2026-06-21",
+   "days_since_post": 55,
+   "followers_per_post": 68.2
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 6,
+  "clinic": "Metphi Clinic",
+  "source": "csv",
+  "website": "https://www.metphi.com/",
+  "ig_handle": "metphiclinic",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Metphi Clinic",
+   "creatives_seen": 17,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Metphi Clinic",
+   "page_id": "117999811191881",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Metphi Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "metphiclinic",
+   "followers": 829,
+   "posts": 205,
+   "verified": true,
+   "last_post": "2026-06-22",
+   "days_since_post": 54,
+   "followers_per_post": 4.0
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 7,
+  "clinic": "KEZA Skin And Hair Clinic",
+  "source": "csv",
+  "website": "https://kezaclinic.com/",
+  "ig_handle": "kezaskinandhairclinic",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Keza Skin and Hair Clinic",
+   "creatives_seen": 9,
+   "last_shown": "2026-08-13",
+   "days_since": 2,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Keza Skin and Hair Clinic",
+   "page_id": "543508685519195",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Keza Skin and Hair Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "kezaskinandhairclinic",
+   "followers": 1604,
+   "posts": 82,
+   "verified": false,
+   "last_post": "2026-02-11",
+   "days_since_post": 185,
+   "followers_per_post": 19.6
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 2
+ },
+ {
+  "id": 8,
+  "clinic": "Maya Medi Spa",
+  "source": "csv",
+  "website": "https://mayamedispa.in/",
+  "ig_handle": "mayamedispaindia",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Maya Medi Spa India",
+   "page_id": "109620383706118",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Maya Medi Spa India' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "mayamedispaindia",
+   "followers": 25632,
+   "posts": 1702,
+   "verified": true,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 15.1
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 9,
+  "clinic": "New Look Skin Hair And Laser Clinic",
+  "source": "csv",
+  "website": "https://newlookskinandhairclinic.com/",
+  "ig_handle": "newlooklc",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "New Look Skin Care Ltd",
+   "creatives_seen": 9,
+   "last_shown": "2026-04-08",
+   "days_since": 129,
+   "caveat": "'New Look Skin Care Ltd' — generic name, could be any of several businesses"
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Wellness at New Look Health & Skin Clinic",
+   "page_id": "111520465354619",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Wellness at New Look Health & Skin Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "newlooklc",
+   "followers": 639,
+   "posts": 270,
+   "verified": false,
+   "last_post": "2026-08-11",
+   "days_since_post": 4,
+   "followers_per_post": 2.4
+  },
+  "state": "UNRESOLVED",
+  "recency_days": 129
+ },
+ {
+  "id": 10,
+  "clinic": "SUTVACHA",
+  "source": "csv",
+  "website": "https://sutvachaofficial.com/",
+  "ig_handle": "sutvacha",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Sutvacha Skincare Pvt Ltd",
+   "creatives_seen": 1,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Sutvacha Skin & Laser Clinic",
+   "page_id": "134218533287456",
+   "total_ads": 1,
+   "newest_ad": "2026-04-20",
+   "days_since": 117,
+   "ads_last_30d": 0,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "sutvacha",
+   "followers": 6881,
+   "posts": 1707,
+   "verified": false,
+   "last_post": "2026-08-10",
+   "days_since_post": 5,
+   "followers_per_post": 4.0
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 11,
+  "clinic": "Seoulful Aesthetic Clinic",
+  "source": "csv",
+  "website": "https://seoulfulkoreancare.com/",
+  "ig_handle": "seoulful.korean_care",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "SEOULFUL",
+   "creatives_seen": 22,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /seoulful.korean_care returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "seoulful.korean_care",
+   "followers": 1017,
+   "posts": 183,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 5.6
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 12,
+  "clinic": "Pearl Aesthetic",
+  "source": "csv",
+  "website": "https://www.pearlaesthetic.in/",
+  "ig_handle": "pearl_aesthetic_clinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Pearl Aesthetic and Wellness clinic ",
+   "page_id": "412283798638252",
+   "total_ads": 1,
+   "newest_ad": "2024-11-20",
+   "days_since": 633,
+   "ads_last_30d": 0,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "pearl_aesthetic_clinic",
+   "followers": 4705,
+   "posts": 398,
+   "verified": false,
+   "last_post": "2026-08-07",
+   "days_since_post": 8,
+   "followers_per_post": 11.8
+  },
+  "state": "DORMANT",
+  "recency_days": 633
+ },
+ {
+  "id": 13,
+  "clinic": "Livglam Anti-Ageing Clinic",
+  "source": "csv",
+  "website": "https://www.livglam.com/",
+  "ig_handle": "livglamclinics",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Livglam Clinics",
+   "page_id": "100863874683668",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Livglam Clinics' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "livglamclinics",
+   "followers": 4012,
+   "posts": 383,
+   "verified": false,
+   "last_post": "2026-06-16",
+   "days_since_post": 60,
+   "followers_per_post": 10.5
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 14,
+  "clinic": "Pigment Skin And Hair Clinic",
+  "source": "csv",
+  "website": "https://pigmentclinics.in/",
+  "ig_handle": "pigmentclinics",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "PIGMENT PLUS SKIN AND HAIR CLINIC",
+   "creatives_seen": 1,
+   "last_shown": "2025-10-14",
+   "days_since": 305,
+   "caveat": "'PIGMENT PLUS SKIN AND HAIR CLINIC' — clinic is 'Pigment Skin And Hair Clinic'; 'Plus' differs"
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /pigmentclinics returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "pigmentclinics",
+   "followers": 318,
+   "posts": 80,
+   "verified": false,
+   "last_post": "2026-07-01",
+   "days_since_post": 45,
+   "followers_per_post": 4.0
+  },
+  "state": "UNRESOLVED",
+  "recency_days": 305
+ },
+ {
+  "id": 15,
+  "clinic": "Dr. Sunaina Hameed – Advanced Dermatology & Skin Care Center |",
+  "source": "csv",
+  "website": "http://www.drsunaina.com/",
+  "ig_handle": "sunainahameed",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Your Family Dermatologist",
+   "page_id": "1435251416705380",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Your Family Dermatologist' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "sunainahameed",
+   "followers": 2151,
+   "posts": 201,
+   "verified": false,
+   "last_post": "2026-07-22",
+   "days_since_post": 24,
+   "followers_per_post": 10.7
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 16,
+  "clinic": "REGENIQUE - Advanced Dermatology & Aesthetics Center",
+  "source": "csv",
+  "website": "https://regenique.in/skin-clinic-whitefield/",
+  "ig_handle": "regeniqueskin",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "REGENIQUE MULTISPECIALTY CENTER",
+   "creatives_seen": 13,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Regenique Wellness Clinic",
+   "page_id": "273889529790898",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Regenique Wellness Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "regeniqueskin",
+   "followers": 265,
+   "posts": 88,
+   "verified": false,
+   "last_post": "2026-08-08",
+   "days_since_post": 7,
+   "followers_per_post": 3.0
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 17,
+  "clinic": "Meraki Aesthetics Dermatology & Cosmetology Clinic",
+  "source": "csv",
+  "website": "https://www.merakiaesthetics.in/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+  "ig_handle": "merakiaesthetics.in",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /merakiaesthetics.in returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "merakiaesthetics.in",
+   "followers": 276,
+   "posts": 129,
+   "verified": false,
+   "last_post": "2026-08-08",
+   "days_since_post": 7,
+   "followers_per_post": 2.1
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 18,
+  "clinic": "DermaGlo Laser Skin Clinic",
+  "source": "csv",
+  "website": "https://www.dermaglo.in/",
+  "ig_handle": "dermaglo_laserskin_clinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "DermaGlo Laser Skin Clinic",
+   "page_id": "204586923243869",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'DermaGlo Laser Skin Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "dermaglo_laserskin_clinic",
+   "followers": 1296,
+   "posts": 478,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 2.7
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 19,
+  "clinic": "ZIUR Skin, Hair & Laser Clinic",
+  "source": "csv",
+  "website": "https://ziurwellness.com/",
+  "ig_handle": "ziurwellness",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "ZIUR - A Premium Aesthetic Clinic",
+   "page_id": "182312398288600",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'ZIUR - A Premium Aesthetic Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "ziurwellness",
+   "followers": 1613,
+   "posts": 341,
+   "verified": false,
+   "last_post": "2026-08-11",
+   "days_since_post": 4,
+   "followers_per_post": 4.7
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 20,
+  "clinic": "Skinray Clinic, Dommasandra",
+  "source": "csv",
+  "website": "https://www.skinray.in/",
+  "ig_handle": "skinray_clinic",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Skinray Clinic",
+   "creatives_seen": 1,
+   "last_shown": "2026-06-27",
+   "days_since": 49,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Skinray - Skin & Hair Clinic",
+   "page_id": "1362535387134017",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Skinray - Skin & Hair Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "skinray_clinic",
+   "followers": 2622,
+   "posts": 98,
+   "verified": false,
+   "last_post": "2026-05-14",
+   "days_since_post": 93,
+   "followers_per_post": 26.8
+  },
+  "state": "DORMANT",
+  "recency_days": 49
+ },
+ {
+  "id": 21,
+  "clinic": "Sun Light Skin Clinic",
+  "source": "csv",
+  "website": "https://www.sunlightskinclinic.com/#about",
+  "ig_handle": "sunlightskinclinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Sunlight Skin Clinic",
+   "page_id": "1149407674926863",
+   "total_ads": 3,
+   "newest_ad": "2026-08-12",
+   "days_since": 3,
+   "ads_last_30d": 3,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "sunlightskinclinic",
+   "followers": 166,
+   "posts": 41,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 4.0
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 3
+ },
+ {
+  "id": 22,
+  "clinic": "Avance Derma Skin, Hair & Laser Clinic",
+  "source": "csv",
+  "website": "https://www.avancederma.com/",
+  "ig_handle": "avancederma",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Avance Derma Skin, Hair, And Laser Clinic",
+   "page_id": "176436593089831",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Avance Derma Skin, Hair, And Laser Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "avancederma",
+   "followers": 492,
+   "posts": 114,
+   "verified": false,
+   "last_post": "2025-04-24",
+   "days_since_post": 478,
+   "followers_per_post": 4.3
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 23,
+  "clinic": "Rock Aesthetics Clinic",
+  "source": "csv",
+  "website": "https://rockaestheticsclinic.com/",
+  "ig_handle": "rockaestheticsclinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /rockaestheticsclinic returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "rockaestheticsclinic",
+   "followers": 1822,
+   "posts": 199,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 9.2
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 24,
+  "clinic": "Promed aesthetics",
+  "source": "zone-leads (Central)",
+  "website": "https://promedaesthetics.in/",
+  "ig_handle": "promedaestheticsclinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "ProMed Aesthetics",
+   "page_id": "102540977811984",
+   "total_ads": 2,
+   "newest_ad": "2026-08-08",
+   "days_since": 7,
+   "ads_last_30d": 2,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "promedaestheticsclinic",
+   "followers": 17462,
+   "posts": 1398,
+   "verified": true,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 12.5
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 7
+ },
+ {
+  "id": 25,
+  "clinic": "bodyscience_clinic",
+  "source": "zone-leads (Central)",
+  "website": null,
+  "ig_handle": "bodyscience_clinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /bodyscience_clinic returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "bodyscience_clinic",
+   "followers": 13420,
+   "posts": 302,
+   "verified": false,
+   "last_post": "2026-08-13",
+   "days_since_post": 2,
+   "followers_per_post": 44.4
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 26,
+  "clinic": "rich mond dental and aesthetic center",
+  "source": "zone-leads (Central)",
+  "website": "https://richmonddental.in/",
+  "ig_handle": "richmondaestheticsblr",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Richmond Dental and Aesthetic Centre",
+   "creatives_seen": 2,
+   "last_shown": "2026-08-13",
+   "days_since": 2,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Richmondentalindia",
+   "page_id": "100931278762551",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Richmondentalindia' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "richmondaestheticsblr",
+   "followers": 4555,
+   "posts": 342,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 13.3
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 2
+ },
+ {
+  "id": 27,
+  "clinic": "cradle of youth",
+  "source": "zone-leads (Central)",
+  "website": null,
+  "ig_handle": "cradle_of_youth",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /cradle_of_youth returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "cradle_of_youth",
+   "followers": 500,
+   "posts": 93,
+   "verified": false,
+   "last_post": "2026-01-01",
+   "days_since_post": 226,
+   "followers_per_post": 5.4
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 28,
+  "clinic": "the radiant clinic",
+  "source": "zone-leads (Central)",
+  "website": "https://theradiantskin.com/",
+  "ig_handle": "theradiantaestheticclinic",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "Radiant Aesthetics",
+   "creatives_seen": 2,
+   "last_shown": "2025-11-23",
+   "days_since": 265,
+   "caveat": "'Radiant Aesthetics' — clinic is 'The Radiant Clinic'; different trading name"
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "The Radiant Clinic",
+   "page_id": "654409187760867",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'The Radiant Clinic' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "theradiantaestheticclinic",
+   "followers": 432,
+   "posts": 37,
+   "verified": false,
+   "last_post": "2026-08-13",
+   "days_since_post": 2,
+   "followers_per_post": 11.7
+  },
+  "state": "UNRESOLVED",
+  "recency_days": 265
+ },
+ {
+  "id": 29,
+  "clinic": "dr_shettys_cosmetic_centre",
+  "source": "zone-leads (Central)",
+  "website": "https://www.drshettys.in/cosmetic-treatments-before-and-after-images/",
+  "ig_handle": "dr_shettys_cosmetic_centre",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /drshettyscosmeticcentre returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "dr_shettys_cosmetic_centre",
+   "followers": 2965,
+   "posts": 517,
+   "verified": false,
+   "last_post": "2026-07-30",
+   "days_since_post": 16,
+   "followers_per_post": 5.7
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 30,
+  "clinic": "Hairline International Hair & Skin Clinic, Richmond Town",
+  "source": "zone-leads (Central)",
+  "website": "https://www.hairline.co.in/",
+  "ig_handle": "hairlineinternationalclinic",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "HAIRLINE DIAGNOSTICS AND HEALTH CARE PRIVATE LIMITED",
+   "creatives_seen": 23,
+   "last_shown": "2026-08-09",
+   "days_since": 6,
+   "caveat": "'HAIRLINE DIAGNOSTICS AND HEALTH CARE PVT LTD' — clinic is 'Hairline International'; different entity"
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Hairline International Hair & Skin Clinic",
+   "page_id": "845005745611091",
+   "total_ads": 1,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "hairlineinternationalclinic",
+   "followers": 3168,
+   "posts": 504,
+   "verified": false,
+   "last_post": "2026-08-10",
+   "days_since_post": 5,
+   "followers_per_post": 6.3
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 6
+ },
+ {
+  "id": 31,
+  "clinic": "Aesthetics Plus - DrSurindher",
+  "source": "zone-leads (Central)",
+  "website": null,
+  "ig_handle": "aestheticsplusclinics",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Aesthetics PLUS - Cosmetic Surgery Clinics",
+   "page_id": "58114047072",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Aesthetics PLUS - Cosmetic Surgery Clinics' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "aestheticsplusclinics",
+   "followers": 2249,
+   "posts": 858,
+   "verified": false,
+   "last_post": "2026-07-18",
+   "days_since_post": 28,
+   "followers_per_post": 2.6
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 32,
+  "clinic": "dermo glamm",
+  "source": "zone-leads (Central)",
+  "website": "https://www.dermoglamm.in/",
+  "ig_handle": "dermoglamm_laser_skin_hair",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /dermoglamm_laser_skin_hair returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "dermoglamm_laser_skin_hair",
+   "followers": 8349,
+   "posts": 237,
+   "verified": false,
+   "last_post": "2026-08-14",
+   "days_since_post": 1,
+   "followers_per_post": 35.2
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 33,
+  "clinic": "Masa aesthetics",
+  "source": "zone-leads (Central)",
+  "website": "https://masaaesthetics.in/",
+  "ig_handle": "masa__aesthetics",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /masa__aesthetics returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "masa__aesthetics",
+   "followers": 428,
+   "posts": 170,
+   "verified": false,
+   "last_post": "2026-08-04",
+   "days_since_post": 11,
+   "followers_per_post": 2.5
+  },
+  "state": "UNRESOLVED",
+  "recency_days": null
+ },
+ {
+  "id": 34,
+  "clinic": "skinwork",
+  "source": "zone-leads (Central)",
+  "website": "https://www.skinworkclinic.com/",
+  "ig_handle": "skinworkclinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "theskinwork",
+   "page_id": "110264294900464",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'theskinwork' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "skinworkclinic",
+   "followers": 635,
+   "posts": 188,
+   "verified": false,
+   "last_post": "2026-07-13",
+   "days_since_post": 33,
+   "followers_per_post": 3.4
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 35,
+  "clinic": "divine aesthetics",
+  "source": "zone-leads (Central)",
+  "website": "https://www.divineaesthetics.in/",
+  "ig_handle": "divineaestheticblr",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "DIVINE AESTHETICS SURGERY",
+   "creatives_seen": 24,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": "'DIVINE AESTHETICS SURGERY' — surgery practice; clinic IG is @divineaestheticblr, 622 followers vs 500 lifetime ads"
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Divine aesthetics ",
+   "page_id": "298469373359255",
+   "total_ads": 4,
+   "newest_ad": "2026-08-12",
+   "days_since": 3,
+   "ads_last_30d": 1,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "divineaestheticblr",
+   "followers": 622,
+   "posts": 289,
+   "verified": false,
+   "last_post": "2026-08-10",
+   "days_since_post": 5,
+   "followers_per_post": 2.2
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 36,
+  "clinic": "The aesthetic Co.Skin",
+  "source": "zone-leads (Central)",
+  "website": "https://theaestheticco.in/",
+  "ig_handle": "theaestheticco_ind",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "The Aesthetic Co",
+   "creatives_seen": 25,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "The Aesthetic Co.",
+   "page_id": "489269764271819",
+   "total_ads": 23,
+   "newest_ad": "2026-08-13",
+   "days_since": 2,
+   "ads_last_30d": 8,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "theaestheticco_ind",
+   "followers": 20893,
+   "posts": 177,
+   "verified": true,
+   "last_post": "2026-08-06",
+   "days_since_post": 9,
+   "followers_per_post": 118.0
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 37,
+  "clinic": "mantras clinic",
+  "source": "zone-leads (Central)",
+  "website": "https://www.maac.co.in/",
+  "ig_handle": "mantrasclinic",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "MAAC",
+   "page_id": "1416983021931641",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'MAAC' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "mantrasclinic",
+   "followers": 10831,
+   "posts": 151,
+   "verified": true,
+   "last_post": "2026-06-27",
+   "days_since_post": 49,
+   "followers_per_post": 71.7
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 38,
+  "clinic": "Facial aesthetics Center - Dr Nisha Shetty KN | Maxillofacial Surgeon",
+  "source": "zone-leads (Central)",
+  "website": null,
+  "ig_handle": "facial_aesthetics_center",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Facial Aesthetics Center",
+   "page_id": "1289064047878890",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Facial Aesthetics Center' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "facial_aesthetics_center",
+   "followers": 4204,
+   "posts": 450,
+   "verified": true,
+   "last_post": "2026-08-10",
+   "days_since_post": 5,
+   "followers_per_post": 9.3
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ },
+ {
+  "id": 39,
+  "clinic": "Dr. Anil Abraham's Skin & Hair Clinic",
+  "source": "zone-leads (Central)",
+  "website": null,
+  "ig_handle": "docanilabe",
+  "google": {
+   "verdict": "Unconfirmed",
+   "advertiser": "ANIL ABRAHAM",
+   "creatives_seen": 1,
+   "last_shown": "2026-07-27",
+   "days_since": 19,
+   "caveat": "'ANIL ABRAHAM' — personal name only; identity not established"
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": null,
+   "page_id": null,
+   "total_ads": null,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page /docanilabe returned no_items (page absent or private)"
+  },
+  "instagram": {
+   "handle": "docanilabe",
+   "followers": 67202,
+   "posts": 240,
+   "verified": false,
+   "last_post": "2026-07-30",
+   "days_since_post": 16,
+   "followers_per_post": 280.0
+  },
+  "state": "UNRESOLVED",
+  "recency_days": 19
+ },
+ {
+  "id": 40,
+  "clinic": "moon aesthetic",
+  "source": "zone-leads (Central)",
+  "website": "https://moonaesthetic.in/",
+  "ig_handle": "moonaesthetic.in",
+  "google": {
+   "verdict": "Yes",
+   "advertiser": "Moon Aesthetic",
+   "creatives_seen": 25,
+   "last_shown": "2026-08-14",
+   "days_since": 1,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Unresolved",
+   "page_name": "Chaser Aspira",
+   "page_id": "1219604504559390",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "resolved page is 'Chaser Aspira' — not the clinic"
+  },
+  "instagram": {
+   "handle": "moonaesthetic.in",
+   "followers": 466,
+   "posts": 166,
+   "verified": false,
+   "last_post": "2026-08-10",
+   "days_since_post": 5,
+   "followers_per_post": 2.8
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 1
+ },
+ {
+  "id": 41,
+  "clinic": "Dr. Sneha Sood – Dermatologist in Bangalore | Sood Aesthetics",
+  "source": "zone-leads (Central)",
+  "website": "https://www.drsoodaesthetics.com/dr-sneha-sood",
+  "ig_handle": "snehasoodaesthetics",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "Yes",
+   "page_name": "Sood Aesthetics",
+   "page_id": "116964828160343",
+   "total_ads": 2,
+   "newest_ad": "2026-08-10",
+   "days_since": 5,
+   "ads_last_30d": 2,
+   "caveat": null
+  },
+  "instagram": {
+   "handle": "snehasoodaesthetics",
+   "followers": 215,
+   "posts": 594,
+   "verified": false,
+   "last_post": "2026-08-13",
+   "days_since_post": 2,
+   "followers_per_post": 0.4
+  },
+  "state": "SPENDING NOW",
+  "recency_days": 5
+ },
+ {
+  "id": 42,
+  "clinic": "Elixir Advanced Aesthetics and Follicular Revival Center",
+  "source": "zone-leads (Central)",
+  "website": "https://elixirvcus.com/",
+  "ig_handle": "elixiradvancedaesthetics",
+  "google": {
+   "verdict": "No",
+   "advertiser": null,
+   "creatives_seen": 0,
+   "last_shown": null,
+   "days_since": null,
+   "caveat": null
+  },
+  "meta": {
+   "verdict": "No",
+   "page_name": "Elixir - Skin, Hair and Laser Clinic - New BEL Road",
+   "page_id": "668128219725163",
+   "total_ads": 0,
+   "newest_ad": null,
+   "days_since": null,
+   "ads_last_30d": 0,
+   "caveat": "page 'Elixir - Skin, Hair and Laser Clinic - New BEL Road' confirmed, 0 ads in library"
+  },
+  "instagram": {
+   "handle": "elixiradvancedaesthetics",
+   "followers": 14571,
+   "posts": 243,
+   "verified": true,
+   "last_post": "2026-08-11",
+   "days_since_post": 4,
+   "followers_per_post": 60.0
+  },
+  "state": "NO PAID PRESENCE FOUND",
+  "recency_days": null
+ }
+]

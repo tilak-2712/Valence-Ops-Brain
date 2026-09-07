@@ -1,0 +1,11 @@
+# FROZEN 2026-08-13 — NOT THE LEDGER. Notion "Valence Leads tracker" (Batch 1 + Batch 2) is the
+# outbound send/outcome ledger; see CLAUDE.md for database IDs. Tilak does not log sends here and
+# will not be asked to. These 6 rows are a historical fragment of ~70-90 actual touches. Never
+# compute a rate from this file. Kept only because the notes carry three diagnosed failure modes.
+date,clinic,channel,touch_num,outcome,notes
+unknown,cozmo bliss,WhatsApp,1,no-reply,"Day-0: 7hr32min WhatsApp gap (12:28am enquiry, 8am reply) framed as costing patients to a nearby competitor. INADMISSIBLE HOOK under the 2026-08-13 published-hours rule — a midnight enquiry answered at opening time is normal behaviour. Reported retroactively 2026-07-25, exact send date unknown. [was: subtype=cosmetic surgery, archetype=mystery-shop story, depth=deep]"
+unknown,cozmo bliss,WhatsApp,2,no-reply,"Sent the 'Cozmo Blis - What We Found' Revenue Diagnostic PDF. Same midnight gap + 28 active ads. Reported retroactively 2026-07-25, exact send date unknown. [was: subtype=cosmetic surgery, archetype=mystery-shop story, depth=deep]"
+unknown,cozmo bliss,WhatsApp,3,no-reply,"Referenced 28 active ads, asked for a 30-min call. 3/3 WhatsApp touches got zero response; midnight-gap and 28-ads facts now fully spent on this clinic. Pivoting to Instagram POC next. [was: subtype=cosmetic surgery, archetype=mystery-shop story, depth=deep]"
+2026-07-28,the glow clinic,Instagram,1,no-reply,"Sent to Dr. Varshini (founder). Hook was IG DM 1hr reply gap + 25 ads; CTA pivoted to an unrelated 'AI reduces no-shows' pitch — hook and ask had no logical link. Glow's WhatsApp reply is 5 min, so the speed wedge was dead here before it was written. [was: subtype=skin/derm/cosmetology, archetype=mystery-shop story, depth=deep]"
+2026-07-28,the glow clinic,Instagram,1,no-reply,"Sent to Rohit Reddy (Co-Founder/Operations) — IDENTICAL TEXT to Dr. Varshini and Dr. Sindhiya. Same CTA-disconnect issue. [was: subtype=skin/derm/cosmetology, archetype=mystery-shop story, depth=deep]"
+2026-07-28,the glow clinic,Instagram,1,no-reply,"Sent to Dr. Sindhiya Annamma — IDENTICAL TEXT to the other 2 POCs. 3/3 identical messages to 3 people at one clinic; now a banned move (OUTBOUND_MEMORY §3). [was: subtype=skin/derm/cosmetology, archetype=mystery-shop story, depth=deep]"
