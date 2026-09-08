@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: reference
+---
 # SE Bangalore — paid-ads presence & Instagram audit
 
-**Generated** 2026-08-14 · **Scope** the 35-clinic working list in `QUALIFIED-TARGETS-2026-08-14.md`
+**Generated** 2026-08-14 · **Scope** the 35-clinic working list in `Qualified Targets 2026-08-14.md`
 **Cost** ₹0 / $0.00 — no Apify credits used. Account still holds ~$0.34 of its $5 monthly free tier.
 
 **Epistemic status of this file: `confirmed` for the facts below, which are dated, machine-read

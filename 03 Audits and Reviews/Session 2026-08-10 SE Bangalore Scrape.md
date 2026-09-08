@@ -9,14 +9,14 @@ Complete context for this session: the ask, every decision, what ran, what broke
 finished.
 
 > **STATUS: COMPLETED (with partial coverage).** The limit was raised mid-session by $3, the
-> geocoding was fixed, and the scrape finished. **Deliverable: `se-bangalore-scrape/NEW-CLINICS-TABLE.md`
+> geocoding was fixed, and the scrape finished. **Deliverable: `05 Prospects/SE Bangalore Scrape/New Clinics Table 2026-08-10.md`
 > — 52 core new targets.** Sections 1–10 below describe the *first, blocked* attempt and are kept
 > as the record of what went wrong; **§14 holds the final outcome and supersedes §9–§11.**
 
 Companion files:
-- `se-bangalore-scrape/NEW-CLINICS-TABLE.md` — **the deliverable**
+- `05 Prospects/SE Bangalore Scrape/New Clinics Table 2026-08-10.md` — **the deliverable**
 - `se-bangalore-scrape/raw/*.json` — all 251 raw records
-- `se-bangalore-scrape/process.py` — re-runnable filter/dedupe/exclusion pipeline
+- `05 Prospects/SE Bangalore Scrape/process.py` — re-runnable filter/dedupe/exclusion pipeline
 - `scrape-southeast-bangalore-RESUME.md` — **superseded**; only its Sarjapur/Bommanahalli polygons
   are still live (also reproduced in §14)
 

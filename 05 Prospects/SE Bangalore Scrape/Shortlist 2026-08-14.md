@@ -1,7 +1,12 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: reference
+---
 # SE Bangalore — shortlist from the 35-clinic working list
 
-**Generated** 2026-08-14 · **Inputs** `QUALIFIED-TARGETS-2026-08-14.md` (GBP + IG) ·
-`ADS-PRESENCE-2026-08-14.md` (Meta + Google ads, IG audit, Tilak's manual checks 14 Aug)
+**Generated** 2026-08-14 · **Inputs** `Qualified Targets 2026-08-14.md` (GBP + IG) ·
+`Ads Presence 2026-08-14.md` (Meta + Google ads, IG audit, Tilak's manual checks 14 Aug)
 
 ---
 
@@ -189,5 +194,5 @@ variable the whole framework is built to test — and per §4 both schema fields
 until the shop has run.
 
 The dormant advertisers invite the read *"they stopped because leads weren't converting."* That is
-recorded as `hypothesis` in `ADS-PRESENCE-2026-08-14.md` with its rebuttal attached, and is not a
+recorded as `hypothesis` in `Ads Presence 2026-08-14.md` with its rebuttal attached, and is not a
 ranking input here.

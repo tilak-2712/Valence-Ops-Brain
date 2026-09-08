@@ -18,7 +18,7 @@ Everything below is context for that.
 
 ## 1. What was asked
 
-Repeat the `se-bangalore-scrape/ADS-PRESENCE-2026-08-14.md` run — Meta ads (Y/N), Google ads (Y/N),
+Repeat the `05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14.md` run — Meta ads (Y/N), Google ads (Y/N),
 Instagram followers — against the clinics in `new_leads_1/`.
 
 Stated purpose: *"check what sources they have for lead flow, approximately judge how much money
@@ -173,7 +173,7 @@ Masa · cradle of youth
 6. Skip Group C.
 
 ### ⚠️ The unresolved discrepancy — it is about the method, not a clinic
-`SHORTLIST-2026-08-14.md` records **Augusté Skin: "Google: ~43 total · 10/30d · 4/7d"**, sourced to
+`Shortlist 2026-08-14.md` records **Augusté Skin: "Google: ~43 total · 10/30d · 4/7d"**, sourced to
 Tilak on 14 Aug and marked `confirmed`. **This run found no Google advertiser named Augusté.** A
 region-IN query for "Auguste Skin" returns exactly one advertiser: `SIDDANTH SARAF`.
 
@@ -218,7 +218,7 @@ update these and re-run it** rather than editing `results.json` by hand.
 
 ## 9. Things deliberately NOT done
 
-- **Gate A was not run.** `SHORTLIST-2026-08-14.md` argues hard kill #10 (named decision-maker on a
+- **Gate A was not run.** `Shortlist 2026-08-14.md` argues hard kill #10 (named decision-maker on a
   personal channel, ~2 min/clinic) should run *before* expensive research — on batch-7 evidence,
   3 of 10 dossiers need never have been written. It was flagged in the plan and you chose to proceed
   with ads/IG on all 42. Still unrun for this cohort.

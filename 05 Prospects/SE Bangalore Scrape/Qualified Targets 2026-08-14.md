@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: reference
+---
 # SE Bangalore — qualified outreach targets
 
 **Generated** 2026-08-14 · **Scrape date** 2026-08-10 · **Source** Google Maps via Apify
@@ -570,7 +575,7 @@ across `raw/` would catch this shape and costs nothing.
 | Layers Skin & Hair Clinic HSR Layout, Bengaluru | 4.5 (109) | dropped by Tilak 14 Aug |
 
 Also held back and **not** in this file: 18 national chains and 12 adjacent-vertical clinics.
-Both groups are in `NEW-CLINICS-TABLE.md` sections B and C, and in `results.json`.
+Both groups are in `New Clinics Table 2026-08-10.md` sections B and C, and in `results.json`.
 
 ## Appendix B — core clinics with neither website nor Instagram (8)
 
@@ -593,7 +598,7 @@ not chains — a phone-first or walk-in approach would still reach them.
 **Platform handles.** Instagram links scraped from website footers included `@wix` (880k, a
 "built with Wix" badge), `@tv` (Instagram's own account, 1.9M) and `@ekacarehq` (a healthtech
 vendor). These were discarded, not reported. Skin Xperts' *only* Instagram link was the Wix
-badge — it reads `IG = N` here and `IG = Y` in the older `NEW-CLINICS-TABLE.md`, which was built
+badge — it reads `IG = N` here and `IG = Y` in the older `New Clinics Table 2026-08-10.md`, which was built
 before the platform filter ran. This file is the corrected one.
 
 **Unrelated handles.** Where a website links an Instagram account bearing no relation to the

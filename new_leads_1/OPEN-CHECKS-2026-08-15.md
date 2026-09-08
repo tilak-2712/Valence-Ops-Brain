@@ -114,7 +114,7 @@ for all six, so only the Meta half is open.
 
 ## Also still open — and it is about the method, not a clinic
 
-`SHORTLIST-2026-08-14.md` records **Augusté Skin: "Google ~43 total · 10/30d · 4/7d"**, sourced to
+`Shortlist 2026-08-14.md` records **Augusté Skin: "Google ~43 total · 10/30d · 4/7d"**, sourced to
 Tilak, marked `confirmed`. This run found **no Google advertiser named Augusté** — a region-IN query
 for "Auguste Skin" returns exactly one advertiser, `SIDDANTH SARAF`.
 

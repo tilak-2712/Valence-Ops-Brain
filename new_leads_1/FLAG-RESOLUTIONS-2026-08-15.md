@@ -24,7 +24,7 @@ predicted, now confirmed three more times.
 **Consequence:** every Google **"No"** in this cohort and in the SE cohort is a *name-search miss
 away from being a Yes*. That includes the eleven "settled, nothing flagged" clinics in
 `SHOP-QUEUE-REMAINDER-2026-08-15.md` Group 2 and the 26 no-paid-presence clinics in
-`se-bangalore-scrape/ADS-PRESENCE-2026-08-14.md`. **Stop treating a name-search No as settled.**
+`05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14.md`. **Stop treating a name-search No as settled.**
 The reliable route is the reverse one Calyx demonstrated: start from the clinic's own paid landing
 page or GBP entity, not from its trading name.
 

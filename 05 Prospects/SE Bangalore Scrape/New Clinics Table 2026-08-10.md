@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-10
+date_modified: 2026-08-10
+status: reference
+---
 # New clinic prospects — SE Bangalore & outer expansion (scraped 2026-08-10)
 
 Source: Google Maps (Apify `compass/crawler-google-places`), 234 unique places across HSR Layout,

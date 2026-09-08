@@ -16,7 +16,7 @@ bottom are `hypothesis` and marked as such.**
 | `Clinic_Directory_Template….csv` | 24 → **23** | Aurilueur listed twice; the two `.csv` files are byte-identical |
 
 **42 unique clinics.** No overlap between the two lists. One doubled URL fixed (Aesthetics Plus).
-**Augusté Skin was already audited** in `SHORTLIST-2026-08-14.md` — kept here as a live control, see
+**Augusté Skin was already audited** in `Shortlist 2026-08-14.md` — kept here as a live control, see
 *Verification* below.
 
 ---
@@ -244,7 +244,7 @@ abandoned account in the cohort.
 
 ## Verification
 
-- **Augusté Skin is a live control.** `SHORTLIST-2026-08-14.md` recorded *"Meta: 1 ad"* and
+- **Augusté Skin is a live control.** `Shortlist 2026-08-14.md` recorded *"Meta: 1 ad"* and
   *"5,076 followers · 406 posts"* on 14 Aug. This run independently returned **1 Meta ad** and
   **5,075 followers** on 15 Aug. The Meta and Instagram layers reproduce.
 - **Google RPC controls:** `amazon` → 20 advertisers with country codes; `qzxwvunknownclinicxyz` → 0.
@@ -255,7 +255,7 @@ abandoned account in the cohort.
 
 ### The one discrepancy this run could not close
 
-`SHORTLIST-2026-08-14.md` records Augusté Skin as **"Google: ~43 total · 10/30d · 4/7d"**, sourced to
+`Shortlist 2026-08-14.md` records Augusté Skin as **"Google: ~43 total · 10/30d · 4/7d"**, sourced to
 Tilak on 14 Aug and marked `confirmed`. **This run found no Google advertiser named Augusté.** A
 region-IN transparency query for "Auguste Skin" returns exactly one advertiser — `SIDDANTH SARAF` —
 and nothing bearing the clinic's name.
