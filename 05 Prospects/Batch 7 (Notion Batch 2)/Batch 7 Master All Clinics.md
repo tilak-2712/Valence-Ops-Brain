@@ -1,8 +1,13 @@
+---
+date_created: 2026-08-17
+date_modified: 2026-09-08
+status: active
+---
 # Batch 7 — Master Consolidated Record, All Clinics
 
-*Assembled 2026-08-17 from every file in `Pre-outbound-research/batch7/`: `BATCH7-CONSOLIDATED-STATE.md`,
-`BATCH7-WEDGE-BRIEF.md`, `BATCH7-FOLLOWUP2-MESSAGES.md`, `go-list-full-report.md`,
-`batch-11-15-summary.md`, the 12 per-clinic dossiers, and the 10 shop screenshots in `mystery-shop-b7/`.
+*Assembled 2026-08-17 from every file in `05 Prospects/Batch 7 (Notion Batch 2)/`: `Batch 7 Consolidated State.md`,
+`Batch 7 Wedge Brief.md`, `Batch 7 Follow-up 2 Messages.md`, `Batch 7 Go List Full Report.md`,
+`Batch 11-15 Summary.md`, the 12 per-clinic dossiers, and the 10 shop screenshots in `mystery-shop-b7/`.
 Root-level `Findings Batch 7 Clinics 11-20.md` folded in for the #11–20 summary tables.*
 
 **Purpose:** one file carrying mystery-shop results, research, wedges, follow-ups and blockers for every
@@ -77,7 +82,7 @@ Shops ran Mon **10/8/26** (openers), with follow-on exchanges 11–12/8. Screens
 
 ### 2.2 Prices quoted, and who chased them
 
-From `BATCH7-WEDGE-BRIEF.md` §0.4 — *identical three-step script at all ten screenshot-backed clinics.*
+From `Batch 7 Wedge Brief.md` §0.4 — *identical three-step script at all ten screenshot-backed clinics.*
 
 | Clinic | Price quoted | Quoted at | Chased? |
 |---|---|---|---|
@@ -155,7 +160,7 @@ followed up unprompted** · 4 of 10 asked any qualifying question · **1 of 10 o
 
 | Metric | Value | Source |
 |---|---|---|
-| Touches spent, programme-wide | **~70–90 of 100** (70–90%) | `BATCH7-CONSOLIDATED-STATE.md` §6 |
+| Touches spent, programme-wide | **~70–90 of 100** (70–90%) | `Batch 7 Consolidated State.md` §6 |
 | Days spent | ~19 of 45 | same |
 | Calls held | **0** | same |
 | Pilots run | **0** | same |
@@ -418,7 +423,7 @@ Also corrected: a WhatsApp path **does** exist (clinic's own number), just isn't
 
 ### 4.4 Akera's pricing timestamp does not reconcile
 
-`BATCH7-CONSOLIDATED-STATE.md` and `BATCH7-WEDGE-BRIEF.md` §1.1 both say *"12 minutes to a treatment answer,
+`Batch 7 Consolidated State.md` and `Batch 7 Wedge Brief.md` §1.1 both say *"12 minutes to a treatment answer,
 8 more to itemised pricing"* off an 11:31 AM first reply → **~11:51 AM**. The §0.4 price table says the price
 landed **11/8 5:31 PM**. **These cannot both be right.** Re-read `akera-health.png` before using either.
 
@@ -1003,7 +1008,7 @@ built is proposed after the audit, from the clinic's own data.
 
 ## Appendix A — In the folder, not in the batch
 
-**Routines by Dr. Apoorva · Malleshwaram** — researched 8/8/26 in `go-list-full-report.md` §6.7, **no
+**Routines by Dr. Apoorva · Malleshwaram** — researched 8/8/26 in `Batch 7 Go List Full Report.md` §6.7, **no
 per-clinic dossier file, no Notion row, never shopped, never contacted.** Parked inventory, not a backlog
 item. **Exclude from every batch-7 denominator.**
 
@@ -1022,7 +1027,7 @@ this a legitimate **§1.1 #9 hard-kill candidate** ("functioning system already 
 Vitals Klinic landed.
 
 **Also referenced but not in this folder:** `23-d-white-feather.md` and `24-dr-ag-skin-and-hair.md` are named
-in `batch-11-15-summary.md` but the dossier files are not present in `batch7/`. D White Feather: founded 2021
+in `Batch 11-15 Summary.md` but the dossier files are not present in `batch7/`. D White Feather: founded 2021
 confirmed, 633 reviews, 1★ 13/1/26 *"Highly overpriced!... Avoid if you don't want to get overcharged"*, Meta
 ad check **failed with a false "0 ads" reading** (results panel never rendered — explicitly not a confirmed
 zero), founder Dr. Kanchan Chaudhary + associate Dr. Abhishek Ponathil, governance unresolved. Dr AG Skin &

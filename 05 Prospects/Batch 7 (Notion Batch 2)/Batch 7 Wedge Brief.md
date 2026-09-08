@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: active
+---
 # Batch 7 — Observation Brief for the Follow-up-2 One-Pagers
 
 *Rebuilt 2026-08-14, then stress-tested the same day. Every observed fact comes from a screenshot in

@@ -38,7 +38,7 @@ status: reference
 
 **The only step that produces evidence a competitor cannot reproduce is the only step that never runs.**
 
-Batch 7: 25 full dossiers in `Pre-outbound-research/batch7/`, **0 mystery shops** — both findings docs say so explicitly, and every wedge tag in them is marked provisional. Five days after the Aug-5 one-pager audit concluded that working the two warm threads was "worth more than 40 new sends," 52 more clinics were scraped.
+Batch 7: 25 full dossiers in `05 Prospects/Batch 7 (Notion Batch 2)/`, **0 mystery shops** — both findings docs say so explicitly, and every wedge tag in them is marked provisional. Five days after the Aug-5 one-pager audit concluded that working the two warm threads was "worth more than 40 new sends," 52 more clinics were scraped.
 
 Scraping, dossier-writing and one-pagers are all reproducible by anyone with Apify and a Claude subscription. A timestamped thread where *you* asked their front desk for a hair transplant price and nobody chased it is not. Every hour is going into the reproducible half.
 

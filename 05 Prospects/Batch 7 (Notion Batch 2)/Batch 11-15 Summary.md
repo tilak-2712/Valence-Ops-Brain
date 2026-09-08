@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-08
+date_modified: 2026-08-13
+status: active
+---
 # Batch #11–15 Summary — Vitals Klinic, Krity 360, D White Feather, Dr AG Skin & Hair, Project Skin
 
 > *(⚠️ Retired tests: the six-test SOP was cut to two — qualification and quote decay — on 2026-08-13. Persistence, after-hours, cross-channel and booking friction no longer run. See `wedge-signal-entry.md` §2.)*
@@ -11,7 +16,7 @@
 > Any `recommended_entry_sku: … PROVISIONAL` line below may already have been confirmed or redirected.
 
 
-*Researched 2026-08-08. Full dossiers: `21-vitals-klinic.md`, `22-krity-360.md`, `23-d-white-feather.md`, `24-dr-ag-skin-and-hair.md`, `25-project-skin.md` (all in `Pre-outbound-research/batch7/`). Instagram data per Apify run `EesNLVkPYhlCqqs50`, 2026-08-08 — not re-scraped. Mystery shop **not run** on any of the five — all mystery-shop fields are `pending — Tilak to run`, and every `funnel_break_stage`/`recommended_entry_sku` tag below is provisional per wedge-signal-entry.md §4.*
+*Researched 2026-08-08. Full dossiers: `21 Vitals Klinic.md`, `22 Krity 360.md`, `23-d-white-feather.md`, `24-dr-ag-skin-and-hair.md`, `25 Project Skin.md` (all in `05 Prospects/Batch 7 (Notion Batch 2)/`). Instagram data per Apify run `EesNLVkPYhlCqqs50`, 2026-08-08 — not re-scraped. Mystery shop **not run** on any of the five — all mystery-shop fields are `pending — Tilak to run`, and every `funnel_break_stage`/`recommended_entry_sku` tag below is provisional per wedge-signal-entry.md §4.*
 
 ## Summary table
 

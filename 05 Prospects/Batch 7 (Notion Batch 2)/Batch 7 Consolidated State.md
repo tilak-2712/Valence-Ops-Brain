@@ -1,7 +1,12 @@
+---
+date_created: 2026-09-08
+date_modified: 2026-09-08
+status: active
+---
 # Batch 7 (Notion "Batch 2") — Consolidated State
 
 *Assembled 2026-08-14. Merges: Notion `collection://754da695-40e4-839a-a0e7-07e28a0a27d8` (live, wins on
-all outbound state) + the 12 pre-shop dossiers in `Pre-outbound-research/batch7/` + `MEMORY.md` +
+all outbound state) + the 12 pre-shop dossiers in `05 Prospects/Batch 7 (Notion Batch 2)/` + `MEMORY.md` +
 `files/OUTBOUND_MEMORY.md` + persistent memory.*
 
 **Scope:** 12 clinics. All 12 have a Notion row, a repo dossier, and a mystery shop run 10–11/8/26.

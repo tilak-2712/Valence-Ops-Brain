@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-08
+date_modified: 2026-08-13
+status: active
+---
 # Dermatonik
 
 > ⚠️ **PRE-SHOP RECORD — live state is in Notion, not here.** This dossier was written before the

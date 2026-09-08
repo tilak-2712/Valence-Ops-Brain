@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: active
+---
 # Batch 7 — Follow-up 2 messages, one per clinic
 
 *Drafted 2026-08-14. Every fact is from the mystery-shop screenshot in `mystery-shop-b7/`, read

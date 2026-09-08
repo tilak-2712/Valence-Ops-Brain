@@ -5,7 +5,7 @@ status: active
 ---
 # Findings — Batch #11–15
 
-*Compiled 2026-08-08 from `Pre-outbound-research/batch7/` dossiers 21–25 (vitals-klinic, krity-360, d-white-feather, dr-ag-skin-and-hair, project-skin) + batch summary. Mystery shop not run on any — all wedge tags provisional.*
+*Compiled 2026-08-08 from `05 Prospects/Batch 7 (Notion Batch 2)/` dossiers 21–25 (vitals-klinic, krity-360, d-white-feather, dr-ag-skin-and-hair, project-skin) + batch summary. Mystery shop not run on any — all wedge tags provisional.*
 
 ## 1. Master table
 
