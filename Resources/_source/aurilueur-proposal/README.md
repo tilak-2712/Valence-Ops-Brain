@@ -1,7 +1,7 @@
 # Aurilueur proposal — build kit
 
 `proposal.html` + `style.css` + `fonts/` produce
-`../../../Proposals & SOW/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf`.
+`../../../04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf`.
 
 Design system copied from `../skinfit-proposal-v2` so a client who has seen one
 Valence Ops document recognises the next: Poppins 400/500/600 + Menlo, A4
