@@ -11,7 +11,7 @@ all outbound state) + the 12 pre-shop dossiers in `Pre-outbound-research/batch7/
 
 ## 0. The one thing that is NOT here
 
-**No DM copy exists anywhere for this batch.** Checked: every repo `.md`, `One-page-docs/`,
+**No DM copy exists anywhere for this batch.** Checked: every repo `.md`, `07 One-Pagers/`,
 `11 Hand-Off/`, and the Notion row page bodies (all 12 are blank pages — the data lives entirely
 in properties). Notion's `DM status` records *who, which channel, that DM-1 went* — never the text.
 

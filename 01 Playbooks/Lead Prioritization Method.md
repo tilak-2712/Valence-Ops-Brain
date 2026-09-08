@@ -36,7 +36,7 @@ status: active
 
 5. **Confirm every name on the list maps to a dossier, by grep on section headers — not by memory or assumption.** I grepped all three research files for clinic headers and found `outreach 3.md` contains 7 clinics that are *not* in the tracker (Idha, LA CROWN, Contura, Umbrella, Evolve, Sapphire, Evenly). Without that check I might have scored a clinic from the wrong cohort, or silently dropped one from the right cohort.
 
-6. **Check for a second source of per-clinic state that the dossiers don't have.** Here: Notion `Status` (touch count, what was sent, on-hold flags) and the `One-page-docs/` folder (which clinics have a diagnostic built). Both changed rankings. Dossiers describe the clinic; they say nothing about the state of the relationship.
+6. **Check for a second source of per-clinic state that the dossiers don't have.** Here: Notion `Status` (touch count, what was sent, on-hold flags) and the `07 One-Pagers/` folder (which clinics have a diagnostic built). Both changed rankings. Dossiers describe the clinic; they say nothing about the state of the relationship.
 
 7. **Note the coverage gaps rather than papering over them.** Notion's `Files` column is empty on all 20 rows, and `CLAUDE.md` references a `Google Docs` property that no longer exists in the live schema. So doc-to-clinic linkage had to be done manually from the folder listing.
 

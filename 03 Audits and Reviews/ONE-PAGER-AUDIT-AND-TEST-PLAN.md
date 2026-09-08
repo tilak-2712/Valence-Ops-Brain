@@ -19,7 +19,7 @@ status: reference
 > that "the tripwire will fire during this test" turned out to be right about the tripwire and wrong
 > about the test — the clock ran anyway, with nobody counting.
 
-*Drafted 2026-08-05. Reviews all 15 diagnostic one-pagers in `One-page-docs/` against `diagnostic_doc_playbook.md`, the live Notion tracker, both logs, and external benchmark research.*
+*Drafted 2026-08-05. Reviews all 15 diagnostic one-pagers in `07 One-Pagers/` against `diagnostic_doc_playbook.md`, the live Notion tracker, both logs, and external benchmark research.*
 
 **The evidence base this rests on:** ~25 clinics have received a one-pager, sent cold as touch 2/3. Two responded — Sapphire Skin Clinic (said the observation was good, asked for a company profile, received a deck) and Aesthetica Veda (saw the one-pager, handed over a decision-maker's email). Zero calls booked. Zero pilots.
 

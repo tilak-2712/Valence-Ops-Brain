@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-14
+status: active
+---
 # The Diagnostic One-Pager — Playbook
 *Reference doc for building outbound diagnostic PDFs. Send alongside the Cozmo Blis example.*
 

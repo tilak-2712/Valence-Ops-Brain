@@ -11,7 +11,7 @@ status: active
 
 **What it is not:** a proposal. There is no scope table, no deliverables list, no signature line, no pricing annexure. The moment it looks like a proposal, it gets read like one — skimmed for the number at the bottom, and everything above it becomes preamble.
 
-**Inherits from `One-page-docs/diagnostic_doc_playbook.md`** — the diagnostic pyramid, the three buckets, the never-invent-a-number rule, the clinical-case-file register. Read §3 and §5 of that file before drafting. The difference: the one-pager was written from outside with one verified fact. This is written after they told you how it actually works. It can be far more specific — and far more specific is exactly what makes it worth reading.
+**Inherits from `01 Playbooks/diagnostic_doc_playbook.md`** — the diagnostic pyramid, the three buckets, the never-invent-a-number rule, the clinical-case-file register. Read §3 and §5 of that file before drafting. The difference: the one-pager was written from outside with one verified fact. This is written after they told you how it actually works. It can be far more specific — and far more specific is exactly what makes it worth reading.
 
 ---
 
