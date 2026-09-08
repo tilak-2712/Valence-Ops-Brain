@@ -468,6 +468,9 @@ verify-2026-08-18/gads.json,1800,ba2732ce103600ef,2026-08-18 16:53,2026-08-18 16
 verify-2026-08-18/gbp.json,3738,98035e098609ce24,2026-08-18 16:42,2026-08-18 16:42,n,0,0,"JSON array, 20 items, keys: q,t,s,r,ph,w"
 verify-2026-08-18/state.json,48863,d83ed13f1fa6cf9a,2026-08-18 16:39,2026-08-25 11:42,n,0,0,"JSON object, keys: generated,budget_usd_start,spent_usd,rows,method_notes,ig_rejected_impostors"
 wedge-signal-entry.md,18878,0e776b5c6565b9fc,2026-08-13 02:46,2026-08-13 02:46,n,0,0,"Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook"
+valenceops-context-september.pdf,168389,26d66f8f61db1aa6,2026-09-08 17:25,2026-09-08 17:25,n,,,PDF added 2026-09-08 after Phase 0 audit; appended 2026-09-08 (Phase 1 pre-step)
+Valence-Data-Register.pdf,757518,c1214a59c640323f,2026-09-08 17:27,2026-09-08 17:27,n,,,PDF added 2026-09-08 after Phase 0 audit; appended 2026-09-08 (Phase 1 pre-step)
+Valence_Ops_Systems_and_Current_Technical_Stack.pdf,955776,7221479756e21959,2026-09-08 17:28,2026-09-08 17:28,n,,,PDF added 2026-09-08 after Phase 0 audit; appended 2026-09-08 (Phase 1 pre-step)
 
 ## EXACT DUPLICATES (same sha256)
 checksum,paths
