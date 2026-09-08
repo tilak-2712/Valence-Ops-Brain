@@ -66,7 +66,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 |---|---|
 | `files/OUTBOUND_SYSTEM_AUDIT.md` (22 Jul) | The pipeline terminated at research, not outreach. Source of the kill-filter, 4-touch sequence, reply-handling frameworks. |
 | `ONE-PAGER-AUDIT-AND-TEST-PLAN.md` (5 Aug) | The one-pager wins attention and loses conversion: 25 sends → 2 replies → **0 calls**. Template convergence across all 15 docs. |
-| `outbound-process-changes-2026-08-11.md` (11 Aug) | The only irreproducible step — the mystery shop — is the only one that never runs. Source of the published-hours rule and the 2-test shop. |
+| `Outbound Process Changes 2026-08-11.md` (11 Aug) | The only irreproducible step — the mystery shop — is the only one that never runs. Source of the published-hours rule and the 2-test shop. |
 
 **These three are historical records of what was found, not live rulebooks.** Everything in them that became a rule now lives in the governing docs above. Where a proposal in them was rejected, the rejection is logged in `OUTBOUND_MEMORY.md` §6 — don't re-adopt it from the audit doc.
 

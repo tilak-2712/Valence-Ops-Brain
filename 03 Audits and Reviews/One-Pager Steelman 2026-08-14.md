@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: reference
+---
 # The One-Pager — Steel-Man Review
 *2026-08-14. Reviews the 10 HTML/PDF diagnostics in `One-page-docs/` plus the 5 earlier PDF-only ones, the handoff kit, and the rules that now govern them.*
 

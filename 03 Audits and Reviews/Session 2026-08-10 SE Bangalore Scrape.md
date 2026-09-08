@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-10
+date_modified: 2026-08-10
+status: reference
+---
 # Session log — SE Bangalore clinic scrape (2026-08-10)
 
 Complete context for this session: the ask, every decision, what ran, what broke, and where it

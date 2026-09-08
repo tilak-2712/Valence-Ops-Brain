@@ -6,7 +6,7 @@
 > an open row in `files/REPLY_LOG.csv`.
 
 **Originally set for:** 2026-08-13 · **Prep drafted:** 2026-08-12
-**Sources:** `Pre-outbound-research/outreach 3.md` (Sapphire dossier), `se-bangalore-scrape/raw/bannerghatta.json` (GBP scrape 2026-08-10), `ONE-PAGER-AUDIT-AND-TEST-PLAN.md`, `SALES_MOTION.md`, `01 Playbooks/Sales Motion/03 Operations Call.md`, `outbound-process-changes-2026-08-11.md`.
+**Sources:** `Pre-outbound-research/outreach 3.md` (Sapphire dossier), `se-bangalore-scrape/raw/bannerghatta.json` (GBP scrape 2026-08-10), `ONE-PAGER-AUDIT-AND-TEST-PLAN.md`, `SALES_MOTION.md`, `01 Playbooks/Sales Motion/03 Operations Call.md`, `Outbound Process Changes 2026-08-11.md`.
 **Not in the Notion tracker** — no row exists for Sapphire. Create one after the call.
 
 ---

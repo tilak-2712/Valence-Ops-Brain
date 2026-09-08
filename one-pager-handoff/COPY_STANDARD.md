@@ -240,7 +240,7 @@ on 2026-08-13 point opposite ways on a *cold* asset:
 Two named slots on a cold touch-2 document is asking a doctor for a call as the
 first ask. The named-slot rule comes from `SALES_MOTION.md` Rule 1, which governs
 what happens **after a reply** — it is correct there and contested here. Full
-reasoning in `ONE-PAGER-STEELMAN-2026-08-14.md` §3.2.
+reasoning in `One-Pager Steelman 2026-08-14.md` §3.2.
 
 **Two zero-cost asks worth using while that is unresolved** (both pass every
 non-negotiable in this file):

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-13
+status: reference
+---
 # One-Pager Audit & Outbound Test Plan
 
 > ## 📕 HISTORICAL RECORD — resolved 2026-08-13. Do not draft or decide from this file.

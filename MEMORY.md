@@ -171,4 +171,4 @@ The sequencing lesson still stands — dossiers were written before shops. The e
 
 - Notion "Valence Ops Leads Tracker" — see `CLAUDE.md` for URLs and schema. Covers Batch 1 only.
 - `COHORT-INDEX.md` — which cohort is which, and where each clinic's dossier lives.
-- Apify is connected and pre-authorized for this project's research. Free tier is $5/month and has been exhausted mid-batch before (`SESSION-2026-08-10-se-bangalore-scrape.md`).
+- Apify is connected and pre-authorized for this project's research. Free tier is $5/month and has been exhausted mid-batch before (`Session 2026-08-10 SE Bangalore Scrape.md`).

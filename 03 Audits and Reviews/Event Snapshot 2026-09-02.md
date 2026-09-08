@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-02
+date_modified: 2026-09-02
+status: reference
+---
 # ValenceOps — Event Snapshot
 **Compiled 2026-09-02. Covers everything from project start (mid-July) through the latest dated file in the repo.**
 
