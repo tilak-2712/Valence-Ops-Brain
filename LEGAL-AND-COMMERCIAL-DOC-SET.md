@@ -279,7 +279,7 @@ Five documents. Only two are strictly necessary; the rest are cheap and remove a
 
 ## 7 · Stage E — Signed → onboarding
 
-`sales-motion/05-pilot-and-onboarding.md` already owns the mechanics. This is only the paperwork layer.
+`01 Playbooks/Sales Motion/05 Pilot and Onboarding.md` already owns the mechanics. This is only the paperwork layer.
 
 ### 7.1 The 45-minute setup session — collect all of this live, on one call
 1. Meta Business Manager admin or partner access.

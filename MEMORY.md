@@ -89,7 +89,7 @@ When an after-hours auto-reply only *promises* a human callback, the deeper insi
 **Why this is better, not just additive:** it holds regardless of whether the promised callback happened. A single mystery-shop data point about a missed callback is fragile — one data point, often ambiguous about whose follow-up it was (this exact ambiguity came up on Ministry of Skin). The capture-window framing sidesteps that.
 **How to apply:** lead with the concrete broken/kept-promise fact if one exists, but build the "why this matters" around the missed-capture insight. First built into the Ministry of Skin one-pager, 2026-08-01. **No reply. Unproven.**
 
-**[PROVISIONAL — designed 2026-08-04, still zero conversations run through it] The post-reply sales motion (`SALES_MOTION.md` + `sales-motion/`):**
+**[PROVISIONAL — designed 2026-08-04, still zero conversations run through it] The post-reply sales motion (`SALES_MOTION.md` + `01 Playbooks/Sales Motion/`):**
 Five stages, each with an owner and a clock. Three governing rules: nothing ships without a date or two named slots; diagnosis and prescription never happen in the same conversation; a warm reply outranks the send quota.
 **Three deliberate departures from Tilak's stated brief:** (a) no "company profile" — replaced with a method-and-terms "How We Work" doc; (b) the audit call is split into two conversations; (c) `08 Collateral/Audit Call Docs/02_data_intake_requirements.md` re-staged to Stage-4 kickoff.
 **Positioning bet inside it:** with zero clients, "we're early" is volunteered rather than extracted under questioning. Unproven.

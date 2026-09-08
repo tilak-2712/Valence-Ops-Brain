@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-13
+status: active
+---
 # How We Work
 
 **Valence Ops — Bengaluru**

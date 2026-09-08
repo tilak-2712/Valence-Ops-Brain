@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-09-08
+status: active
+---
 # SALES_MOTION.md — What Happens After They Reply
 
 **Status:** v1 · drafted 2026-08-04 · **zero pilots closed — everything here is designed, not proven.** Every stage carries an explicit "what would falsify this" note. Update from real conversations, not from re-reading this file.
@@ -5,12 +10,12 @@
 **Scope:** this document owns everything from the moment a clinic replies positively to the end of day 14 of a pilot. Everything *before* the reply is owned by `personalized-outbound-v2.md`, `files/OUTBOUND_MEMORY.md`, and `wedge-signal-entry.md`. Don't duplicate those here.
 
 **Companion files:**
-- `sales-motion/01-reply-to-call.md` — triage rules + message templates
-- `sales-motion/02-credibility-packet.md` — Loom scripts, demo spec, what ships when
-- `sales-motion/03-operations-call.md` — the call script and compressed question map
-- `sales-motion/04-findings-and-rollout.md` — the post-call document template
-- `sales-motion/05-pilot-and-onboarding.md` — agreement terms + the first 14 days
-- `sales-motion/client-facing/HOW-WE-WORK.md` — the client-facing doc (the "company profile" replacement)
+- `01 Playbooks/Sales Motion/01 Reply to Call.md` — triage rules + message templates
+- `01 Playbooks/Sales Motion/02 Credibility Packet.md` — Loom scripts, demo spec, what ships when
+- `01 Playbooks/Sales Motion/03 Operations Call.md` — the call script and compressed question map
+- `01 Playbooks/Sales Motion/04 Findings and Rollout.md` — the post-call document template
+- `01 Playbooks/Sales Motion/05 Pilot and Onboarding.md` — agreement terms + the first 14 days
+- `01 Playbooks/Sales Motion/HOW-WE-WORK.md` — the client-facing doc (the "company profile" replacement)
 
 ---
 
@@ -75,7 +80,7 @@ If there are 3+ live conversations, stop new Day-0 sends until they're through S
 
 ### Stage 0 — Reply triage (≤4 business hours)
 
-Three reply types, three different moves. Full templates in `sales-motion/01-reply-to-call.md`.
+Three reply types, three different moves. Full templates in `01 Playbooks/Sales Motion/01 Reply to Call.md`.
 
 | Type | What it looks like | What they're actually asking | Move |
 |---|---|---|---|
@@ -96,10 +101,10 @@ Purpose, stated as a constraint: **the call must be able to be 100% about their 
 Three components, in build-priority order:
 
 **1. The walkthrough video — 5–7 min, recorded once, reused.**
-Face and screen. Who you are (honest about stage), what this is in plain terms, the system actually running, what a first month looks like, what you'd need. Script in `sales-motion/02-credibility-packet.md`.
+Face and screen. Who you are (honest about stage), what this is in plain terms, the system actually running, what a first month looks like, what you'd need. Script in `01 Playbooks/Sales Motion/02 Credibility Packet.md`.
 
 **2. `HOW-WE-WORK.md` → PDF — the "company profile" replacement.**
-Method and terms, not claims. Four pages. Includes the explicit "we're early" section. Client-facing copy in `sales-motion/client-facing/`.
+Method and terms, not claims. Four pages. Includes the explicit "we're early" section. Client-facing copy in `01 Playbooks/Sales Motion/`.
 
 **3. The live product demo — ✅ BUILT (confirmed 2026-08-13).**
 A working WhatsApp number the founder can message *themselves*, during or before the call, and watch it qualify the enquiry and book them in. With zero clients, this is the closest thing to evidence that exists. A claim they can test is not a claim.
@@ -112,7 +117,7 @@ Personalized variant for high-priority clinics: a 3–4 minute screen recording 
 
 ### Stage 2 — The operations call (50 min, within 5 days)
 
-Full script in `sales-motion/03-operations-call.md`. Shape:
+Full script in `01 Playbooks/Sales Motion/03 Operations Call.md`. Shape:
 
 | Minutes | Block | Purpose |
 |---|---|---|
@@ -131,7 +136,7 @@ Full script in `sales-motion/03-operations-call.md`. Shape:
 
 ### Stage 3 — Findings + rollout plan (48–72h)
 
-Template in `sales-motion/04-findings-and-rollout.md`. The document does five things:
+Template in `01 Playbooks/Sales Motion/04 Findings and Rollout.md`. The document does five things:
 
 1. What we heard — their words, quoted back
 2. What we verified from outside — the pre-existing audit
@@ -149,7 +154,7 @@ Terms are settled in `OUTBOUND_MEMORY.md` §5 and are not re-opened here: **the 
 
 ⚠️ **The free-pilot / paid-implementation boundary is unresolved** — see `OUTBOUND_MEMORY.md` §5. Don't describe step 3 or quote a price to a clinic until it's settled.
 
-What's new here is the onboarding mechanics, in `sales-motion/05-pilot-and-onboarding.md`. Two findings drive it:
+What's new here is the onboarding mechanics, in `01 Playbooks/Sales Motion/05 Pilot and Onboarding.md`. Two findings drive it:
 
 - **Access-gathering is the #1 cause of stalled onboarding**, and email ping-pong for credentials burns 1–2 weeks. Fix: a single 45-minute screen-share setup session where everything is collected at once, booked before the pilot start date.
 - **First visible result inside 7–10 days or momentum dies.** Fix: a deliberately small artifact live by **day 3** — something the clinic can see working, even if it's one flow on one channel. Not the full build. Something real, fast.
@@ -208,7 +213,7 @@ Four numbers matter more than the rest, and none of them are reply rate:
 
 ## 7 · Build order — what to do first
 
-Everything in `sales-motion/` is drafted and ready to use, except the two things that need recording and building. Sequence:
+Everything in `01 Playbooks/Sales Motion/` is drafted and ready to use, except the two things that need recording and building. Sequence:
 
 1. **Record the 6-minute walkthrough video.** Script is written. One take is fine; polish is not the point and over-polish reads as agency. **Status unconfirmed as of 2026-08-13 — no file exists in this folder.**
 2. **Export `HOW-WE-WORK.md` to a clean PDF.** Same typographic treatment as the one-pagers (`diagnostic_doc_playbook.md` §6). **The markdown exists; no PDF exists in this folder.** It needs to be attachable in 10 seconds. Resolve the Step-3 pricing flag in that file before exporting.

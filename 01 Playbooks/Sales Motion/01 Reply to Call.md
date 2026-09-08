@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-04
+date_modified: 2026-08-13
+status: active
+---
 # 01 — Reply to Booked Call
 
 **Owns:** Stage 0 and the sending half of Stage 1. From the moment a positive reply lands to the moment a call is on the calendar.

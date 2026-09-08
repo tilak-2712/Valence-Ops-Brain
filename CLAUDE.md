@@ -50,7 +50,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 | `files/OUTBOUND_MEMORY.md` | Tripwires, hook rankings, banned phrases, tone, offer terms, decision log, update ritual |
 | `wedge-signal-entry.md` | Disqualification framework, the 2-test mystery-shop SOP, signal→wedge routing table |
 | `personalized-outbound-v2.md` | The drafting engine — buyer psychology, Three Threads sequence, templates, self-check |
-| `SALES_MOTION.md` + `sales-motion/` | Everything after a positive reply: 5 stages, clocks, scripts, client-facing docs. **Designed, never run.** |
+| `SALES_MOTION.md` + `01 Playbooks/Sales Motion/` | Everything after a positive reply: 5 stages, clocks, scripts, client-facing docs. **Designed, never run.** |
 | `PROCESS-MAP.md` | The process as it actually runs, step by step, with automation judgments |
 | `COHORT-INDEX.md` | Which clinic cohort is which, how many, what state each is in |
 

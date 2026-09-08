@@ -14,7 +14,7 @@ Requirements**
 >
 > **Correct use:** delivered live, in the 45-minute screen-share setup session at Stage-4 kickoff, after a yes. Not emailed. Not a document the clinic fills in alone.
 >
-> **At Stage 3 (findings), the ask is exactly ONE item, producible in under ten minutes.** In order of preference: last 90 days of enquiries from wherever they're kept → a screenshot of WhatsApp Business stats → last month's no-show count, however rough → five minutes with the coordinator. See `SALES_MOTION.md` §3/Stage 3 and `sales-motion/04-findings-and-rollout.md`.
+> **At Stage 3 (findings), the ask is exactly ONE item, producible in under ten minutes.** In order of preference: last 90 days of enquiries from wherever they're kept → a screenshot of WhatsApp Business stats → last month's no-show count, however rough → five minutes with the coordinator. See `SALES_MOTION.md` §3/Stage 3 and `01 Playbooks/Sales Motion/04 Findings and Rollout.md`.
 >
 > The document itself is good. It was sitting at the wrong point in the sequence.
 

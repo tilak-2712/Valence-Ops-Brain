@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-04
+date_modified: 2026-08-13
+status: active
+---
 # 02 — The Credibility Packet
 
 **Owns:** Stage 1. Everything that must be true *before* the call so the call can be entirely about their clinic.

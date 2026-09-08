@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-04
+date_modified: 2026-09-08
+status: active
+---
 # 05 — Pilot Agreement and the First 14 Days
 
 **Owns:** Stage 4. From "yes" to a pilot that actually finishes.

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-04
+date_modified: 2026-08-04
+status: active
+---
 # 04 — Findings and Rollout Plan
 
 **Owns:** Stage 3. The document that goes out 48–72 hours after the operations call, and the 20-minute call that follows it.

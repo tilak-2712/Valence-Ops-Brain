@@ -91,7 +91,7 @@ Everything in §2 is still **hypothesis-ranked** — 6 logged sends cannot rank 
 
 **[UNPROVEN — zero evidence either way, do not cite as fact]:**
 - *"Made this after going through a few clinics here" honesty on pattern videos beats fake bespoke-ness.* **No pattern video has ever been sent.** Reasonable instinct; untested.
-- *In-person offers convert unusually well with clinic owners.* **Zero in-person meetings have been held, and zero calls.** This one matters because it spread: it is cited as established fact in `personalized-outbound-v2.md`, `sales-motion/01-reply-to-call.md`, and as the evidence base for `outbound-process-changes-2026-08-11.md` §1.1's headline recommendation to stop asking doctors for calls. **Status as of 2026-08-13 (Tilak, direct): calls and in-person meetings are being actively pursued; nothing has landed yet.** Keep offering it — the reasoning is sound — but never write it as a proven pattern, and update this line the moment one is held.
+- *In-person offers convert unusually well with clinic owners.* **Zero in-person meetings have been held, and zero calls.** This one matters because it spread: it is cited as established fact in `personalized-outbound-v2.md`, `01 Playbooks/Sales Motion/01 Reply to Call.md`, and as the evidence base for `outbound-process-changes-2026-08-11.md` §1.1's headline recommendation to stop asking doctors for calls. **Status as of 2026-08-13 (Tilak, direct): calls and in-person meetings are being actively pursued; nothing has landed yet.** Keep offering it — the reasoning is sound — but never write it as a proven pattern, and update this line the moment one is held.
 
 ## 5 · Offer-framing preferences (settled)
 
