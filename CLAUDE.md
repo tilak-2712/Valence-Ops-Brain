@@ -72,7 +72,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 
 ### Research — clinic facts, cite from here, never invent
 - `05 Prospects/` — the current dossiers. See `COHORT-INDEX.md` for which file covers which cohort.
-- `05 Prospects/Batch 3 Remainder/`, `clinics/`, `se-bangalore-scrape/` — other cohorts, also indexed in `COHORT-INDEX.md`.
+- `05 Prospects/Batch 3 Remainder/`, `05 Prospects/Scrape 2026-07-19/`, `se-bangalore-scrape/` — other cohorts, also indexed in `COHORT-INDEX.md`.
 - `clinic-audit-checklist.md`, `Clinic Research Sources.md` — the field schema and the source list.
 - `.claude/skills/clinic-audit-research/SKILL.md` — the Apify research pipeline.
 

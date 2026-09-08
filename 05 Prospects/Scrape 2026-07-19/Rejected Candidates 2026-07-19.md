@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-19
+date_modified: 2026-07-19
+status: reference
+---
 # Rejected / Skipped Candidates — 2026-07-19 Scrape Run
 
 None of the 12 audited candidates failed the quick ICP pre-filter (all had Google reviews ≥20 AND a real website, so the three-way auto-reject condition never triggered). The names below were surfaced by the Google Maps discovery pass but deliberately excluded before reaching the pre-filter stage — logged here so future runs don't re-spend time on them.

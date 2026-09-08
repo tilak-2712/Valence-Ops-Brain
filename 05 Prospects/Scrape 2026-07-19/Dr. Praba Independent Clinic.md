@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-02
+date_modified: 2026-09-02
+status: reference
+---
 # Dr. Praba — independent skin & hair clinic (pre-launch)
 
 **Status:** Relationship-building, not a sales lead. Not to be conflated with the Akera Health Notion row — she has left Akera, that clinic now needs a different point of contact if it stays a live target.

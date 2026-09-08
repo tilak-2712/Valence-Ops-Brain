@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-19
+date_modified: 2026-08-13
+status: reference
+---
 # Beeyens Skin and Laser Clinic – Research Summary
 
 ## 0 · Identity
