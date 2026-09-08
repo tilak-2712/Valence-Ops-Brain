@@ -1,7 +1,12 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Batch 9 — contact list and wedges
 
 **19 Aug 2026** · Derived from the 15 Aug WhatsApp shops, the 19 Aug GBP pull and the 19 Aug Ad Library check.
-Full reasoning: `WEDGE-ANGLES-BATCH-9-2026-08-19.md` · `SHOP-9-WEDGE-REVIEW-2026-08-19.md`
+Full reasoning: `Wedge Angles Batch 9 2026-08-19.md` · `Shop 9 Wedge Review 2026-08-19.md`
 
 **6 of 10 to contact. 4 not.** Every wedge below is first-party, dated, and inside the clinic's own
 published Google hours. Each has been run through the rebuttal test.

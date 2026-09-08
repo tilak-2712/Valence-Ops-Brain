@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-09-08
+status: reference
+---
 # new_leads_1 — paid-ads presence & Instagram audit
 
-**Generated** 2026-08-15 · **Scope** all 42 unique clinics in `new_leads_1/`
+**Generated** 2026-08-15 · **Scope** all 42 unique clinics in `05 Prospects/New Leads 1 Batch 9/`
 **Cost** $1.19 of the $5 free Apify credit on account `wickered_plaza`. Google layer ran at $0.
 
 **Epistemic status: `confirmed` for the dated machine-read facts below. The interpretations at the
@@ -12,7 +17,7 @@ bottom are `hypothesis` and marked as such.**
 
 | Source | Rows | Notes |
 |---|---|---|
-| `zone-leads.md` | 19 | "Central zone" |
+| `Zone Leads.md` | 19 | "Central zone" |
 | `Clinic_Directory_Template….csv` | 24 → **23** | Aurilueur listed twice; the two `.csv` files are byte-identical |
 
 **42 unique clinics.** No overlap between the two lists. One doubled URL fixed (Aesthetics Plus).

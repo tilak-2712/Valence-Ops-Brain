@@ -1,7 +1,12 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Batch 9 — final wedge & observation angles
 
-**Date** 2026-08-19 · **Basis** the 13 WhatsApp captures of 15 Aug + `CLINIC-CHECK-TABLE-2026-08-15.md` (machine-read 15 Aug)
-**Companion** `SHOP-9-WEDGE-REVIEW-2026-08-19.md` (why several of the original wedges were replaced)
+**Date** 2026-08-19 · **Basis** the 13 WhatsApp captures of 15 Aug + `Clinic Check Table 2026-08-15.md` (machine-read 15 Aug)
+**Companion** `Shop 9 Wedge Review 2026-08-19.md` (why several of the original wedges were replaced)
 **Purpose** everything needed to draft touch 1, and nothing that isn't traceable to a dated fact.
 
 ---
@@ -305,7 +310,7 @@ The active ad's copy carries the clinic's address verbatim:
 Removal offer, headline *"Doctor-Led Tan Removal in Just 20 Minutes"*, CTA **"Sign up"** — a lead-capture ad,
 running since 24 July and **live throughout the 15 Aug mystery shop**.
 
-`CLINIC-CHECK-TABLE-2026-08-15.md` row 35 records Moon's Meta status as *"Unresolved · no page located"* and
+`Clinic Check Table 2026-08-15.md` row 35 records Moon's Meta status as *"Unresolved · no page located"* and
 notes the page that resolved was `Chaser Aspira`, rejected. **That row is wrong. Moon runs Meta ads.**
 
 Lifetime ad count is **not** established — the page-level view (`view_all_page_id`) returned nothing on three

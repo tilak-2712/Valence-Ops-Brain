@@ -1,4 +1,9 @@
-# Batch 9 — wedge review of `mystery shop 9.md`
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
+# Batch 9 — wedge review of `Mystery Shop 9.md`
 
 **Date** 2026-08-19 · **Reviewer pass over** the 13 WhatsApp captures in `Mystery_Shop_2026-08-15-1.zip`
 **Governing docs applied** `wedge-signal-entry.md` §0.1 / §2.0 / §2.1 / §2.5 / §3 · `files/OUTBOUND_MEMORY.md` §1 / §2 · `MEMORY.md` (tone) · Notion Batch 2 (calibration precedent)

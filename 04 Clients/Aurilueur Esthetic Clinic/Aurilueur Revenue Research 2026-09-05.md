@@ -197,7 +197,7 @@ Recent responses are fast (1–5 days). Historic ones took months or never came.
 | **Hours per week unstaffed** | **108 of 168 — 64%** | Same |
 | **Meta ads** | **Live. Two active ads, Facebook + Instagram, running 10 Jul and 14 Aug through 4 Sep 2026, "Book now" CTA** | Meta Ad Library, checked 5 Sep 2026 |
 | Google Ads | 7–8 running | `stated` (Shabeeb). Meta count of 1–2 he gave us **matches our independent check exactly** — his self-reported numbers have now been corroborated once |
-| **Instagram** | **114 posts, 7,783 followers. Post count unchanged since our 15 Aug audit. Last post 21 Jun 2026 — 76 days ago** | Apify IG profile, 5 Sep 2026 vs. `new_leads_1/`, 15 Aug 2026 |
+| **Instagram** | **114 posts, 7,783 followers. Post count unchanged since our 15 Aug audit. Last post 21 Jun 2026 — 76 days ago** | Apify IG profile, 5 Sep 2026 vs. `05 Prospects/New Leads 1 Batch 9/`, 15 Aug 2026 |
 | Google Business Profile | **271 reviews, 4.8★** (250×5, 6×4, 2×3, 4×2, 9×1) | GBP scrape, 5 Sep 2026 |
 | Doctors | 5 named on site: Bhavitha Eduru, Navya, Hiba Gul, Suhas S, Harish Kumar Kabilan / Som Ranjan Pathak on the weight-loss page. **Shabeeb is not on the doctors page** | `aurilueur.com/cmsms_doctor/` |
 | Second domain | **`aurilueur.in`** — a separate lead-capture landing page: *"Slimming Treatments Starting @ ₹2499"*, WhatsApp widget offering a *"50% OFF Voucher"*, name/email/mobile form | Fetched 5 Sep 2026 |
@@ -384,4 +384,4 @@ Four things could not be sourced and must not be asserted: a competitor CoolScul
 | Meta Ad Library | 2 active ads, FB + IG, live through 4 Sep 2026 | 5 Sep 2026 |
 | Instagram `@aurilueurestheticclinic` | 114 posts / 7,783 followers — post count unchanged since 15 Aug audit | 5 Sep 2026 |
 | Intake form (Google Forms PDF) + Shabeeb verbal | Volume, conversion, show rate, staffing, CRM, follow-up cadence | Aug–Sep 2026 |
-| `new_leads_1/` repo data | Baseline for the Instagram comparison | 15 Aug 2026 |
+| `05 Prospects/New Leads 1 Batch 9/` repo data | Baseline for the Instagram comparison | 15 Aug 2026 |

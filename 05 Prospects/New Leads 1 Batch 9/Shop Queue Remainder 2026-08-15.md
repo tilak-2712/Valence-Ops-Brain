@@ -1,7 +1,12 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-08-15
+status: reference
+---
 # The remaining 22 — everything outside shop-queue positions 1–20
 
 **Generated** 2026-08-15 · **Cohort** `new_leads_1` (42 clinics) · **Source** `results.json`
-**Companions** `SHOP-QUEUE-01-10-2026-08-15.md` · `SHOP-QUEUE-11-20-2026-08-15.md` · `OPEN-CHECKS-2026-08-15.md`
+**Companions** `Shop Queue 01-10 2026-08-15.md` · `Shop Queue 11-20 2026-08-15.md` · `Open Checks 2026-08-15.md`
 
 **Epistemic status:** `confirmed` for Instagram, Meta page-level ad counts and Google advertiser-name
 matches, all dated 15 Aug and reproducible. Everything under *What clears it* is a proposed action,

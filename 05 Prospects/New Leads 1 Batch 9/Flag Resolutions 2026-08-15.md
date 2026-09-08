@@ -1,8 +1,13 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-09-08
+status: reference
+---
 # Flag resolutions 21–31 — Tilak's manual checks, 2026-08-15
 
 **Source:** Tilak, transparency-centre and GBP checks run by hand on 2026-08-15.
 **Epistemic status:** `confirmed` — first-party observation of live ad libraries and Google listings.
-**Supersedes:** `results.json` and `OPEN-CHECKS-2026-08-15.md` on all eleven clinics below.
+**Supersedes:** `results.json` and `Open Checks 2026-08-15.md` on all eleven clinics below.
 `results.json` is now stale for Calyx, Pigment, Meraki and Hairline and must not be quoted on them.
 
 ---
@@ -23,7 +28,7 @@ predicted, now confirmed three more times.
 
 **Consequence:** every Google **"No"** in this cohort and in the SE cohort is a *name-search miss
 away from being a Yes*. That includes the eleven "settled, nothing flagged" clinics in
-`SHOP-QUEUE-REMAINDER-2026-08-15.md` Group 2 and the 26 no-paid-presence clinics in
+`Shop Queue Remainder 2026-08-15.md` Group 2 and the 26 no-paid-presence clinics in
 `05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14.md`. **Stop treating a name-search No as settled.**
 The reliable route is the reverse one Calyx demonstrated: start from the clinic's own paid landing
 page or GBP entity, not from its trading name.

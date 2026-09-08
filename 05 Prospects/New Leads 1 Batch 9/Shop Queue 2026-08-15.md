@@ -1,7 +1,12 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-08-15
+status: reference
+---
 # Mystery-shop queue — new_leads_1
 
 **Generated** 2026-08-15 · **Source** `results.json` · **Cohort** 42 clinics
-**Detail for positions 11–20:** `SHOP-QUEUE-11-20-2026-08-15.md`
+**Detail for positions 11–20:** `Shop Queue 11-20 2026-08-15.md`
 
 **Nothing here is shoppable today.** Three blockers apply to every row: no phone/WhatsApp number
 exists for any of the 42; no published hours were captured, so §2.0 admissibility cannot be checked;

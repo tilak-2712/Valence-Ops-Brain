@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-08-15
+status: reference
+---
 # Clinic check table — new_leads_1 (42 clinics)
 
-**Generated** 2026-08-15 · **Source** `results.json` (built by `consolidate.py`) · **Cohort** 23 from the Clinic_Directory CSV + 19 from `zone-leads.md` (Central)
+**Generated** 2026-08-15 · **Source** `results.json` (built by `consolidate.py`) · **Cohort** 23 from the Clinic_Directory CSV + 19 from `Zone Leads.md` (Central)
 
 **Epistemic status:** `confirmed` for website / IG follower counts / Meta page-level ad counts / Google advertiser-name matches — all machine-read 2026-08-15 and reproducible. `Unconfirmed` and `Unresolved` rows are open, not negative. Sorted by Instagram followers, descending.
 
@@ -82,7 +87,7 @@ unresolved.** Fix the script rather than the JSON, per the handoff note on hand-
 - The 15 defensible *Spending now* clinics are the only ones where **“you are paying for enquiries
   right now”** is a dated fact (`CLAUDE.md` §5). For the other 27 it is an assumption.
 - Ad **count is not spend**, and no ad library publishes budget. Enquiry volume is not derivable
-  from any of this. See `SESSION-HANDOFF-2026-08-15.md` §6.
+  from any of this. See `Session Handoff 2026-08-15.md` §6.
 - **No wedge can be assigned from this data** — `wedge-signal-entry.md` §4 requires a mystery shop
   for response behaviour. This is a shop-ordering input, not a send list.
 - **Repo presence ≠ contacted.** None of these 42 are in Notion.

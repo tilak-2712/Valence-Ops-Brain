@@ -1,16 +1,21 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-09-08
+status: reference
+---
 # Session handoff — new_leads_1 ads + Instagram audit
 
 **Session date** 2026-08-15 · **Written for** picking this up cold in a new Claude Code session
 **Working dir** `/Users/stilak/Documents/Valence-Ops-Sales/new_leads_1`
 
-Read this file first, then `OPEN-CHECKS-2026-08-15.md` (that's where the work resumes).
+Read this file first, then `Open Checks 2026-08-15.md` (that's where the work resumes).
 
 ---
 
 ## 0. What to say to start tomorrow
 
-> Read `new_leads_1/SESSION-HANDOFF-2026-08-15.md`. I want to close the open checks in
-> `OPEN-CHECKS-2026-08-15.md`, starting with Calyx and the Augusté discrepancy.
+> Read `05 Prospects/New Leads 1 Batch 9/Session Handoff 2026-08-15.md`. I want to close the open checks in
+> `Open Checks 2026-08-15.md`, starting with Calyx and the Augusté discrepancy.
 
 Everything below is context for that.
 
@@ -19,7 +24,7 @@ Everything below is context for that.
 ## 1. What was asked
 
 Repeat the `05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14.md` run — Meta ads (Y/N), Google ads (Y/N),
-Instagram followers — against the clinics in `new_leads_1/`.
+Instagram followers — against the clinics in `05 Prospects/New Leads 1 Batch 9/`.
 
 Stated purpose: *"check what sources they have for lead flow, approximately judge how much money
 they're already putting into getting leads, and get an estimate of their enquiry volume."*
@@ -48,8 +53,8 @@ budget was mentioned — the real figure is **$5**, see §5).
 | Meta | 10 | 20 | 0 | 12 |
 | Instagram | **42 / 42 resolved, none dead** | | | |
 
-Main deliverable: **`ADS-PRESENCE-2026-08-15.md`**
-Open work: **`OPEN-CHECKS-2026-08-15.md`** ← resume here
+Main deliverable: **`Ads Presence 2026-08-15.md`**
+Open work: **`Open Checks 2026-08-15.md`** ← resume here
 Machine-readable: **`results.json`** (one record per clinic, all three layers merged)
 
 ### The four heaviest advertisers
@@ -150,7 +155,7 @@ not to price it. Do not let the ad counts in the report get read as a spend prox
 
 ## 7. Open work — the resume point
 
-Full detail with per-clinic evidence is in **`OPEN-CHECKS-2026-08-15.md`**. Summary:
+Full detail with per-clinic evidence is in **`Open Checks 2026-08-15.md`**. Summary:
 
 **Group A — closing it changes a verdict (5):** Calyx Skin Lab · Hairline International ·
 divine aesthetics · Dr. Anil Abraham · moon aesthetic
@@ -191,12 +196,12 @@ exactly as it appears.
 **Read these**
 | File | Holds |
 |---|---|
-| `ADS-PRESENCE-2026-08-15.md` | The report — headline, per-clinic verdicts, IG table, rejected false positives, hypothesis-fenced interpretations |
-| `OPEN-CHECKS-2026-08-15.md` | The 16 open checks with per-clinic evidence and what to do |
+| `Ads Presence 2026-08-15.md` | The report — headline, per-clinic verdicts, IG table, rejected false positives, hypothesis-fenced interpretations |
+| `Open Checks 2026-08-15.md` | The 16 open checks with per-clinic evidence and what to do |
 | `results.json` | All three layers merged, one record per clinic. **Start here for any new analysis** |
 
 **Inputs**
-`zone-leads.md` (19, Central zone) · `Clinic_Directory_Template….csv` (24 rows → 23 unique;
+`Zone Leads.md` (19, Central zone) · `Clinic_Directory_Template….csv` (24 rows → 23 unique;
 the `_all` copy is byte-identical, ignore it) · `targets.json` (42 normalised, IG handles resolved)
 
 **Scripts — all re-runnable**

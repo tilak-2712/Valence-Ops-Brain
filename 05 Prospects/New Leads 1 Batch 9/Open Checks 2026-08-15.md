@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-15
+date_modified: 2026-09-08
+status: reference
+---
 # new_leads_1 — the 16 open checks
 
-**Generated** 2026-08-15 · companion to `ADS-PRESENCE-2026-08-15.md`
+**Generated** 2026-08-15 · companion to `Ads Presence 2026-08-15.md`
 26 of 42 clinics are settled on all three layers. These 16 are not.
 
 Ordered by **whether closing it changes a verdict**, not by clinic. Groups C and D can be skipped

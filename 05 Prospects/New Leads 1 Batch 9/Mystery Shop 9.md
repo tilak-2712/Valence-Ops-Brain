@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Mystery Shop 9 — Batch 9 Clinics (SHOP-QUEUE positions 11–20)
 
 **Evidence status:** WhatsApp screenshots supplied for all ten Batch 9 clinics. The initial enquiries were sent on Saturday, 15 August 2026; screenshots also show replies on the following day where applicable. This report records only the behaviour visible in those captures. “No reply visible” means no reply appears before the screenshot was taken, not that the clinic never replied. Commercial context is drawn separately from `batch 9.md` (research dated 15 August 2026) and is not presented as a mystery-shop finding.
