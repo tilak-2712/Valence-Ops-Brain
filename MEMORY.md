@@ -91,7 +91,7 @@ When an after-hours auto-reply only *promises* a human callback, the deeper insi
 
 **[PROVISIONAL — designed 2026-08-04, still zero conversations run through it] The post-reply sales motion (`SALES_MOTION.md` + `sales-motion/`):**
 Five stages, each with an owner and a clock. Three governing rules: nothing ships without a date or two named slots; diagnosis and prescription never happen in the same conversation; a warm reply outranks the send quota.
-**Three deliberate departures from Tilak's stated brief:** (a) no "company profile" — replaced with a method-and-terms "How We Work" doc; (b) the audit call is split into two conversations; (c) `Audit_call_docs/02_data_intake_requirements.md` re-staged to Stage-4 kickoff.
+**Three deliberate departures from Tilak's stated brief:** (a) no "company profile" — replaced with a method-and-terms "How We Work" doc; (b) the audit call is split into two conversations; (c) `08 Collateral/Audit Call Docs/02_data_intake_requirements.md` re-staged to Stage-4 kickoff.
 **Positioning bet inside it:** with zero clients, "we're early" is volunteered rather than extracted under questioning. Unproven.
 Nothing here has met a real clinic. **The Sapphire call is the first test of it** — do not treat any of it as settled until that conversation has actually run.
 

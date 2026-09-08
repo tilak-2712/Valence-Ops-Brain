@@ -4,7 +4,7 @@
 
 **The one instruction that matters more than everything else in this file: you are not solving anything on this call.** The urge to prove competence by fixing something live is the strongest failure mode here. It feels like the call going well. It empties Stage 3 of any reason to exist, and it turns you into every other vendor who showed up with the answer already loaded.
 
-**Relationship to `Audit_call_docs/03_discovery_call_question_map.md`:** that document is the full forensic instrument — owner and coordinator interviewed separately, five blocks, cross-checks against exported data. It is a *deployment* tool, run after a yes, with data in hand. This file is the compressed first-call version: one person, no data yet, 50 minutes. Everything here traces back to a question in that document. Don't run that one on a first call — you'll spend 50 minutes on Block A alone and the owner will feel interrogated.
+**Relationship to `08 Collateral/Audit Call Docs/03 Discovery Call Question Map.md`:** that document is the full forensic instrument — owner and coordinator interviewed separately, five blocks, cross-checks against exported data. It is a *deployment* tool, run after a yes, with data in hand. This file is the compressed first-call version: one person, no data yet, 50 minutes. Everything here traces back to a question in that document. Don't run that one on a first call — you'll spend 50 minutes on Block A alone and the owner will feel interrogated.
 
 ---
 
@@ -188,7 +188,7 @@ This is a small refusal and it does more for your credibility than an answer wou
 3. Their no-show count for last month, however roughly
 4. A five-minute chat with their coordinator
 
-**Do not send `Audit_call_docs/02_data_intake_requirements.md` here.** Raw CRM export plus Meta read-only access plus billing counts plus a staff list, from a clinic that hasn't agreed to anything, is a document that ends conversations. It's the right document at Stage 4 kickoff. It is the wrong document today.
+**Do not send `08 Collateral/Audit Call Docs/02_data_intake_requirements.md` here.** Raw CRM export plus Meta read-only access plus billing counts plus a staff list, from a clinic that hasn't agreed to anything, is a document that ends conversations. It's the right document at Stage 4 kickoff. It is the wrong document today.
 
 ---
 

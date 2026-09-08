@@ -139,7 +139,7 @@ Template in `sales-motion/04-findings-and-rollout.md`. The document does five th
 4. The three things costing the most — ranked, with the reasoning visible
 5. What we'd do first, and why that one — one wedge, 2–3 weeks, with week-by-week
 
-**Scope the data ask down to exactly one item.** `Audit_call_docs/02_data_intake_requirements.md` asks for a raw CRM export, Meta read-only access, WhatsApp chat history, billing counts, a staff list, and appointment data. That document is correct — for Stage 4, after a yes. Sending it at Stage 3 asks an unsigned clinic to hand over patient data to two strangers, and it will end the conversation. At Stage 3 the ask is one thing, ideally the thing they can produce in five minutes.
+**Scope the data ask down to exactly one item.** `08 Collateral/Audit Call Docs/02_data_intake_requirements.md` asks for a raw CRM export, Meta read-only access, WhatsApp chat history, billing counts, a staff list, and appointment data. That document is correct — for Stage 4, after a yes. Sending it at Stage 3 asks an unsigned clinic to hand over patient data to two strangers, and it will end the conversation. At Stage 3 the ask is one thing, ideally the thing they can produce in five minutes.
 
 **Falsifier:** if clinics agree to the plan but the data never arrives, the ask was still too big. Halve it again.
 

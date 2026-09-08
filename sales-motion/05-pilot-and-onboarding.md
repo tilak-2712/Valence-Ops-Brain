@@ -41,7 +41,7 @@ Per `OUTBOUND_MEMORY.md` §5. All four are agreed *at the yes*, not introduced l
 
 ## The setup session (45 minutes, before day 1)
 
-One call, screen shared, everything collected live. **This is where `Audit_call_docs/02_data_intake_requirements.md` finally comes out** — and even here, only the sections relevant to the one wedge being piloted. Send the full document only if they ask for it in writing.
+One call, screen shared, everything collected live. **This is where `08 Collateral/Audit Call Docs/02_data_intake_requirements.md` finally comes out** — and even here, only the sections relevant to the one wedge being piloted. Send the full document only if they ask for it in writing.
 
 **Agenda:**
 
