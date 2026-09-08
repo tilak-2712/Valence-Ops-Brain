@@ -8,7 +8,7 @@ status: reference
 > ## 📕 HISTORICAL RECORD — resolved 2026-08-13. Do not draft or decide from this file.
 > **Adopted:** the diagnosis (reply rate is fine, calls held is the metric), the faceless-firm
 > suspension (§8.4), the word ceiling, the structural rotation, and "never send an asset without a
-> date." All now live in `one-pager-handoff/CLAUDE.md` and `files/OUTBOUND_MEMORY.md` §6.
+> date." All now live in `10 Tooling/one-pager-handoff/CLAUDE.md` and `files/OUTBOUND_MEMORY.md` §6.
 >
 > **REJECTED — Arm C, the ₹7,500 paid diagnostic (§5).** Tilak's explicit call, 2026-08-13:
 > **the audit and the strategy document stay free; building and running the system is what's paid.**

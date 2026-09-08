@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-09-08
+status: reference
+---
 # Copy Standard — Revenue Diagnostic One-Pagers
 
 This file exists because the same mistakes were made repeatedly and corrected in
@@ -234,7 +239,7 @@ on 2026-08-13 point opposite ways on a *cold* asset:
 
 | Source | Says |
 |---|---|
-| `one-pager-handoff/CLAUDE.md` | the CTA carries **two named slots** |
+| `10 Tooling/one-pager-handoff/CLAUDE.md` | the CTA carries **two named slots** |
 | `files/OUTBOUND_MEMORY.md` §3, banned moves | **"asking a doctor for a call as the first ask"** is banned — *"lead with something that costs them nothing — a number they can message themselves, or a ten-minute drop-in"* |
 
 Two named slots on a cold touch-2 document is asking a doctor for a call as the

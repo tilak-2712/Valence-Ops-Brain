@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-03
+date_modified: 2026-08-14
+status: reference
+---
 # Valence Ops — Clinic Qualification, Disqualification & Wedge Routing Playbook
 
 *v2 · last updated 2026-08-13 · Owner: Tilak & Pratham*

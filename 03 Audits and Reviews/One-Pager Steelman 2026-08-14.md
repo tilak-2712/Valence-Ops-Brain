@@ -152,7 +152,7 @@ Same date, same file family, opposite instructions:
 
 | Source | Rule |
 |---|---|
-| `one-pager-handoff/CLAUDE.md`, changed 2026-08-13 | *"The CTA names a specific thing you'd do, **plus two named slots**."* |
+| `10 Tooling/one-pager-handoff/CLAUDE.md`, changed 2026-08-13 | *"The CTA names a specific thing you'd do, **plus two named slots**."* |
 | `files/OUTBOUND_MEMORY.md` §3, banned moves, added 2026-08-13 | *"**Asking a doctor for a call as the first ask.** 25 one-pagers → 2 replies → 0 calls. A call is the most expensive thing you can ask of a clinician. **Lead with something that costs them nothing** — a number they can message themselves, or a ten-minute drop-in."* |
 
 Two named slots on a cold touch-2 asset **is** asking a doctor for a call as the first ask. The arithmetic
@@ -257,7 +257,7 @@ rewriting. It needs re-slotting.
 
 ## 5 · Blocking defect in the handoff kit — the corrected document cannot currently be built
 
-`one-pager-handoff/CLAUDE.md` instructs the builder to read `COPY_STANDARD.md` **first** and calls it
+`10 Tooling/one-pager-handoff/CLAUDE.md` instructs the builder to read `COPY_STANDARD.md` **first** and calls it
 **"Non-negotiable."** `COPY_STANDARD.md` still carries four rules that were reversed on 2026-08-13:
 
 | `COPY_STANDARD.md` | Says | Reversed by |
@@ -274,7 +274,7 @@ folder holding both the rule and its refutation, so drafting can pick up either.
 Also: the word ceiling exists in two values across three files (250–350 in the playbook and handoff
 `CLAUDE.md`, 350–450 in `COPY_STANDARD.md` §7), and neither was ever met — every document ran 529–703.
 
-**Also diverged:** `one-pager-handoff/diagnostic_doc_playbook.md` and `one-pager-handoff/wedge-signal-entry.md`
+**Also diverged:** `10 Tooling/one-pager-handoff/diagnostic_doc_playbook.md` and `10 Tooling/one-pager-handoff/wedge-signal-entry.md`
 are both out of sync with their root originals. The handoff kit is shipping stale copies of two governing docs.
 
 **Fixed in this pass:** `COPY_STANDARD.md` §7, §9 and §10 synced to the 2026-08-13 decisions, and the two

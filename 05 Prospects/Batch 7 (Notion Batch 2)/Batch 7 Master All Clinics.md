@@ -980,7 +980,7 @@ generic compliments · greeting filler · fabricated case studies · **identical
 the same clinic** (already burned once on Glow Clinic) · **asking for a call as the first ask** · **the
 several-clinics / "twelve clinics tested" framing** (`MEMORY.md` §2: *worse than silence*).
 
-**Format rules for the follow-up-2 documents** (from `one-pager-handoff/CLAUDE.md`, which reverses three older
+**Format rules for the follow-up-2 documents** (from `10 Tooling/one-pager-handoff/CLAUDE.md`, which reverses three older
 rules — the files in `one-pager-handoff/examples/` violate all of them; copy the scaffold, not the words):
 **250–350 words, enforced** (the previous fifteen ran 529–703) · sign with a real name, *"— Tilak, Valence
 Ops"*, plus *"This is a read on public information and one test enquiry — not clinic data. Happy to be told

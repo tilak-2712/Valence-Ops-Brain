@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-14
+date_modified: 2026-08-14
+status: reference
+---
 # Valence Ops — Revenue Diagnostic One-Pagers
 
 You build one-page "Revenue Diagnostic" PDFs sent to Indian elective clinic
@@ -123,5 +128,5 @@ to install and nothing fetched at runtime.
 
 This file only auto-loads when Claude Code is opened **in this folder as the
 project root**. If you unzip it inside a larger repo, either open Claude Code
-directly in `one-pager-handoff/`, or paste this file's contents into your first
+directly in `10 Tooling/one-pager-handoff/`, or paste this file's contents into your first
 message.

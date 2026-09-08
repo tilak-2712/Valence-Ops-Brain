@@ -1,11 +1,16 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-14
+status: reference
+---
 # The Diagnostic One-Pager — Playbook
 *Reference doc for building outbound diagnostic PDFs. Send alongside the Cozmo Blis example.*
 
 > **⚠️ Amended 2026-08-13 after the 15-document audit. Three rules in this file are superseded.**
-> `one-pager-handoff/CLAUDE.md` holds the current versions and wins where they conflict.
+> `10 Tooling/one-pager-handoff/CLAUDE.md` holds the current versions and wins where they conflict.
 > 1. **No personal name → reversed 2026-08-13 → re-reversed 2026-08-14 (Tilak's call).**
 >    The sign-off block is now removed entirely: no name line, no correction line. The document
->    ends on the CTA. See `one-pager-handoff/COPY_STANDARD.md` §9 for both sides of this, and
+>    ends on the CTA. See `10 Tooling/one-pager-handoff/COPY_STANDARD.md` §9 for both sides of this, and
 >    `files/OUTBOUND_MEMORY.md` §6 for the decision and the trigger to revisit it.
 > 2. **"The CTA is an audit, never a meeting pitch" → reversed.** The document *is* the audit, so
 >    that CTA asks for the thing it just gave away — offered 25 times, accepted zero. The CTA now

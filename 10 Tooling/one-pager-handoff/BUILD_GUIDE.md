@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-03
+date_modified: 2026-08-03
+status: reference
+---
 # Build Guide — Revenue Diagnostic One-Pagers
 
 Technical spec. Everything here was arrived at by correction — the values are not
