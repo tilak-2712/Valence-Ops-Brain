@@ -1,6 +1,9 @@
 ---
 name: personalized-outbound
 description: Use this skill whenever drafting cold outbound for ValenceOps targeting Indian elective clinic founders — skin, dermatology, cosmetology, hair transplant, and dental clinics, primarily in Bangalore. Always invoke this when the user provides a filled clinic-audit-checklist and asks for a DM, video script, WhatsApp bridge message, pilot offer, follow-up after silence, or a response to a decline — or whenever the user asks to "draft a DM," "write the outreach," "craft the offer," "what do I say next," or mentions the Three Threads sequence. Do not write generic cold-outreach copy without consulting this skill — it encodes the specific buyer psychology, offer-engineering math, risk-reversal structure, and sequence logic this depends on. If no filled checklist is provided, ask for the specific fields needed before drafting anything.
+date_created: 2026-08-13
+date_modified: 2026-08-13
+status: active
 ---
 
 # Personalized Outbound — ValenceOps × Indian Elective Clinics

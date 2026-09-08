@@ -38,7 +38,7 @@ Message craft (the skill's templates) is genuinely top-decile. The verdict that 
 | elective-clinics-sales1 — sample cold intro email | Day 0 (email) | **3** | **FAIL** — fabricated case study ("Clinic XYZ saw 20% rise") | — |
 | elective-clinics-sales1 — objection library | Reply handling | **5** | n/a | — wrong stage (discovery-call, not DM), wrong voice (consultant-generic: "ROI," "CRM," "our platform") |
 | clinic-audit-checklist.md | Pre-send | good doc, wrong gate | n/a | — mystery-shop is a hard Go/No-Go gate (contradicts settled verdict #3) |
-| clinic-research-sources.md | Pre-send | good doc, over-budget | n/a | — 12–15 min "default" + mystery shop exceeds the 10-min ceiling |
+| Clinic Research Sources.md | Pre-send | good doc, over-budget | n/a | — 12–15 min "default" + mystery shop exceeds the 10-min ceiling |
 | 20 clinic research summaries (OUTREACH_document + outreach_-2) | Research | — | **PARTIAL FAIL** — speculative claims written as findings; hook field empty in 20/20 | — |
 | valence-ops-clinic-intelligence-os.md | Memory layer | strong | PASS | — no outcome/send tracking at all; ICP scoring is inflated (see below) |
 | Clinics-Revenue-OS.md | Internal delivery map | fine internally | — | never show a prospect: it's wall-to-wall "leads / funnel / lead scoring" vocabulary |

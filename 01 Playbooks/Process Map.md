@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-13
+status: active
+---
 # Valence Ops — The Outbound Process As It Actually Runs Today
 
 Reconstructed from the files in this folder (Aug 2026). This is a description of the current
@@ -15,8 +20,8 @@ The `AUTOMATABLE` tag at the end of each step is a first-pass judgment only — 
 ## PHASE A — SOURCING (cold list → shortlist)
 
 ### A1. Define the vertical criteria
-- Write/adjust a criteria doc before scraping anything (`apify-discovery-CONTEXT.md` for aesthetic,
-  `dental-discovery-CRITERIA.md` for dental).
+- Write/adjust a criteria doc before scraping anything (`Apify Discovery Context.md` for aesthetic,
+  `Dental Discovery Criteria.md` for dental).
 - Contains: verticals in/out, corporate-chain auto-exclude, hard kills, IG gate, geography
   (Bangalore micro-markets), and the **exclusion list** of every clinic already in the pipeline
   (§4 — ~150 names across 6 cohorts).

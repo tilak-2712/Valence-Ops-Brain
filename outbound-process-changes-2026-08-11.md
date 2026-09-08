@@ -25,7 +25,7 @@
 > **The one thing still genuinely open:** the free-pilot / paid-implementation boundary in the offer —
 > see `files/OUTBOUND_MEMORY.md` §5. `COHORT-INDEX.md` maps every cohort and which are actually live.
 
-*Drafted 2026-08-11. Reviewed against `PROCESS-MAP.md`, `MEMORY.md`, `files/OUTBOUND_MEMORY.md`, `files/OUTBOUND_SYSTEM_AUDIT.md`, `ONE-PAGER-AUDIT-AND-TEST-PLAN.md`, `wedge-signal-entry.md`, both ledgers, and the batch-7 findings docs. Nothing here is a send-blocker; it is a set of changes to argue with.*
+*Drafted 2026-08-11. Reviewed against `Process Map.md`, `MEMORY.md`, `files/OUTBOUND_MEMORY.md`, `files/OUTBOUND_SYSTEM_AUDIT.md`, `ONE-PAGER-AUDIT-AND-TEST-PLAN.md`, `wedge-signal-entry.md`, both ledgers, and the batch-7 findings docs. Nothing here is a send-blocker; it is a set of changes to argue with.*
 
 ---
 
@@ -81,7 +81,7 @@ It is the only 24–72h async dependency in the process and it is scheduled afte
 - **Monday:** 20 shops in one 40-minute sitting.
 - **Tue–Thu:** research only the clinics whose threads came back interesting.
 
-Flips 25 dossiers / 0 shops into ~20 shops / ~6 dossiers, and the six get written for clinics where you hold evidence nobody else has. Also structurally enforces the ≤10-min research decision of 2026-07-22 that `PROCESS-MAP.md` B4 admits isn't being followed — you cannot over-research a clinic you haven't shopped.
+Flips 25 dossiers / 0 shops into ~20 shops / ~6 dossiers, and the six get written for clinics where you hold evidence nobody else has. Also structurally enforces the ≤10-min research decision of 2026-07-22 that `Process Map.md` B4 admits isn't being followed — you cannot over-research a clinic you haven't shopped.
 
 ### 2.2 Cut the shop from six tests to two
 Run **#1 Qualification** and **#3 Quote decay** only — both fire inside a single thread from one message.

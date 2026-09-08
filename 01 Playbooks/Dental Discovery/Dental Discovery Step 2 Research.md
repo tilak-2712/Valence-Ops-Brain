@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-09
+date_modified: 2026-08-13
+status: active
+---
 # STEP 2 — RESEARCH (Bangalore Dental)
 
 **Cap: $1.20.** Input: `_dental-qualified.md`, QUALIFIED rows only. Nothing else — PARK rows and
@@ -174,9 +179,9 @@ point_of_contact:         [blank — Tilak or Pratham to assign]
 5. Did the F.1 upselling screen ever fire? If it rejected nobody, it may be unnecessary overhead.
 6. Is high-ticket dental in Bangalore a volume vertical, or a 15–20 clinic niche? This decides whether
    there's a batch 2.
-7. What would you change in `dental-discovery-CRITERIA.md` before running again?
+7. What would you change in `Dental Discovery Criteria.md` before running again?
 
 **Memory updates — propose, don't write.** For `MEMORY.md` §3 (as `[PROVISIONAL]`),
-`files/OUTBOUND_MEMORY.md` §6 decision log, and `dental-discovery-CRITERIA.md` §6. Follow the
+`files/OUTBOUND_MEMORY.md` §6 decision log, and `Dental Discovery Criteria.md` §6. Follow the
 `MEMORY.md` maintenance rule: overrides need real-world proof, new things get appended, duplicates
 get skipped. **A completed scrape is not proof that a wedge works — only a reply is.**

@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-29
+date_modified: 2026-07-29
+status: active
+---
 # Lead Prioritization Method — how the 20-clinic priority table was actually produced
 
 **Written:** 2026-07-29 · **Source:** the process used to produce the Batch 1 priority table (Ministry of Skin → Skinology Centre)

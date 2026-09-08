@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-06
+date_modified: 2026-08-06
+status: active
+---
 # MESSAGE 2 — THE RUN PROMPT (paste after Claude confirms Message 1)
 
 Run the discovery batch now, using the context I gave you. Budget: **$5.00 total Apify free-tier credit — hard ceiling.** Target output: **15–20 qualified clinics** that pass every ICP gate.

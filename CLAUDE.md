@@ -51,7 +51,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 | `wedge-signal-entry.md` | Disqualification framework, the 2-test mystery-shop SOP, signal→wedge routing table |
 | `personalized-outbound-v2.md` | The drafting engine — buyer psychology, Three Threads sequence, templates, self-check |
 | `SALES_MOTION.md` + `01 Playbooks/Sales Motion/` | Everything after a positive reply: 5 stages, clocks, scripts, client-facing docs. **Designed, never run.** |
-| `PROCESS-MAP.md` | The process as it actually runs, step by step, with automation judgments |
+| `Process Map.md` | The process as it actually runs, step by step, with automation judgments |
 | `COHORT-INDEX.md` | Which clinic cohort is which, how many, what state each is in |
 
 ### Ledgers — the only things that turn hypothesis into evidence
@@ -73,7 +73,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 ### Research — clinic facts, cite from here, never invent
 - `Pre-outbound-research/` — the current dossiers. See `COHORT-INDEX.md` for which file covers which cohort.
 - `Research-docs/`, `clinics/`, `se-bangalore-scrape/` — other cohorts, also indexed in `COHORT-INDEX.md`.
-- `clinic-audit-checklist.md`, `clinic-research-sources.md` — the field schema and the source list.
+- `clinic-audit-checklist.md`, `Clinic Research Sources.md` — the field schema and the source list.
 - `.claude/skills/clinic-audit-research/SKILL.md` — the Apify research pipeline.
 
 ### Assets

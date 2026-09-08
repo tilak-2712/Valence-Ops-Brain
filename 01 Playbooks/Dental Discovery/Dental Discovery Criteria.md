@@ -1,11 +1,16 @@
+---
+date_created: 2026-08-09
+date_modified: 2026-08-09
+status: active
+---
 # Dental Discovery Criteria — Bangalore
 
 **Status:** v1, drafted 2026-08-09. Untested — no dental clinic has been scraped under these rules yet.
-**Relationship to existing docs:** this is a dental-specific overlay on `apify-discovery-CONTEXT.md`.
+**Relationship to existing docs:** this is a dental-specific overlay on `Apify Discovery Context.md`.
 Where this file is silent, the parent doc governs. Where it contradicts the parent, the contradiction
 is called out explicitly below rather than resolved silently.
 
-**Blocking question before any of this runs:** `apify-discovery-CONTEXT.md` §2.2 says dental is a hard
+**Blocking question before any of this runs:** `Apify Discovery Context.md` §2.2 says dental is a hard
 zero *this round* ("we are not working dental this round … the mixed model has already burned us"),
 while `CLAUDE.md` lists dental as a target vertical and `clinic-audit-checklist.md` §0 has Dental as a
 category option. These disagree. The §2.2 reason as written points at **mixed skin+dental clinics**
@@ -72,7 +77,7 @@ dental clinic · dental studio · multispeciality dental clinic · dental care c
 ### 1.4 Batching and geography
 
 4–6 terms per actor call, same as the parent prompt. Rotate against the §3 Bangalore micro-market
-list in `apify-discovery-CONTEXT.md`. Karnataka only.
+list in `Apify Discovery Context.md`. Karnataka only.
 
 **Raw target: 250–350 place records** before filtering — higher than the aesthetic run's 180–250,
 because Gate B will reject harder.
@@ -85,7 +90,7 @@ Run in this order. Cheapest rejections first.
 
 ### Gate A — Hard kills (one fires, drop it, spend nothing further)
 
-1. Name matches the exclusion list in `apify-discovery-CONTEXT.md` §4
+1. Name matches the exclusion list in `Apify Discovery Context.md` §4
 2. No website **and** no Instagram **and** no Google Business Profile
 3. Operating under 12 months (oldest Google review date)
 4. Fewer than 20 Google reviews total *(business-is-real floor only — see Gate C for volume)*
@@ -131,7 +136,7 @@ Note the inversion from the aesthetic runs: **Google Ads is primary here, Meta i
 
 ### Gate D — Instagram gate
 
-Apply `apify-discovery-CONTEXT.md` §2.5 unchanged:
+Apply `Apify Discovery Context.md` §2.5 unchanged:
 
 - A real clinic **or** founder Instagram account, public
 - Followers ≥ 1,000 (preferred band 2,000–80,000; >100,000 → PARK tier)

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-09
+date_modified: 2026-08-09
+status: active
+---
 # LinkedIn Sales Navigator Personas — ValenceOps ICP
 
 Built from the 80-clinic list, real title patterns already found in `Pre-outbound-research/` dossiers (e.g. "Founder / Aesthetic Dermatologist," "Founder / Plastic & Cosmetic Surgeon"), the buyer profile in `personalized-outbound-v2.md`, and the qualification rules in `wedge-signal-entry.md`. Use these to build Sales Nav searches and to sanity-check who the real decision-maker is before a connection request goes out.

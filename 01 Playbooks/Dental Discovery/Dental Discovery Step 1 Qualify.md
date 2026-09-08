@@ -1,9 +1,14 @@
+---
+date_created: 2026-08-09
+date_modified: 2026-08-09
+status: active
+---
 # STEP 1 — QUALIFY (Bangalore Dental)
 
 **Cap: $3.00.** Output: a shortlist of clinics that actually fit the ICP. No dossiers, no review
 text, no wedge routing — that's Step 2.
 
-Context doc: `dental-discovery-CRITERIA.md`. Read it before running this.
+Context doc: `Dental Discovery Criteria.md`. Read it before running this.
 
 **Purpose of splitting this out:** dental ATV is bimodal inside a single clinic — the same practice
 runs ₹3,000 root canals and ₹3,00,000 full-arch cases. GBP category can't tell them apart. So
@@ -16,7 +21,7 @@ survives it.
 
 ### Two blockers — ask me, wait for answers
 
-1. **Dental exclusion:** `apify-discovery-CONTEXT.md` §2.2 excludes dental this round; `CLAUDE.md`
+1. **Dental exclusion:** `Apify Discovery Context.md` §2.2 excludes dental this round; `CLAUDE.md`
    lists it as a target. Which governs?
 2. **IG gate:** §2.5 accepts a clinic account, but `personalized-outbound-v2.md` needs a **personal
    founder account** for the Three Threads sequence, and `MEMORY.md` §5 records this biting already
@@ -38,7 +43,7 @@ are written wrong — fix them before scraping.
   `apify/website-content-crawler`, `scrapesage/google-ads-transparency-scraper`,
   `apify/facebook-ads-scraper`. **`website-content-crawler` is new to this project** — estimate the
   cost of 6 pages × 60 domains and flag if it breaks the $0.85 sub-cap.
-- Build the exclusion list: `apify-discovery-CONTEXT.md` §4 + the 11 clinics in
+- Build the exclusion list: `Apify Discovery Context.md` §4 + the 11 clinics in
   `batch3-dental-audit.md`. Match loosely (case, punctuation, `Dr.`, `&`/`and`, branch suffixes).
 
 **Report preflight and wait for go-ahead before scraping.**
@@ -83,7 +88,7 @@ prosthodontist · dental aesthetics clinic
 **Never run:** `dentist near me` · `kids dentist` · `pediatric dental` · `emergency dental` ·
 `teeth cleaning` · `root canal clinic` — these return the low-ATV pain segment by construction.
 
-Rotate against the Bangalore micro-markets in `apify-discovery-CONTEXT.md` §3. Karnataka only.
+Rotate against the Bangalore micro-markets in `Apify Discovery Context.md` §3. Karnataka only.
 Overflow to Mysuru / Mangaluru / Hubballi-Dharwad only if Bangalore falls short.
 **Raw target: 250–350 records.**
 
@@ -94,7 +99,7 @@ Overflow to Mysuru / Mangaluru / Hubballi-Dharwad only if Bangalore falls short.
 3. Not an independent dental clinic — hospital, lab, pharmacy, aggregator, or a doctor's profile inside a hospital
 4. **Mixed skin/aesthetic + dental** (per criteria Gate A.7 — report this count separately)
 5. Review count < 20
-6. **Chain** — 6+ branches, 3+ states, or a corporate/DSO parent. Count branches across the whole raw pull; the branch-count rule is the mechanism, the name list in `dental-discovery-CRITERIA.md` §4 is an unverified shortcut
+6. **Chain** — 6+ branches, 3+ states, or a corporate/DSO parent. Count branches across the whole raw pull; the branch-count rule is the mechanism, the name list in `Dental Discovery Criteria.md` §4 is an unverified shortcut
 7. Geographic mismatch — GBP says Bangalore, website or bio says elsewhere
 8. No website **and** no Instagram **and** no GBP contact info
 
@@ -116,7 +121,7 @@ practice — 1C is the real check. TIER-2 only gets processed if TIER-1 doesn't 
 `apify/instagram-profile-scraper` on TIER-1 survivors. Scrape the clinic account, and the personal
 founder account too if one is named on GBP or the website.
 
-Apply `apify-discovery-CONTEXT.md` §2.5 unchanged:
+Apply `Apify Discovery Context.md` §2.5 unchanged:
 
 | Test | Threshold |
 |---|---|

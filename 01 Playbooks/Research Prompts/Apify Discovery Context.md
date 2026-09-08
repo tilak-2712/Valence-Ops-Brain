@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-06
+date_modified: 2026-08-06
+status: active
+---
 # MESSAGE 1 — CONTEXT PACK (paste this first, then wait for "ready")
 
 You are about to run a lead-discovery + qualification scrape for **ValenceOps** using the Apify MCP connector. This message is context only. **Do not call any tool yet.** Read it, confirm you've understood, and wait for my next message which contains the actual run instructions.

@@ -5,7 +5,7 @@ accumulated across six folders with inconsistent naming (a `batch7/` with no bat
 the only way to find a clinic's dossier was to grep. Keep this current — a new cohort without a row
 here is a cohort that will be re-scraped by accident.*
 
-**The exclusion list lives in `apify-discovery-CONTEXT.md` §4.** Check it before any new scrape.
+**The exclusion list lives in `Apify Discovery Context.md` §4.** Check it before any new scrape.
 
 ---
 
@@ -22,7 +22,7 @@ here is a cohort that will be re-scraped by accident.*
 | 7 | **The `clinics/` cohort** | `clinics/` (13 dossiers + `rejected-candidates.md` + `master-scrape-log.csv`) | 13 | Mixed | Scraped 19 Jul. Non-overlapping with Batch 1 except `evenly-skin-and-hair-clinic.md`. |
 | 8 | **SE Bangalore scrape** | `se-bangalore-scrape/NEW-CLINICS-TABLE.md` + `raw/*.json` + `SESSION-2026-08-10-se-bangalore-scrape.md` | 52 core new targets, from 251 raw records | No | **Raw targets only** — no dossiers, no contact work. Sarjapur Rd and Bommanahalli are under-covered (37 and 4 raw records); their re-runs died with the Apify budget. |
 
-Also present: `ig-pregate-40-clinics.md` (an IG screen over 40 names, 8 Aug — the gate that produced cohort 6's go-list) and `linkedin-sales-navigator-personas.md` (persona definitions, not a cohort).
+Also present: `ig-pregate-40-clinics.md` (an IG screen over 40 names, 8 Aug — the gate that produced cohort 6's go-list) and `LinkedIn Sales Navigator Personas.md` (persona definitions, not a cohort).
 
 ---
 
