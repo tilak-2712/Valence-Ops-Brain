@@ -8,6 +8,7 @@ status: active
 Navigation only. No facts live here. Per-clinic outbound state is in the Notion tracker; everything below is a link to where the evidence sits.
 
 ## Notes
+- [[04 Clients/SkinFit Wellness/SkinFit Current State|SkinFit Current State]] — **start here**
 - [[04 Clients/SkinFit Wellness/Meeting Brief SkinFit 2026-08-18|Meeting Brief SkinFit 2026-08-18]]
 - [[04 Clients/SkinFit Wellness/Runsheet SkinFit Gino 2026-08-18|Runsheet SkinFit Gino 2026-08-18]]
 - [[04 Clients/SkinFit Wellness/SkinFit Information Request Review|SkinFit Information Request Review]]

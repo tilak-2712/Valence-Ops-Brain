@@ -8,6 +8,7 @@ status: active
 Navigation only. No facts live here. Per-clinic outbound state is in the Notion tracker; everything below is a link to where the evidence sits.
 
 ## Notes
+- [[04 Clients/RUA Skin and Hair Center/RUA Current State|RUA Current State]] — **start here**
 - [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Call Dossier 2026-08-25|RUA Skin and Hair Call Dossier 2026-08-25]]
 
 ## Documents
