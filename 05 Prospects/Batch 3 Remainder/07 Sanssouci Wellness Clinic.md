@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Sanssouci Wellness Clinic
 
 **Depth mode:** Standard · **Locality:** Mysuru (outside Bangalore, Karnataka) · **Research date:** 2026-08-01

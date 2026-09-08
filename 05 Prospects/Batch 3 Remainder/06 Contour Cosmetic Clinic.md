@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Contour Cosmetic Clinic
 
 **Depth mode:** Standard · **Locality:** Hullimavu / BTM 2nd Stage, Bangalore · **Research date:** 2026-08-01

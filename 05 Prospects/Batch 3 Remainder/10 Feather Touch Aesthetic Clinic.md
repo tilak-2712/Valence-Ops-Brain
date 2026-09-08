@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Feather Touch Aesthetic Clinic & Academy
 
 **Depth mode:** Standard, with a **Park-tier flag** (mega-founder-brand pattern — see below) · **Locality:** Jayanagar, Bangalore (main) + Mysuru (branch) · **Research date:** 2026-08-01

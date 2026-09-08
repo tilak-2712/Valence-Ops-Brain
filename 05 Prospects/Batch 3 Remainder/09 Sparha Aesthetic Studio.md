@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Sparha Advanced Aesthetic Studio
 
 **Depth mode:** Standard · **Locality:** Indiranagar, Bangalore · **Research date:** 2026-08-01

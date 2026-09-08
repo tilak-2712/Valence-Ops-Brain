@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-13
+status: reference
+---
 # Advanced GroHair GloSkin — Jayanagar branch
 
 > *(⚠️ Retired tests: the six-test SOP was cut to two — qualification and quote decay — on 2026-08-13. Persistence, after-hours, cross-channel and booking friction no longer run. See `wedge-signal-entry.md` §2.)*

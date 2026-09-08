@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Skin and Recon
 
 **Depth mode:** Standard · **Locality:** Jayanagar, Bangalore · **Research date:** 2026-08-01

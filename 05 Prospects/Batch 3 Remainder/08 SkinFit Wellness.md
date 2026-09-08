@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # SkinFit Wellness
 
 **Depth mode:** Standard · **Locality:** Koramangala, Bangalore (2nd location "Richmond Road" claimed in IG bio — **not confirmed**, see below) · **Research date:** 2026-08-01

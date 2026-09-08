@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Rua Skin & Hair Center
 
 **Depth mode:** Standard · **Locality:** Bangalore (2 branches) · **Research date:** 2026-08-01

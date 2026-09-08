@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-02
+date_modified: 2026-08-02
+status: reference
+---
 # Koza Aesthetic Care
 
 **Depth mode:** escalated to **Deep** (confirmed multi-branch chain — 6 locations claimed in bio) · **Locality:** Bangalore · **Research date:** 2026-08-01
