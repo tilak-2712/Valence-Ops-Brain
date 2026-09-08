@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Qualified leads — 2026-08-19
 
-**31 qualified** from 58 audited: 6 disqualified on ICP/volume (`DISQUALIFIED.md`), 21 held back for
+**31 qualified** from 58 audited: 6 disqualified on ICP/volume (`Disqualified 2026-08-18.md`), 21 held back for
 no demonstrable enquiry flow.
 
 Qualifying signal — any one of: **PAID** live ads in last 30d · **IG** 5,000+ followers ·

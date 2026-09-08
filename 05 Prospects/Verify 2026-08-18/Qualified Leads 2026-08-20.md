@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-20
+date_modified: 2026-08-25
+status: reference
+---
 | # | Clinic | IG followers | Google reviews | Meta ads | Google ads | Note |
 |---|---|---|---|---|---|---|
 | 1 | Hairline International, Richmond Town | 3,168 | 4.4 · 740 | 1 lifetime, 0 in 30d | 40 cr.+ · 1 in 30d, 1 in 7d, last 1d ago | FB 30,000+ |

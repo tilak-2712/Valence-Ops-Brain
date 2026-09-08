@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-18
+date_modified: 2026-08-19
+status: reference
+---
 | # | Clinic | IG followers | Google reviews | Meta ads | Google ads |
 |---|---|---|---|---|---|
 | 1 | dr_shettys_cosmetic_centre | 2,965 | 4.7 · 1,669 | — | 15 cr. · 5 in 30d, 1 in 7d, last 5d ago |

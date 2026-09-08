@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-18
+date_modified: 2026-08-18
+status: reference
+---
 # Resume note — 2026-08-18, stopped mid-job
 
 ## Where it stands
@@ -9,7 +14,7 @@
 | **Meta ads** | **57** | **1** | **0** |
 | Instagram | 30 | 0 | **26** |
 
-`state.json` is current and authoritative. `FINAL-TABLE.md` is STALE — it predates the
+`state.json` is current and authoritative. `Final Table.md` is STALE — it predates the
 Meta column being finished. Regenerate it before using it.
 
 ## The only work left

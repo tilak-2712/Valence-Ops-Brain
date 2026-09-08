@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Enquiry-flow shortlist — 2026-08-19
 
 **Question this answers:** which clinics have demonstrable inbound flow? Where volume is thin, the
@@ -6,7 +11,7 @@ pain is not felt and the work is handled manually — no reason to buy.
 **Qualifying signals** (any one): live paid ads in the last 30 days · 5,000+ Instagram followers ·
 400+ Google reviews. **The 400 cutoff is my line, not the playbook's** — see the borderline band.
 
-**31 of 52 qualify.** Source table `FINAL-TABLE.md` is unchanged.
+**31 of 52 qualify.** Source table `Final Table.md` is unchanged.
 
 ---
 

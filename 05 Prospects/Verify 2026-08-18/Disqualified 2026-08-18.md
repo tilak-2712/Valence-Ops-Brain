@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-19
+date_modified: 2026-08-19
+status: reference
+---
 # Disqualified — Tilak's call, 18 Aug 2026
 
 | Clinic | Reviews | Reason |
