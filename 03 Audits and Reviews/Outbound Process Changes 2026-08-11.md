@@ -122,7 +122,7 @@ Track four numbers, derived from the Notion status changes already being made by
 ## 3 · The mystery-shop window: after-hours and weekends
 
 ### 3.1 The data
-`se-bangalore-scrape/raw/*.json` already carries `openingHours` (and an unused `popularTimesHistogram`) on all 251 records. Across the **171 aesthetic/derm clinics** in that scrape:
+`05 Prospects/SE Bangalore Scrape/raw/*.json` already carries `openingHours` (and an unused `popularTimesHistogram`) on all 251 records. Across the **171 aesthetic/derm clinics** in that scrape:
 
 | Slot | Published open |
 |---|---|

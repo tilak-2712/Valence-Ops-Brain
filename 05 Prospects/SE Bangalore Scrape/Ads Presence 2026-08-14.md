@@ -217,7 +217,7 @@ No API key needed for any of it; nothing here consumed Apify credit.
   form body `f.req={"1":"<query>","2":10,"3":10,"4":[2356],"5":{"1":1}}`. **The region belongs in
   field 4 as an array** — the shape in the earlier working notes returns `{}` for every query,
   including Amazon, which looks exactly like a true negative and is not one. Script:
-  `se-bangalore-scrape/gads.py` (in scratchpad; move it in if this becomes routine).
+  `05 Prospects/SE Bangalore Scrape/gads.py` (in scratchpad; move it in if this becomes routine).
 - Meta: must run from a real browser — plain curl gets a JS challenge, and the old
   `/ads/library/async/search_ads/` endpoint now 404s. Fetch the Ad Library HTML in-page and count
   `page_name` occurrences.

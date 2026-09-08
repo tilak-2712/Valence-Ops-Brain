@@ -455,7 +455,7 @@ Three things that plausibly do:
 ### Format rules that bind these
 
 From `10 Tooling/one-pager-handoff/CLAUDE.md` — it reverses three older rules, and the files in
-`one-pager-handoff/examples/` violate all of them. Copy the scaffold, not the words.
+`10 Tooling/one-pager-handoff/examples/` violate all of them. Copy the scaffold, not the words.
 
 - **250–350 words. Enforced.** The previous fifteen ran 529–703.
 - **Sign with a real name** — *"— Tilak, Valence Ops"* — plus *"This is a read on public information

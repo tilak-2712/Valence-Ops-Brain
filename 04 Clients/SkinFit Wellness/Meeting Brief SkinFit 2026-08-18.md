@@ -129,7 +129,7 @@ It is the **only** line in his bio. It does not mention Nester's Hub, the compan
 
 ### 2.1 ~~We have never mystery-shopped SkinFit.~~ **RETRACTED 2026-08-16 — the shop was run, and a one-pager was built on it and sent.**
 
-`One-page-docs/SkinFit Wellness - Revenue Diagnostic.pdf` exists and is built on a real WhatsApp shop of the clinic's **listed number**. Finding: a human replied instantly, then said typing details was difficult and pushed to a phone call; **the hair concern was never asked and nothing was recorded in the chat.** Enquiry deflection — the same wedge shape as Derma Solutions in Batch 2. This is what Gino read, and "a quick understanding for the whatsapp messages" is his response to it.
+`04 Clients/SkinFit Wellness/SkinFit Wellness - Revenue Diagnostic.pdf` exists and is built on a real WhatsApp shop of the clinic's **listed number**. Finding: a human replied instantly, then said typing details was difficult and pushed to a phone call; **the hair concern was never asked and nothing was recorded in the chat.** Enquiry deflection — the same wedge shape as Derma Solutions in Batch 2. This is what Gino read, and "a quick understanding for the whatsapp messages" is his response to it.
 
 **The everything-fails-the-rebuttal-test finding below is therefore wrong and is withdrawn.** We have a first-party, timestamped hook and it survives its rebuttal — the doc pre-empts *"a call is better for a medical concern"* explicitly.
 

@@ -101,7 +101,7 @@ Write one file per clinic to `05 Prospects/`, matching the existing section sche
 
 Both tags are **provisional until the mystery shop runs**, since §3 routes on response speed. Label them that way. Where the wedge genuinely cannot be narrowed without the shop, say which specific test would decide it (§2 lists six).
 
-Then write one summary file, `Pre-outbound-research/Batch 11-15 Summary.md`, containing:
+Then write one summary file, `05 Prospects/Batch 11-15 Summary.md`, containing:
 - A table of the five with: hard-kill status, provisional wedge, priority tier (Very high / High / Medium-park), and the single strongest screenshot-provable fact found.
 - A "could not retrieve" list — every field that failed, with which source failed and why, so it is visible rather than silently missing.
 - The specific mystery-shop tests Tilak should run per clinic to confirm each provisional wedge.

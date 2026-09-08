@@ -38,7 +38,7 @@ Both matter to us because they set the standard the clinic already holds itself 
 
 1. **Research, 1 August.** SkinFit came out of the batch-3 aesthetic research sweep. Dossier is at `05 Prospects/Batch 3 Remainder/08 SkinFit Wellness.md`, with the batch view in `05 Prospects/Batch 3 Aesthetic and Dental/batch3-aesthetic-MASTER.md`. It was marked qualified but **parked** — it never had a Notion row and was never part of an active outbound batch.
 2. **A mystery shop was run** on the clinic's listed WhatsApp number.
-3. **A one-pager was built on that shop** and sent by Pratham: `One-page-docs/SkinFit Wellness - Revenue Diagnostic.pdf`.
+3. **A one-pager was built on that shop** and sent by Pratham: `04 Clients/SkinFit Wellness/SkinFit Wellness - Revenue Diagnostic.pdf`.
 4. **Gino replied on WhatsApp** asking to connect "for a quick understanding for the whatsapp messages." That message is a direct response to the one-pager.
 5. **Meeting held 18 August** at the Koramangala branch.
 
@@ -142,7 +142,7 @@ Gino's own words, which we have used verbatim in the client document:
 
 ## 7 · What we have already committed to in writing
 
-**This section matters most for Adi.** The client document `One-page-docs/SkinFit Wellness - Enquiry Handling Review.pdf` has been prepared for sending and contains six explicit commitments. **Every one needs your confirmation before it goes out.** If any cannot be honoured as written, tell us and we change the document, not the practice.
+**This section matters most for Adi.** The client document `04 Clients/SkinFit Wellness/SkinFit Wellness - Enquiry Handling Review.pdf` has been prepared for sending and contains six explicit commitments. **Every one needs your confirmation before it goes out.** If any cannot be honoured as written, tell us and we change the document, not the practice.
 
 1. **Patient records stay where they are.** We work on incoming messages, not medical records. Their patient system stays theirs.
 2. **Nothing automated ever gives medical advice.** It captures what someone is asking and routes it to their team. It never answers clinical questions or speaks in a doctor's name.
@@ -222,9 +222,9 @@ These are not audit findings. They are things we need answered about **our own c
 
 | File | What it holds |
 |---|---|
-| `One-page-docs/SkinFit Wellness - Enquiry Handling Review.pdf` | **The client document.** Five pages, ready to send once compliance is confirmed |
-| `One-page-docs/SkinFit Wellness - Enquiry Handling Review (Premium).html` | Source for the above |
-| `One-page-docs/SkinFit Wellness - Revenue Diagnostic.pdf` | The original cold one-pager Gino replied to |
+| `04 Clients/SkinFit Wellness/SkinFit Wellness - Enquiry Handling Review.pdf` | **The client document.** Five pages, ready to send once compliance is confirmed |
+| `07 One-Pagers/SkinFit Wellness - Enquiry Handling Review (Premium).html` | Source for the above |
+| `04 Clients/SkinFit Wellness/SkinFit Wellness - Revenue Diagnostic.pdf` | The original cold one-pager Gino replied to |
 | `Meeting Brief SkinFit 2026-08-18.md` | Pre-meeting research, ownership investigation, decision map |
 | `Runsheet SkinFit Gino 2026-08-18.md` | How the meeting was run |
 | `05 Prospects/Batch 3 Remainder/08 SkinFit Wellness.md` | Original clinic dossier, 1 August |

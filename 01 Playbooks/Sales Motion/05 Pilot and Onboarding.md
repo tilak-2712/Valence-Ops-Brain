@@ -58,11 +58,11 @@ One call, screen shared, everything collected live. **This is where `08 Collater
 | 30–40 | Walk the message wording. Get it approved on the call |
 | 40–45 | Confirm dates: day 3 artifact, twice-weekly check-in slots, review call |
 
-**Run the WhatsApp quality check here** (`Audit_call_docs/01` §3.5). Quality rating and messaging tier, before any campaign volume is planned. A Yellow or Red rating changes the whole timeline, and finding that out in week two rather than day zero is an avoidable disaster.
+**Run the WhatsApp quality check here** (`08 Collateral/Audit Call Docs/01` §3.5). Quality rating and messaging tier, before any campaign volume is planned. A Yellow or Red rating changes the whole timeline, and finding that out in week two rather than day zero is an avoidable disaster.
 
 ### Meeting the coordinator matters more than it looks
 
-The owner said yes. The coordinator has to live with it, and they've had no say. From `Audit_call_docs/03` QE1 and QE3, two things are usually true: the coordinator's version of reality differs from the owner's, and if there's individual commission involved, they have a real reason to resist a system that touches their patients.
+The owner said yes. The coordinator has to live with it, and they've had no say. From `08 Collateral/Audit Call Docs/03` QE1 and QE3, two things are usually true: the coordinator's version of reality differs from the owner's, and if there's individual commission involved, they have a real reason to resist a system that touches their patients.
 
 **Do not skip this and do not let it be a formality.** Five minutes:
 

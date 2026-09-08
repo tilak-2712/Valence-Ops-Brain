@@ -78,7 +78,7 @@ Only prompt if they genuinely stall: *"And once someone's messaged — then what
 
 ## [8:00–35:00] The forensic blocks — 9 questions
 
-Nine questions, roughly three minutes each. Each maps to a block in `Audit_call_docs/03`. Ask them conversationally, in whatever order the conversation allows — this is a map, not a script to read aloud.
+Nine questions, roughly three minutes each. Each maps to a block in `08 Collateral/Audit Call Docs/03`. Ask them conversationally, in whatever order the conversation allows — this is a map, not a script to read aloud.
 
 Each has a **trigger** (the answer that means something) and a **follow-up** (what to ask when triggered). The follow-up is where the value is. A question asked and not followed is a question wasted.
 
@@ -148,7 +148,7 @@ This is where diagnosis stops being arguable, and it's the block most likely to 
 
 **If they won't share the screen** — and some won't, reasonably — don't push. Ask instead: *"Scroll back twenty conversations and tell me how many of them end with a patient's message that never got answered."* They'll usually tell you, and them counting it themselves is more powerful than you counting it.
 
-**In-person variant:** if you're at the clinic, ask to stand at reception for ten minutes during a busy stretch. Watch which device the coordinator reaches for. `Audit_call_docs/01` §3.1 — this single observation confirms or kills the personal-phone silo faster than any question.
+**In-person variant:** if you're at the clinic, ask to stand at reception for ten minutes during a busy stretch. Watch which device the coordinator reaches for. `08 Collateral/Audit Call Docs/01` §3.1 — this single observation confirms or kills the personal-phone silo faster than any question.
 
 ---
 
@@ -213,7 +213,7 @@ Show the demo — two minutes, live, then back. Have them message the demo numbe
 
 Before the next thing, both of you:
 
-1. **Fill the divergence table** from `Audit_call_docs/03` with what the owner said. The coordinator column stays empty until Stage 4 — an empty column is a visible reminder that you've heard one side of the story.
+1. **Fill the divergence table** from `08 Collateral/Audit Call Docs/03` with what the owner said. The coordinator column stays empty until Stage 4 — an empty column is a visible reminder that you've heard one side of the story.
 2. **Write down the three most quotable things they said, verbatim.** Their words go in the findings document. Yours don't land the same way.
 3. **Name the wedge.** One, from `wedge-signal-entry.md` §3, with the evidence line from the call attached. If two look equal, note both and decide when drafting — but ship one.
 4. **Note what you couldn't confirm.** This becomes a real section of the document, not a hedge.

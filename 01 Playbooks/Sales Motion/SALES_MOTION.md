@@ -123,7 +123,7 @@ Full script in `01 Playbooks/Sales Motion/03 Operations Call.md`. Shape:
 |---|---|---|
 | 0–3 | Frame: purpose, plan, outcome | Kill the expectation of a pitch, explicitly |
 | 3–8 | "Walk me through how a patient goes from first hearing about you to sitting in your chair" | One open question, then listen |
-| 8–35 | Forensic blocks — speed, follow-up, data, no-shows, quotes, staff | The compressed version of `Audit_call_docs/03` |
+| 8–35 | Forensic blocks — speed, follow-up, data, no-shows, quotes, staff | The compressed version of `08 Collateral/Audit Call Docs/03` |
 | 35–42 | Live evidence — ask to see the WhatsApp inbox on screen | Where diagnosis stops being arguable |
 | 42–47 | The mirror — play back what you heard, in their words, solve nothing | The highest-trust moment available |
 | 47–50 | Next step, dated | "A short document by Thursday, then 20 minutes to decide" |

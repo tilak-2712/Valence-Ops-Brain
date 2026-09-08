@@ -121,7 +121,7 @@ It also does something a video can't: it survives being forwarded. The founder s
 
 **The coordinator view.** A simple sheet or dashboard showing what got captured, so the founder sees what their front desk would actually receive in the morning. This half is what sells it — the patient-side message is nice; the "your coordinator opens this and already knows what to say" is the point.
 
-**The handoff demo.** Be able to show, live, the automation stopping mid-conversation the moment a human replies. Every owner asks about collision with their staff (`Audit_call_docs/03` QE3 records this as the biggest adoption risk). Showing it is worth more than any reassurance.
+**The handoff demo.** Be able to show, live, the automation stopping mid-conversation the moment a human replies. Every owner asks about collision with their staff (`08 Collateral/Audit Call Docs/03` QE3 records this as the biggest adoption risk). Showing it is worth more than any reassurance.
 
 **Guardrails to build in and mention:**
 - Nothing claims to be a human.

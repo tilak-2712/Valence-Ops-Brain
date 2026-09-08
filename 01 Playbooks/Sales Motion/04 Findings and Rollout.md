@@ -108,7 +108,7 @@ Three findings, ranked by what they appear to cost. Each one climbs the pyramid 
 >
 > Nothing leaves your systems. No patient information goes anywhere except back to your own team.
 
-**Still not the moment for `Audit_call_docs/02`.** The full intake list belongs at kickoff, after a yes, delivered in a setup session rather than as a document. Sending it now converts a warm clinic into a cold one.
+**Still not the moment for `08 Collateral/Audit Call Docs/02`.** The full intake list belongs at kickoff, after a yes, delivered in a setup session rather than as a document. Sending it now converts a warm clinic into a cold one.
 
 ### 7 · If it doesn't work
 *(~50 words.)*

@@ -234,7 +234,7 @@ Five documents. Only two are strictly necessary; the rest are cheap and remove a
 11. **Medical disclaimer, explicit.** Nothing automated provides medical advice, diagnosis or treatment recommendation. No message is sent in a doctor's name without their approval. Non-negotiable in this vertical.
 12. **Limitation of liability**, capped at fees paid in the preceding N months, with the usual carve-outs. **This is the most important clause in the document for you.** A proprietorship has no corporate shell — an uncapped liability runs straight to Tilak's personal assets. Do not accept a client redline that removes or widens the cap without understanding exactly what it exposes.
 13. **No guarantee of outcome.** You may name a guarantee about *what you will do*; never a patient-count or revenue promise. `OUTBOUND_MEMORY.md` §5 already fixes this — mirror the same language in the contract.
-14. **The stop-clause.** Three routed patient replies unanswered beyond 48 hours pauses the service. Already designed in `sales-motion/05`. Put it in the contract, where it protects both sides.
+14. **The stop-clause.** Three routed patient replies unanswered beyond 48 hours pauses the service. Already designed in `01 Playbooks/Sales Motion/05`. Put it in the contract, where it protects both sides.
 15. **Termination:** for convenience with notice; for cause on material breach with a cure period; immediate on a platform policy breach.
 16. **Exit and transition.** Data export format, deletion timeline, access revocation. Write the divorce while everyone is friendly.
 17. **Governing law and jurisdiction: Bengaluru, Karnataka.** Arbitration clause optional and probably overkill at this ticket size.

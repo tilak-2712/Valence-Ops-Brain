@@ -15,7 +15,7 @@ finished.
 
 Companion files:
 - `05 Prospects/SE Bangalore Scrape/New Clinics Table 2026-08-10.md` — **the deliverable**
-- `se-bangalore-scrape/raw/*.json` — all 251 raw records
+- `05 Prospects/SE Bangalore Scrape/raw/*.json` — all 251 raw records
 - `05 Prospects/SE Bangalore Scrape/process.py` — re-runnable filter/dedupe/exclusion pipeline
 - `scrape-southeast-bangalore-RESUME.md` — **superseded**; only its Sarjapur/Bommanahalli polygons
   are still live (also reproduced in §14)
@@ -406,7 +406,7 @@ instruction: **save results incrementally so nothing is lost when the limit hits
 ### What was done
 
 1. **Rescued the already-paid-for data first** — the 119 previously-locked records were dumped to
-   `se-bangalore-scrape/raw/` before spending anything new.
+   `05 Prospects/SE Bangalore Scrape/raw/` before spending anything new.
 2. **Built `autosave.sh`** — snapshots datasets to disk every 20s during runs, and only overwrites
    when it receives a valid non-empty JSON array (so a lock/error response can't clobber good data).
 3. **Re-ran Electronic City and Bannerghatta Rd with `customGeolocation` bounding boxes.**
