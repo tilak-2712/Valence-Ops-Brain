@@ -80,7 +80,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 - `One-page-docs/` — the 15 "Revenue Diagnostic" one-pagers, **sent cold as touch 2/3** (not, as this file previously claimed, only to clinics that replied positively). `diagnostic_doc_playbook.md` is the format doctrine.
 - `one-pager-handoff/` — the self-contained build kit for whoever produces one-pagers. Contains frozen snapshot copies of `wedge-signal-entry.md` and `diagnostic_doc_playbook.md` — **edit the root originals, then re-sync the copies.**
 - `Audit_call_docs/` — Stage-2/Stage-4 call and intake documents.
-- `Pitch-decks/`, `valenceops_context_1.pdf`, `AI Readiness Workbook .pdf`, `revenue_os_discovery_audit_fillable.pdf` — reference material.
+- `04 Clients/Sapphire Skin and Aesthetics/`, `valenceops_context_1.pdf`, `AI Readiness Workbook .pdf`, `revenue_os_discovery_audit_fillable.pdf` — reference material.
 
 ### `_archive/`
 Retired duplicates and violations. **Never read from here when drafting.** See `_archive/README.md`.
