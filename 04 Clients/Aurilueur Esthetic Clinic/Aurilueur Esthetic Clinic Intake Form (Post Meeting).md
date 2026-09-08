@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-03
+date_modified: 2026-09-03
+status: active
+---
 # Aurilueur Esthetic Clinic — Post-Meeting Intake Form
 
 For Dr. Shabeeb, following the offline meeting. Trimmed to exclude everything already confirmed

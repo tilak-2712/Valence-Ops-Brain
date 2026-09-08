@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-05
+date_modified: 2026-09-08
+status: active
+---
 # Aurilueur proposal — build kit
 
 `proposal.html` + `style.css` + `fonts/` produce
