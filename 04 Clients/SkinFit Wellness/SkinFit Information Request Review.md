@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-20
+date_modified: 2026-08-20
+status: active
+---
 # SkinFit Information Request — Review
 
 **Reviewed 2026-08-20.** Source: `~/Desktop/SkinFit-Information-Request.docx`
@@ -19,7 +24,7 @@ Three other issues: the document is too long for a man who just said he has no t
 
 ## 1 · What the questionnaire can and cannot answer
 
-Scored against the eight audit objectives in `SKINFIT-TECH-HANDOFF-2026-08-18.md` §8.
+Scored against the eight audit objectives in `SkinFit Tech Handoff 2026-08-18.md` §8.
 
 | # | Audit objective | Covered? | Why |
 |---|---|---|---|

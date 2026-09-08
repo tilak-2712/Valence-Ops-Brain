@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-16
+date_modified: 2026-08-16
+status: active
+---
 # Aesthetica Veda — Dr. Vybhav Deraje, WhatsApp first touch (Tilak takes over)
 
 **Context (2026-08-12):** Roshan (co-founder) replied positively to Pratham's LinkedIn DM ("good observation"), directed us to meet Vaibhav in person at the clinic, and shared Vaibhav's number when Pratham asked for a nudge. Vaibhav has ignored email + pitch deck + IG DM and may have blocked Pratham. Tilak is now the sender, on a fresh channel (WhatsApp), with a co-founder-sanctioned reason to be there.

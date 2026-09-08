@@ -124,7 +124,7 @@ Nothing here is a commercial contract.
 
 **When this applies:** the clinic will not grant system access, will not free up staff time, and wants a proposal first. **SkinFit as of 2026-08-20.**
 
-**What it is honestly called:** a self-report questionnaire that scopes the build. **It is not an audit and must not be described as one, internally or to them.** Full analysis of what it can and cannot establish is in `SKINFIT-INFORMATION-REQUEST-REVIEW.md`. The short version: it answers 2 of the 8 audit objectives in the tech handoff §8, and misses every one that would produce a number.
+**What it is honestly called:** a self-report questionnaire that scopes the build. **It is not an audit and must not be described as one, internally or to them.** Full analysis of what it can and cannot establish is in `SkinFit Information Request Review.md`. The short version: it answers 2 of the 8 audit objectives in the tech handoff §8, and misses every one that would produce a number.
 
 ### 3A.1 What changes, in one line each
 1. **You lose the diagnostic layer.** The proposal is built on what they told you, not on what you saw.

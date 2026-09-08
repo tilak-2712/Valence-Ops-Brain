@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-22
+date_modified: 2026-08-22
+status: active
+---
 # SkinFit Wellness — Proposal & SOW Review
 
-**Reviewed 2026-08-22.** Sources: `SkinFit_Wellness_Proposal.docx`, `SkinFit_Wellness_SOW.docx` (both drafts, pricing/dates left blank on purpose). Compared against `Proposals/SkinFit Wellness - Enquiry Handling Review.pdf` (already sent to Gino), `SKINFIT-TECH-HANDOFF-2026-08-18.md`, `PRICING-BUILD-COST-2026-08-21.md`, `LEGAL-AND-COMMERCIAL-DOC-SET.md`, `taste-n-judgement.md`. Content only — design/formatting explicitly out of scope for this pass.
+**Reviewed 2026-08-22.** Sources: `SkinFit_Wellness_Proposal.docx`, `SkinFit_Wellness_SOW.docx` (both drafts, pricing/dates left blank on purpose). Compared against `Proposals/SkinFit Wellness - Enquiry Handling Review.pdf` (already sent to Gino), `SkinFit Tech Handoff 2026-08-18.md`, `PRICING-BUILD-COST-2026-08-21.md`, `LEGAL-AND-COMMERCIAL-DOC-SET.md`, `taste-n-judgement.md`. Content only — design/formatting explicitly out of scope for this pass.
 
 ---
 
@@ -30,7 +35,7 @@ The same PDF then names three more **explicitly deferred** — "**Three more, on
 - **#03 was the load-bearing promise, in the sent document's own words:** *"Most people are lost in the gap between 'we'll call you' and someone actually being reached. Removing the step removes the loss."* That's the sharpest single line in the review. It's gone from the proposal.
 - **It also breaks the proposal's own internal logic.** Section 03 of the Proposal ("How It Works Together") says *"A booked appointment flows into no-show recovery if the patient doesn't show up"* — the pipeline assumes a booking exists, but no system in the document produces one. As written, an appointment still happens by someone on the qualification bot's handoff calling the patient — which is the exact "promise to call" step §03 was written to remove.
 - **Gino can check this.** He has the PDF. `taste-n-judgement.md` §4's own test — *"can the reader check this, and what happens if they do?"* — applies directly. An agency creative director who read a five-page document carefully enough to reply to it is exactly the reader who will notice its headline fix disappeared and three deferred items took its place.
-- **Reviews specifically was ruled out once already**, in `SKINFIT-INFORMATION-REQUEST-REVIEW.md` §4.1, on the grounds that it's "a different product line, it is not the wedge," and including it "makes the document read as a vendor scoping an upsell." That reasoning wasn't about the questionnaire only — it applies just as hard to the sales proposal.
+- **Reviews specifically was ruled out once already**, in `SkinFit Information Request Review.md` §4.1, on the grounds that it's "a different product line, it is not the wedge," and including it "makes the document read as a vendor scoping an upsell." That reasoning wasn't about the questionnaire only — it applies just as hard to the sales proposal.
 
 **Decide, don't default:** either (a) add Booking back as its own priced system and re-sequence the other three as a named "Phase 2, once the first four are running" — which matches what was already promised — or (b) if Booking was cut deliberately (e.g. because writing into an unknown PMS is unresolved per tech handoff §9), say so explicitly in the document rather than silently dropping the one thing Gino is most likely to notice missing. Cheapest fix: even the low-variance version of booking — "held on our side, desk copies it across," no PMS write access needed — covers the promise without waiting on Adi.
 

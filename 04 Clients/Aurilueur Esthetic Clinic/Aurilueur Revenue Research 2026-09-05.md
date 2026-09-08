@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-05
+date_modified: 2026-09-05
+status: active
+---
 # Aurilueur Esthetic Clinic — Revenue, Service Mix and Economics Research
 
 **Compiled 5 September 2026.** Inputs: their own website (37 service pages, own published price tables), their Google Business Profile (271 reviews, full corpus scraped), Meta Ad Library (live check), Instagram profile (live check), and the verbal + form answers from Dr. Shabeeb.
@@ -179,7 +184,7 @@ Owner responses arrive in **catch-up batches**, not on arrival. Batch dates visi
 
 Recent responses are fast (1–5 days). Historic ones took months or never came. Same pattern as §3.1: **capable, inconsistent, person-dependent.**
 
-**Careful with this one.** Review response is adjacent to reputation management, which `SKINFIT-INFORMATION-REQUEST-REVIEW.md` §4.1 already ruled is *"a different product line, it is not the wedge."* Use it as evidence of the pattern; do not turn it into a system we are selling.
+**Careful with this one.** Review response is adjacent to reputation management, which `SkinFit Information Request Review.md` §4.1 already ruled is *"a different product line, it is not the wedge."* Use it as evidence of the pattern; do not turn it into a system we are selling.
 
 ---
 
@@ -337,7 +342,7 @@ Six service pages, zero mentions in 271 reviews. If it sells, it is a high-ticke
 
 ## 9 · Where they sit against the Bangalore market
 
-Benchmarks gathered independently from 30 Bangalore clinic pages plus national aggregators and press. Full sourced tables in `AURILUEUR-BANGALORE-PRICE-BENCHMARKS-2026-09-05.md`. Aurilueur's own published prices excluded from that research, then compared here.
+Benchmarks gathered independently from 30 Bangalore clinic pages plus national aggregators and press. Full sourced tables in `Aurilueur Bangalore Price Benchmarks 2026-09-05.md`. Aurilueur's own published prices excluded from that research, then compared here.
 
 | Line | Aurilueur (published) | Bangalore market (published) | Read |
 |---|---|---|---|

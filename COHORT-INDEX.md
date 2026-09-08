@@ -51,7 +51,7 @@ The Aug-11 §4 point still holds in its narrow form: don't fire a *new* scrape w
 2. **Cohort 5's two missing dossiers** — Aisri and SkinRx were items 9 and 11 in the handoff and have
    no output in `Research-docs/`.
 3. **Sapphire has no Notion row**, despite being the warmest thread in the project's history. It is
-   tracked only in `files/REPLY_LOG.csv` and `MEETING-BRIEF-sapphire-2026-08-13.md`.
+   tracked only in `files/REPLY_LOG.csv` and `Meeting Brief Sapphire 2026-08-13.md`.
 4. **The batch-7 repo dossiers are now behind Notion.** Twelve of them have shop transcripts, confirmed
    wedges and framing lines that exist only in Notion's `Wedge` / `Notes` fields. Either backfill them
    into the dossiers or accept that for this cohort the dossier is the *pre-shop* record and Notion is

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-16
+date_modified: 2026-08-16
+status: active
+---
 # Meeting Brief — SkinFit Wellness / Gino Tharakan · Mon 18 Aug 2026
 
 **Prepared 2026-08-16.** Attendee: Gino Tharakan, "heading the marketing for the clinic."

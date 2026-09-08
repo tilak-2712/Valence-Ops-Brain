@@ -1,6 +1,11 @@
+---
+date_created: 2026-08-17
+date_modified: 2026-08-17
+status: active
+---
 # Run-sheet — Gino Tharakan / SkinFit Wellness · Mon 18 Aug 2026
 
-**Tilak + Pratham** · SkinFit Koramangala 4th Block · Read with `MEETING-BRIEF-skinfit-2026-08-18.md`
+**Tilak + Pratham** · SkinFit Koramangala 4th Block · Read with `Meeting Brief SkinFit 2026-08-18.md`
 
 > **This is beats, not a script.** The project already paid for this lesson: a written script narrated aloud sounded "recited like a poem." Anything memorised sounds memorised. Four lines below are worth having close to word-perfect because precision matters in them. Everything else is a beat — hit it in your own words.
 >

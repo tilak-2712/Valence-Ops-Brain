@@ -14,7 +14,7 @@
 
 The six now named add **CRM logging/intake** and **follow-up past the first silence**. The proposal did not merely omit those — §02 names follow-up as one of three things *"deliberately not priced here,"* and CRM write-back is not in the document at all. §06 assumption 3 explicitly allows for a paper diary, i.e. **no CRM integration was assumed or priced.**
 
-Arithmetic: four priced systems become six, and the two added are the two with the highest integration variance. That is roughly **+50% scope at +0% price**, and the added half is the half that touches software nobody has confirmed the name of (`SKINFIT-TECHNICAL-BRIEF.md` §7, §9).
+Arithmetic: four priced systems become six, and the two added are the two with the highest integration variance. That is roughly **+50% scope at +0% price**, and the added half is the half that touches software nobody has confirmed the name of (`SkinFit Technical Brief.md` §7, §9).
 
 **If the six-system stack is now the standard build, ₹20,000 / ₹40,000 is not a price for it.**
 
@@ -28,7 +28,7 @@ Arithmetic: four priced systems become six, and the two added are the two with t
 
 ### 0.3 · Check whether the quote has actually left
 
-There is still **no SkinFit row in Notion** — searched 21 Aug, nothing. `SKINFIT-TECH-HANDOFF-2026-08-18.md` §12 lists creating it as an open action. The Proposal and Quote file is marked *"Not yet laid out."*
+There is still **no SkinFit row in Notion** — searched 21 Aug, nothing. `SkinFit Tech Handoff 2026-08-18.md` §12 lists creating it as an open action. The Proposal and Quote file is marked *"Not yet laid out."*
 
 If it has not gone out, defects 1–3 are still free to fix. If it has, **₹20,000 / ₹40,000 is now a fact in the Bangalore market that we chose** — Gino and Israni came out of an agency that shut down, and that network talks. Price client #2 accordingly, knowing #1's number may travel.
 

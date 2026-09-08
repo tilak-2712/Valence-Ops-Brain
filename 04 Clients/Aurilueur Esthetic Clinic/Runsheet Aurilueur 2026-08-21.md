@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-21
+date_modified: 2026-08-21
+status: active
+---
 # Runsheet — "Aureliere Clinic" call · Fri 21 Aug 2026
 
 **⚠️ NAME NOT FOUND.** No row named Aureliere in Notion Batch 1 (19) or Batch 2 (15), and no file

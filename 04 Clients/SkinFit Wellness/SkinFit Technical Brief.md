@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-20
+date_modified: 2026-08-20
+status: active
+---
 # SkinFit Wellness — Technical Brief
 
 Everything currently known about this case, organised by how certain each piece is. Information only.

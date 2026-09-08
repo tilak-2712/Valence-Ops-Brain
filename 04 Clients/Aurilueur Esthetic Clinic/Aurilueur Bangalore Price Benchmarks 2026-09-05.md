@@ -1,6 +1,11 @@
+---
+date_created: 2026-09-05
+date_modified: 2026-09-05
+status: active
+---
 # Bangalore Published Price Benchmarks — 11 Treatment Categories
 
-**Compiled 5 September 2026.** Companion to `AURILUEUR-REVENUE-RESEARCH-2026-09-05.md` §9. Aurilueur's own pages were **excluded** from this research so the comparison stays independent.
+**Compiled 5 September 2026.** Companion to `Aurilueur Revenue Research 2026-09-05.md` §9. Aurilueur's own pages were **excluded** from this research so the comparison stays independent.
 
 **Confidence key:** `published-bangalore` = a Bangalore clinic's own page or a Bangalore-specific guide · `published-india` = national aggregator or multi-city page · `press` = news/market reporting · `not-published` = no real published price found.
 

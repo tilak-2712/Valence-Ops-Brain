@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-18
+date_modified: 2026-08-18
+status: active
+---
 # SkinFit Wellness — Technical Handoff
 
 **For:** Adi and Maddy · **From:** Tilak and Pratham · **Date:** 18 August 2026
@@ -220,8 +225,8 @@ These are not audit findings. They are things we need answered about **our own c
 | `One-page-docs/SkinFit Wellness - Enquiry Handling Review.pdf` | **The client document.** Five pages, ready to send once compliance is confirmed |
 | `One-page-docs/SkinFit Wellness - Enquiry Handling Review (Premium).html` | Source for the above |
 | `One-page-docs/SkinFit Wellness - Revenue Diagnostic.pdf` | The original cold one-pager Gino replied to |
-| `MEETING-BRIEF-skinfit-2026-08-18.md` | Pre-meeting research, ownership investigation, decision map |
-| `RUNSHEET-skinfit-gino-2026-08-18.md` | How the meeting was run |
+| `Meeting Brief SkinFit 2026-08-18.md` | Pre-meeting research, ownership investigation, decision map |
+| `Runsheet SkinFit Gino 2026-08-18.md` | How the meeting was run |
 | `Research-docs/08-skinfit-wellness.md` | Original clinic dossier, 1 August |
 | `taste-n-judgement.md` | How client-facing work gets judged here. Read before writing anything they will see |
 
