@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-08
+date_modified: 2026-08-08
+status: active
+---
 # Findings — Batch #11–15
 
 *Compiled 2026-08-08 from `Pre-outbound-research/batch7/` dossiers 21–25 (vitals-klinic, krity-360, d-white-feather, dr-ag-skin-and-hair, project-skin) + batch summary. Mystery shop not run on any — all wedge tags provisional.*

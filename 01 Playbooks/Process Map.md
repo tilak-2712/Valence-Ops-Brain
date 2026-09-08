@@ -62,7 +62,7 @@ The `AUTOMATABLE` tag at the end of each step is a first-pass judgment only — 
 ### A7. Output the shortlist
 - A CSV with a fixed column contract + a `go-list` split by route: full-IG route / thin-IG route /
   non-IG (WhatsApp-phone-website only) route.
-- Current live examples: `ig-pregate-40-clinics.md` → `go-list-mystery-shop.md`.
+- Current live examples: `IG Pregate 40 Clinics.md` → `go-list-mystery-shop.md`.
 - **AUTOMATABLE: yes (formatting), no (the route call on edge cases).**
 
 ---

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-01
+date_modified: 2026-08-01
+status: reference
+---
 # Handoff — 11 Remaining Skin/Aesthetic Clinics (Batch 3)
 
 **For:** whoever's continuing this research with their own Apify credits

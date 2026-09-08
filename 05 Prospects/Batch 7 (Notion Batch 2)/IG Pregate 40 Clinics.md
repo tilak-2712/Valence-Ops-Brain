@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-08
+date_modified: 2026-08-08
+status: active
+---
 # IG Pre-Gate — 40-Clinic Shortlist Screen
 
 **Run date:** 2026-08-08 · **Source:** Apify `apify/instagram-profile-scraper`, run `EesNLVkPYhlCqqs50`, dataset `HF2DOpdkMh15tt4eV` · **Cost:** ~$0.10 (39 profiles @ $0.0026, about-section add-on disabled)

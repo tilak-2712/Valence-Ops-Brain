@@ -74,7 +74,7 @@ If a plausible one-sentence rebuttal exists, the hook doesn't ship. This kills m
 ### 1.4 Raise the evidence bar: first-party test, OR ≥2 independent instances
 The strongest batch-7 findings are patterns, not incidents — Dr. Priya's booking friction across multiple independent reviewers, Derma Solutions' 7.2% one-star rate, VIDA's three reviewers on pricing pressure. Single-incident review quotes get argued with.
 
-Related: the caveat in `findings-batch-11-15.md` — samples of 5–8 on Google's *relevance* sort — means "no complaints found" is currently worthless. Pull chronological, 25+, report negatives per 100 rather than quoting one.
+Related: the caveat in `Findings Batch 11-15.md` — samples of 5–8 on Google's *relevance* sort — means "no complaints found" is currently worthless. Pull chronological, 25+, report negatives per 100 rather than quoting one.
 
 ---
 

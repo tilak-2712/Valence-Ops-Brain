@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-08
+date_modified: 2026-08-08
+status: active
+---
 # Findings — Batch 7, Clinics #11–20 (the Tier A ten)
 
 *Compiled 2026-08-08 from `Pre-outbound-research/batch7/` dossiers 11–20. Mystery shop not run on any — every wedge tag is provisional. Note the numbering differs from `go-list-mystery-shop.md`, where #11–15 were Vitals/Krity/DWF/Dr AG/Project Skin.*

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-13
+date_modified: 2026-08-13
+status: active
+---
 # Go List — Cleared for Research + Mystery Shop + Outbound
 
 > ⚠️ **Before shopping anything on this list — read `wedge-signal-entry.md` §2 (revised 2026-08-13).**

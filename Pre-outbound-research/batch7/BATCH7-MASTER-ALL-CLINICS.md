@@ -3,7 +3,7 @@
 *Assembled 2026-08-17 from every file in `Pre-outbound-research/batch7/`: `BATCH7-CONSOLIDATED-STATE.md`,
 `BATCH7-WEDGE-BRIEF.md`, `BATCH7-FOLLOWUP2-MESSAGES.md`, `go-list-full-report.md`,
 `batch-11-15-summary.md`, the 12 per-clinic dossiers, and the 10 shop screenshots in `mystery-shop-b7/`.
-Root-level `findings-batch7-clinics-11-20.md` folded in for the #11–20 summary tables.*
+Root-level `Findings Batch 7 Clinics 11-20.md` folded in for the #11–20 summary tables.*
 
 **Purpose:** one file carrying mystery-shop results, research, wedges, follow-ups and blockers for every
 batch-7 clinic, for use alongside other docs in a statistics pass.
