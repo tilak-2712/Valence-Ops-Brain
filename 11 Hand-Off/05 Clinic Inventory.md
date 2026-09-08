@@ -230,7 +230,7 @@ for current follow-up dates — this is where most of the ~70–90 touches sit.*
 | **cozmo bliss** | Low | 3 WhatsApp touches, all no-reply. ⚠️ Its hook was a midnight shop — **inadmissible** under the current rule. Midnight-gap and 28-ads facts are fully spent here. |
 
 **Not in Notion but live: Sapphire Skin & Aesthetics** — the warmest thread in the project. See
-`01-STATE-OF-PLAY.md` §3. **Create the Notion row.**
+`01 State of Play.md` §3. **Create the Notion row.**
 
 ---
 

@@ -1,6 +1,6 @@
 # STATE OF PLAY — as of 13 August 2026
 
-Read this immediately after `00-START-HERE.md`. It is the honest position, not the encouraging one.
+Read this immediately after `00 Start Here.md`. It is the honest position, not the encouraging one.
 
 ---
 

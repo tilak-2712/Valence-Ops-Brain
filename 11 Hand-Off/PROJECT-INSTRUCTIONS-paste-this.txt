@@ -36,7 +36,7 @@ TWO REGISTERS — READ WHICH ONE I'M IN
 If you cannot tell which register I'm in, ask in one line, or answer expansively and flag the
 constraints at the end rather than leading with them.
 
-Read 00-START-HERE.md and 01-STATE-OF-PLAY.md before anything that turns on the current position —
+Read 00 Start Here.md and 01 State of Play.md before anything that turns on the current position —
 numbers, a specific clinic, what's been sent, what to do next. For open strategy talk, use them as
 background rather than a gate.
 
@@ -76,7 +76,7 @@ Leads tracker", which contains two databases: Batch 1 (19 clinics) and Batch 2 (
 anything about what has been sent, when, to whom, or what a shop found — read Notion first. It is
 authoritative and current.
 
-05-CLINIC-INVENTORY.md is a dated snapshot (13 Aug 2026) kept so this project works if the connector
+05 Clinic Inventory.md is a dated snapshot (13 Aug 2026) kept so this project works if the connector
 is unavailable. Where the snapshot and Notion disagree, Notion wins, always.
 
 I do not report sends in chat and should never be asked to. Never treat an unlogged send as a gap to

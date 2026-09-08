@@ -157,7 +157,7 @@ One home per fact, drafts never stored, one trigger (`/wrap`) with one notificat
 
 **Routing test, in order:** Is it a fact about one clinic? → Notion. Is it Tilak's judgement about work quality? → taste. Is it about how we work together, or a live thread? → MEMORY. Is it an outbound rule, phrase, term or decision? → OUTBOUND_MEMORY. Is it a deliverable? → client or cohort folder. If it fits two, it goes to the higher one in the precedence ladder and nowhere else. No cross-posting.
 
-**Frozen — read, never written:** `files/SEND_LOG.csv`, `files/REPLY_LOG.csv`, `files/LEARNINGS_LOG.md`, `_archive/`, `Project-Hand-Off/`.
+**Frozen — read, never written:** `files/SEND_LOG.csv`, `files/REPLY_LOG.csv`, `files/LEARNINGS_LOG.md`, `_archive/`, `11 Hand-Off/`.
 
 ### 2 · Never stored
 - Pre-drafts, drafts, and unsent variants. Only the **sent** version, dated, in the client or cohort folder.

@@ -58,7 +58,7 @@ Every send, follow-up, mystery-shop result and next-touch date lives in **Notion
 
 - For anything about **what has been sent, when, to whom, or what a mystery shop found** — read Notion
   first. It is authoritative and it is current.
-- These files are a **dated snapshot**. `05-CLINIC-INVENTORY.md` freezes the Notion state as of
+- These files are a **dated snapshot**. `05 Clinic Inventory.md` freezes the Notion state as of
   13 Aug 2026 so this project still works if the connector is unavailable — but **where the snapshot
   and Notion disagree, Notion wins, always.**
 - A clinic with research in this project but **no Notion row has not been contacted and not been
@@ -76,13 +76,13 @@ The folder was wrong.
 
 | File | What it's for |
 |---|---|
-| `00-START-HERE.md` | This file. Read first. |
-| `01-STATE-OF-PLAY.md` | Where the business actually is: real numbers, the tripwire, warm threads, the five unproven bets, open decisions. **Read this second, always.** |
-| `02-BUYER-OFFER-AND-DEMO.md` | Who we're selling to, what the offer is, what we can and can't demonstrate. |
-| `03-DRAFTING-ENGINE.md` | How to write to these clinics: banned words, tone, the sequence, templates, the self-check. Enough to draft a real DM from a phone. |
-| `04-WEDGE-ROUTING.md` | Which clinics to kill, the two-test mystery shop, admissibility, and signal → wedge routing. |
-| `05-CLINIC-INVENTORY.md` | Every live clinic, plus all twelve mystery-shop transcripts and confirmed wedges. The richest evidence we own. |
-| `06-DECISIONS-AND-LEARNINGS.md` | What was tried, what happened, what changed — and what was rejected, so it doesn't get re-proposed. |
+| `00 Start Here.md` | This file. Read first. |
+| `01 State of Play.md` | Where the business actually is: real numbers, the tripwire, warm threads, the five unproven bets, open decisions. **Read this second, always.** |
+| `02 Buyer Offer and Demo.md` | Who we're selling to, what the offer is, what we can and can't demonstrate. |
+| `03 Drafting Engine.md` | How to write to these clinics: banned words, tone, the sequence, templates, the self-check. Enough to draft a real DM from a phone. |
+| `04 Wedge Routing.md` | Which clinics to kill, the two-test mystery shop, admissibility, and signal → wedge routing. |
+| `05 Clinic Inventory.md` | Every live clinic, plus all twelve mystery-shop transcripts and confirmed wedges. The richest evidence we own. |
+| `06 Decisions and Learnings.md` | What was tried, what happened, what changed — and what was rejected, so it doesn't get re-proposed. |
 
 ---
 

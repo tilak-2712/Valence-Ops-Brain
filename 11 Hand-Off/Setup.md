@@ -19,13 +19,13 @@ to every chat automatically.
 ## Step 3 — Upload these 7 files as project knowledge
 
 ```
-00-START-HERE.md
-01-STATE-OF-PLAY.md
-02-BUYER-OFFER-AND-DEMO.md
-03-DRAFTING-ENGINE.md
-04-WEDGE-ROUTING.md
-05-CLINIC-INVENTORY.md
-06-DECISIONS-AND-LEARNINGS.md
+00 Start Here.md
+01 State of Play.md
+02 Buyer Offer and Demo.md
+03 Drafting Engine.md
+04 Wedge Routing.md
+05 Clinic Inventory.md
+06 Decisions and Learnings.md
 ```
 
 ## Step 4 — Turn on the Notion connector
