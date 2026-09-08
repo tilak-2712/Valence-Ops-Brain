@@ -21,6 +21,10 @@ Adaptive, cross-session memory for this project. Read at the start of any work h
 - **Compressed answers.** Verdict first, tables not paragraphs, depth pushed into a file rather than into the reply.
 - Prefers direct, specific critique over hedged or diplomatic phrasing — expects the same back.
 
+- **Rituals are friction; one instruction plus a notification is the ask.** *(2026-09-08, confirmed.)* Shown a reorg plan carrying per-file frontmatter and a tag registry, he named the cost precisely: "more responsibilities to update each and everything everytime in different sub folders and folders and files and ledgers." What he wants instead is Claude analysing the session live, writing to the right place itself, and posting what it changed so he can object. Per-stage logging of pre-draft, draft, pre-send and post-send is explicitly not wanted. This produced the write policy in `CLAUDE.md` and the `/wrap` step: seven overlapping update rituals collapse to one routing rule and one trigger.
+- **Four files are protected from restructuring.** *(2026-09-08, confirmed.)* `CLAUDE.md`, `MEMORY.md`, `taste-n-judgement.md` and `files/OUTBOUND_MEMORY.md` hold the niche insights and context he expects to draw on later. Never move, rename, inject frontmatter into, or refactor them in any way that costs them value. Appending, and dated corrections beneath an existing entry, are the only edits. Through the 2026-09-08 reorg they stayed at their original paths and were touched only for path and filename substitutions.
+- **`/wrap` stays manual until 2026-09-15, then switches to automatic.** *(2026-09-08, confirmed.)* One week of visible changesets first so the routing can be checked against his judgement, then install the session-end hook without asking and tell him it was done. No session can act on a date by itself, so this entry is the trigger: the first session on or after 2026-09-15 makes the change. If `/wrap` has not run cleanly a few times by then, say so and hold rather than automate something neither of us has watched work.
+
 ## 2. Feedback — confirmed (has evidence behind it)
 
 **Mystery-shopping and review-reading** [confirmed prior session]
