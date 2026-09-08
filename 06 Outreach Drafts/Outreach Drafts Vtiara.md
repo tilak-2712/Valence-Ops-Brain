@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-29
+date_modified: 2026-07-30
+status: active
+---
 # Outreach Drafts — Vtiara Hair & Skin Clinic
 
 POC: Dr. Madan Kumar BJ (Founder). Previously "On hold" in Notion — reopened per the priority-table review (stale reasoning, retired IG-vs-WhatsApp rule). Hook: their own "We Are Hiring — Client Co-ordinator, Indiranagar" post, ~4 days old at time of drafting.

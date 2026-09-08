@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-25
+date_modified: 2026-07-25
+status: active
+---
 # Cold emails — the 5 contacts with email but no DM channel
 Utkarsha, Dr. Keshav's, Dr. Karishma / K Aesthetics, Dr. Dixit, Dr Juvita. Drafted from Notion contact data + Pre-outbound-research dossiers. Each opens on a specific, unused observation (none repeat the DM hooks already sent to these same clinics), self-checked against the personalized-outbound-v2 skill and the pattern-repetition lesson from the DM review.
 
@@ -100,7 +105,7 @@ Utkarsha, Dr. Keshav's, Dr. Karishma / K Aesthetics, Dr. Dixit, Dr Juvita. Draft
 - "a small pattern in your reviews" (previous recommendation — kept as backup, slightly more of a curiosity gap, slightly less immediate)
 - "something a few patients mentioned"
 
-*Note: this uses a different fact than the DM (see outreach-drafts-utkarsha-to-evenly.md #11, which uses the "three follow-ups, no question asked" mystery-shop story) so the two channels don't repeat each other if she sees both.*
+*Note: this uses a different fact than the DM (see Outreach Drafts Utkarsha to Evenly.md #11, which uses the "three follow-ups, no question asked" mystery-shop story) so the two channels don't repeat each other if she sees both.*
 
 **Body:**
 > Dr Juvita,

@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-29
+date_modified: 2026-07-29
+status: active
+---
 # Outreach Drafts — The Glow Clinic
 
 POC: Rohit Reddy (Operations co-founder). Channel: Instagram DM. Wedge (per `files/OUTBOUND_SYSTEM_AUDIT.md` re-wedge note): 5-min WhatsApp reply kills the speed hook — angle moved to manual-handling/time-cost of that reply, not response speed itself.

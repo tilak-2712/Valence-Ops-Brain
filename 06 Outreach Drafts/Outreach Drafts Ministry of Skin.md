@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-29
+date_modified: 2026-07-29
+status: active
+---
 # Outreach Drafts — Ministry of Skin
 
 POC: Dr. Dhavala (Founder). Channel: Instagram DM. Locations: Lavelle Road, Jayanagar. 44 active Google Ads — highest ad spend in Batch 1.

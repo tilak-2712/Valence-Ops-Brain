@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-25
+date_modified: 2026-07-25
+status: active
+---
 # Outreach Drafts — Dr. Utkarsha's → Evenly Skin and Hair Clinic
 19 clinics, Day-0 DM + 2 follow-ups each, drafted against personalized-outbound-v2.md + wedge-signal-entry.md, self-checked against the skill's checklist. Compiled 2026-07-24.
 
