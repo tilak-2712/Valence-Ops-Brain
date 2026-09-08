@@ -192,3 +192,7 @@ No superlatives. No greeting filler.
 **Open.** Each of these ends on the question, as the playbook requires. What follows the question —
 whether the one-pager is attached, whether the live WhatsApp number appears as something they can
 test themselves, and what the named ask is — is still undecided.
+
+
+---
+Related: [[MEMORY|MEMORY]] · [[05 Prospects/Batch 7 (Notion Batch 2)/13 Ara Skin Clinic|13 Ara Skin Clinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/12 Haircosmos International|12 Haircosmos International]] · [[05 Prospects/Batch 7 (Notion Batch 2)/11 Gejje's Marvella|11 Gejje's Marvella]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/15 Akera Health|15 Akera Health]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

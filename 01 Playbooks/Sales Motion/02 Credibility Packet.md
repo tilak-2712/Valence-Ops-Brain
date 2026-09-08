@@ -157,3 +157,7 @@ Three to four minutes, screen-recorded, walking through *their* audit. ~25 minut
 5. Does "AI" appear before the four-minute mark of the video, or anywhere in the covering message?
 6. Would a clinic owner say these sentences out loud, in these words? *(`MEMORY.md` §2 — the translation check.)*
 7. Is the packet more polished than the one-pager that preceded it? *(A jump in polish is a tell. `diagnostic_doc_playbook.md` §5.)*
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/Sales Motion/HOW-WE-WORK|HOW-WE-WORK]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[MEMORY|MEMORY]]

@@ -137,3 +137,7 @@ Once we receive all items above, the audit takes 48–72 hours. You will receive
 * A recommended first step with a timeline and expected outcome
 
 If any item above is unavailable, send what you have and note what is missing. Missing items become part of the findings — they are never a reason to delay the audit.
+
+
+---
+Related: [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[01 Playbooks/Sales Motion/04 Findings and Rollout|04 Findings and Rollout]]

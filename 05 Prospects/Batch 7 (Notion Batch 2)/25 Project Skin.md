@@ -109,3 +109,7 @@ status:                   Qualified — highest priority of the five, pending fo
 depth_mode:               Standard (Apify re-run)
 unverified_fields:        Founder/doctor name (still not found anywhere — hard blocker); single vs. multi-owner; Practo; JustDial paid vs. free listing; avg treatment value; whether the 45-day IG dormancy is a pause or a deprioritization
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

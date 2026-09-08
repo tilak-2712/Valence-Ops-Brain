@@ -549,3 +549,7 @@ Ordered by consequence, not by tidiness.
 | 6 | **Draft a two-page mutual NDA and leave it in a folder** | Zero urgency, but you never want to be writing one while a clinic waits |
 
 **One honest note on sequencing.** Items 1–3 are the real work and they are the only things standing between a yes and a mess. Items 4–6 are improvements. If time is short this week, doing 1–3 properly and none of the rest is the right call.
+
+
+---
+Related: [[09 Company/Legal and Commercial Doc Set|Legal and Commercial Doc Set]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]] · [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Center|RUA Skin and Hair Center]]

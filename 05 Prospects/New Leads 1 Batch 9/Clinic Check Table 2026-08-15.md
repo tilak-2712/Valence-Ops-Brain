@@ -91,3 +91,7 @@ unresolved.** Fix the script rather than the JSON, per the handoff note on hand-
 - **No wedge can be assigned from this data** — `wedge-signal-entry.md` §4 requires a mystery shop
   for response behaviour. This is a shop-ordering input, not a send list.
 - **Repo presence ≠ contacted.** None of these 42 are in Notion.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Zone Leads|Zone Leads]] · [[CLAUDE|CLAUDE]] · [[05 Prospects/New Leads 1 Batch 9/Session Handoff 2026-08-15|Session Handoff 2026-08-15]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]]

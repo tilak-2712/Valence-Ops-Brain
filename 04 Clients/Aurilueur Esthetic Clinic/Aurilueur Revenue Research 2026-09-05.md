@@ -385,3 +385,7 @@ Four things could not be sourced and must not be asserted: a competitor CoolScul
 | Instagram `@aurilueurestheticclinic` | 114 posts / 7,783 followers — post count unchanged since 15 Aug audit | 5 Sep 2026 |
 | Intake form (Google Forms PDF) + Shabeeb verbal | Volume, conversion, show rate, staffing, CRM, follow-up cadence | Aug–Sep 2026 |
 | `05 Prospects/New Leads 1 Batch 9/` repo data | Baseline for the Instagram comparison | 15 Aug 2026 |
+
+
+---
+Related: [[CLAUDE|CLAUDE]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/SkinFit Wellness/SkinFit Information Request Review|SkinFit Information Request Review]] · [[taste-n-judgement|taste-n-judgement]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Bangalore Price Benchmarks 2026-09-05|Aurilueur Bangalore Price Benchmarks 2026-09-05]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]]

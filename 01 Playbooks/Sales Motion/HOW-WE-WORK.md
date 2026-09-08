@@ -140,3 +140,7 @@ We won't tell you this will bring you a certain number of patients. Anyone who g
 
 **Valence Ops** · Bengaluru
 [email] · [phone]
+
+
+---
+Related: [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

@@ -118,3 +118,7 @@ All 11 Instagram profiles above (bio, follower/post count, external URL) were al
 - Aggregator (Practo/JustDial) paid listings — not checked
 - Website team/about pages — not crawled
 - Founder LinkedIn — not attempted for any of the 11, though most have named doctors with known IG handles in-bio worth searching directly first
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/clinic-audit-checklist|clinic-audit-checklist]] · [[05 Prospects/Karnataka Batches 1-2/Karnataka Batches 1-2 Audit 23 Clinics|Karnataka Batches 1-2 Audit 23 Clinics]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Center|RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/05 SS Aesthetic Clinic|05 SS Aesthetic Clinic]] · [[05 Prospects/Batch 3 Remainder/01 RUA Skin and Hair Center|01 RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/07 Sanssouci Wellness Clinic|07 Sanssouci Wellness Clinic]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]] · [[05 Prospects/Batch 3 Remainder/06 Contour Cosmetic Clinic|06 Contour Cosmetic Clinic]] · [[05 Prospects/Batch 3 Remainder/02 Skin and Recon|02 Skin and Recon]] · [[05 Prospects/Batch 3 Remainder/03 Koza Aesthetic Care|03 Koza Aesthetic Care]]

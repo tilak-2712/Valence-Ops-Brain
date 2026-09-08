@@ -141,3 +141,7 @@ exactly as it appears there.
 4. **Rock + dr_shettys** — two minutes, converts two Unresolved into clean No.
 5. **bodyscience, dermo glamm** — real audiences, Meta half unknown.
 6. Skip Group C.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Ads Presence 2026-08-15|Ads Presence 2026-08-15]] · [[05 Prospects/SE Bangalore Scrape/Shortlist 2026-08-14|Shortlist 2026-08-14]]

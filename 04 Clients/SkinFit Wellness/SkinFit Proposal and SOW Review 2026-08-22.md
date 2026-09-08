@@ -129,3 +129,7 @@ Without these two, you've fixed a scope against facts nobody has verified (pract
 | 6 | Add a validity date to the Proposal | 1 line |
 | 7 | Confirm a Services Agreement is being drafted alongside this, or flag it as the next document | Scheduling, not drafting |
 | 8 | Em dashes, "Confidential" footer — batch into the design pass | Cheap, can wait |
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness - Enquiry Handling Review.pdf|SkinFit Wellness - Enquiry Handling Review.pdf]] · [[04 Clients/SkinFit Wellness/SkinFit Tech Handoff 2026-08-18|SkinFit Tech Handoff 2026-08-18]] · [[09 Company/Pricing and Build Cost 2026-08-21|Pricing and Build Cost 2026-08-21]] · [[09 Company/Legal and Commercial Doc Set|Legal and Commercial Doc Set]] · [[taste-n-judgement|taste-n-judgement]] · [[04 Clients/SkinFit Wellness/SkinFit Information Request Review|SkinFit Information Request Review]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

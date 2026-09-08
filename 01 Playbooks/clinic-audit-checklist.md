@@ -116,3 +116,7 @@ If any box above is unchecked, the audit isn't done. Don't send yet.
 
 > **Deleted 2026-08-13: "I have not skipped the mystery shop."**
 > That line made every send wait 24–72h on a reply that might never come. It was flagged as the single highest-impact fix in `files/OUTBOUND_SYSTEM_AUDIT.md` on 2026-07-22 — costed at 5 minutes — and was still here 22 days later, still blocking. The shop is no longer a *gate*; it now **opens the batch** (`wedge-signal-entry.md` §2), which achieves the same evidence quality without the block. A shop that hasn't come back yet means you research a different clinic, not that you stop.
+
+
+---
+Related: [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[files/OUTBOUND_SYSTEM_AUDIT|OUTBOUND_SYSTEM_AUDIT]]

@@ -242,3 +242,7 @@ status: active
 **Follow-up 1 (Instagram, Day 2–3):** One more thing — a lot of what you do runs in courses: laser hair reduction, PRP, GFC. There's almost always a group who did the first session or two and never came back to finish. Across five branches that adds up quietly. That's the exact group I'd start with. Happy to send the breakdown either way.
 
 **Follow-up 2 (WhatsApp, Day ~6–8):** Hi Dr. Shraddha — Pratham here, I'd messaged your Instagram earlier. I work with skin clinics in Bangalore on the patient side. What caught my eye with Evenly: patients in your reviews mention how organised the appointment reminders and scheduling are — most clinics never get that far. The one place that same system usually doesn't reach is the patients from six months or a year back who drifted after a session or two. That's what I help clinics quietly bring back. Alright if I send a short breakdown of where I'd start?
+
+
+---
+Related: [[files/LEARNINGS_LOG|LEARNINGS_LOG]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Scrape 2026-07-19/Evenly Skin and Hair Clinic|Evenly Skin and Hair Clinic]]

@@ -88,3 +88,7 @@ Every source on this list earns its place the same way: it diagnoses a specific 
 8. Supporting context — area, founder's name, tone/register — for the video/follow-up layer, not the Day 0 DM
 
 You take that straight into `personalized-outbound-v2.md` and draft.
+
+
+---
+Related: [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]]

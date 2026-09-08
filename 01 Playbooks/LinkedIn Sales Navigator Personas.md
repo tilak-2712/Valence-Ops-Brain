@@ -128,3 +128,7 @@ Across almost every clinic in this list, there is one buyer, not a buying commit
 4. Once a real profile is found for a clinic already in the Notion tracker, add the LinkedIn URL to that clinic's row rather than duplicating it here.
 
 **What's not in this doc:** no specific named LinkedIn profiles beyond the handful already confirmed in `05 Prospects/` — that's per-clinic research, not persona-building, and belongs in each clinic's dossier.
+
+
+---
+Related: [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[MEMORY|MEMORY]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]] · [[05 Prospects/Batch 7 (Notion Batch 2)/12 Haircosmos International|12 Haircosmos International]] · [[05 Prospects/Batch 7 (Notion Batch 2)/11 Gejje's Marvella|11 Gejje's Marvella]] · [[05 Prospects/Batch 7 (Notion Batch 2)/20 VIDA Skin and Hair Transplant|20 VIDA Skin and Hair Transplant]] · [[05 Prospects/Batch 3 Remainder/06 Contour Cosmetic Clinic|06 Contour Cosmetic Clinic]] · [[05 Prospects/Batch 3 Remainder/03 Koza Aesthetic Care|03 Koza Aesthetic Care]]

@@ -104,3 +104,7 @@ It also includes requests for admin-level system access, billing figures, staff 
 - The gap between expected and actual enquiry volume in §6 — currently explainable multiple ways.
 - Statement 3 in §5 — depends on which messaging method is actually in use.
 - The client's belief about where lead-form submissions land, referenced in §8 — came from the client, not from direct inspection.
+
+
+---
+Related: [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

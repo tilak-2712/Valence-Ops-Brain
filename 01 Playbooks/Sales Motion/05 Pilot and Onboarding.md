@@ -136,3 +136,7 @@ Then stop. This is the version that gets talked about — clinic owners in one c
 ## Log it
 
 `REPLY_LOG.csv` row completed through `pilot_agreed`. Then a `LEARNINGS_LOG.md` entry in the existing tried → happened → changed format, whatever the outcome. The first pilot — successful or not — is the most informative event in this project's history to date, and most of what it teaches will be about the motion rather than the product.
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[08 Collateral/Audit Call Docs/02_data_intake_requirements|02_data_intake_requirements]] · [[files/LEARNINGS_LOG|LEARNINGS_LOG]]

@@ -40,3 +40,7 @@ Addressed to Rohit only (not re-sent to Dr. Varshini or Dr. Sindhiya) — ops-co
 **Changed vs. touch 1:** opens with an honest acknowledgment before the pivot, drops "gap" (banned filler per `MEMORY.md` §2), tightens the closing ask.
 
 **Next:** log outcome to `files/SEND_LOG.csv` once actually sent, per the ritual in `files/OUTBOUND_MEMORY.md` §7.
+
+
+---
+Related: [[files/OUTBOUND_SYSTEM_AUDIT|OUTBOUND_SYSTEM_AUDIT]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

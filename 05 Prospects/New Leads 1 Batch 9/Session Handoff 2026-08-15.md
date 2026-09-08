@@ -251,3 +251,7 @@ update these and re-run it** rather than editing `results.json` by hand.
 is **selection** — SE was a polygon scrape of whoever existed, this list was hand-assembled, and a
 hand-picked list of clinics that look successful will over-represent advertisers. **Do not treat 38%
 as a Bangalore base rate.**
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Open Checks 2026-08-15|Open Checks 2026-08-15]] · [[05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14|Ads Presence 2026-08-14]] · [[05 Prospects/New Leads 1 Batch 9/Ads Presence 2026-08-15|Ads Presence 2026-08-15]] · [[05 Prospects/SE Bangalore Scrape/Shortlist 2026-08-14|Shortlist 2026-08-14]] · [[05 Prospects/New Leads 1 Batch 9/Zone Leads|Zone Leads]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]]

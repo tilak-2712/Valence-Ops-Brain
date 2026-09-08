@@ -225,3 +225,7 @@ Before the next thing, both of you:
 - Did you get the inbox on screen, or a counted answer?
 - Is the next step booked, with a date, on the calendar?
 - Do you have three verbatim quotes?
+
+
+---
+Related: [[08 Collateral/Audit Call Docs/03 Discovery Call Question Map|03 Discovery Call Question Map]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[08 Collateral/Audit Call Docs/02_data_intake_requirements|02_data_intake_requirements]]

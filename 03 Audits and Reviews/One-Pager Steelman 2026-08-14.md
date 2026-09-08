@@ -315,3 +315,7 @@ re-adopting the ₹7,500 paid diagnostic (rejected 2026-08-13, and §5 of `OUTBO
 | The self-count number outperforms leaving the money question open | `hypothesis` — passes every existing rule; untested |
 | The screenshot receipt beats the designed document on a cold channel | `hypothesis` — generalises one `confirmed` voice-note learning to a channel it was never tested on |
 | Polish is a liability on cold channels | `provisional` — confirmed for voice notes, extended by argument to documents |
+
+
+---
+Related: [[03 Audits and Reviews/ONE-PAGER-AUDIT-AND-TEST-PLAN|ONE-PAGER-AUDIT-AND-TEST-PLAN]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[10 Tooling/one-pager-handoff/COPY_STANDARD|COPY_STANDARD]] · [[MEMORY|MEMORY]] · [[CLAUDE|CLAUDE]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]]

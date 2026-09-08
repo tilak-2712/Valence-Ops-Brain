@@ -103,3 +103,7 @@ to 300 and all of these join Tier B.
 | Dr Jyothshna's Skin Hair & Laser Clinic | 134 | — |  |
 | Skinray Clinic, Dommasandra | 108 | 2,622 | ads dormant |
 | the radiant clinic | 81 | 432 |  |
+
+
+---
+Related: [[05 Prospects/Verify 2026-08-18/Final Table|Final Table]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

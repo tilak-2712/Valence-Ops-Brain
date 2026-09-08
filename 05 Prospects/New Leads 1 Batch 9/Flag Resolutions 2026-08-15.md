@@ -121,3 +121,7 @@ follower count.
    that just moved highest.
 3. **Phone numbers and published hours for all 41** — unchanged, and still the reason nothing here
    is shoppable yet.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Open Checks 2026-08-15|Open Checks 2026-08-15]] · [[05 Prospects/New Leads 1 Batch 9/Shop Queue Remainder 2026-08-15|Shop Queue Remainder 2026-08-15]] · [[05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14|Ads Presence 2026-08-14]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

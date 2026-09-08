@@ -101,3 +101,7 @@ status: active
 - **Meta Ad Library is unreliable and fails *silently*.** D White Feather returned `ad_count: 0` on first pass; a screenshot showed the results panel never rendered. A clean negative renders "No ads match your search criteria" — anything else is a failure, not a zero. This one catch is the difference between a real finding and a fabricated one.
 - **Practo URL-guessing wasted credits and produced a near-miss.** A Practo listing for "Dr. Dinesh Gowda" resolved to EastArise Aesthetics Clinic LLP — a different practice. Search for the listing, never construct the URL.
 - **Credits:** 245 of 500 used. Failed extractions were a large share, including one ~76k-token Meta call that returned nothing.
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Batch 7 (Notion Batch 2)/go-list-mystery-shop|go-list-mystery-shop]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

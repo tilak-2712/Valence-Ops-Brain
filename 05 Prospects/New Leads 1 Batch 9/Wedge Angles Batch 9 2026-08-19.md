@@ -359,3 +359,7 @@ minute, quoted **₹3,999**, and then left for **~19 published-open hours**.
 | **3** | **Body Science** | 9.5 open hours on the Monday they proposed. Sendable now. Meta still unresolved. |
 | **4** | **Kavana Dermo Glamm** | GBP website button is a `wa.me` link into the inbox that told the shopper to phone back. Sendable now. Meta still unresolved. |
 | **5** | **Dr. Sneha Sood** | Best clinic quality, weaker wedge (~6 open hours). Hold to 22 Aug. |
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Clinic Check Table 2026-08-15|Clinic Check Table 2026-08-15]] · [[05 Prospects/New Leads 1 Batch 9/Shop 9 Wedge Review 2026-08-19|Shop 9 Wedge Review 2026-08-19]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[01 Playbooks/Sales Motion/HOW-WE-WORK|HOW-WE-WORK]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/18 Theory of Skin|18 Theory of Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

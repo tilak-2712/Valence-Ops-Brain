@@ -65,3 +65,7 @@ status:                   Qualified — highest ad-spend confidence in batch, pr
 depth_mode:                Standard
 unverified_fields:        Personal LinkedIn for both doctors; whether "Akanksha Thakur" and "Akanksha Jha" are confirmed the same person; aggregator paid listing; reason for the Feb-2026 LLP→main-entity advertiser switch
 ```
+
+
+---
+Related: [[05 Prospects/Batch 3 Remainder/02 Skin and Recon|02 Skin and Recon]]

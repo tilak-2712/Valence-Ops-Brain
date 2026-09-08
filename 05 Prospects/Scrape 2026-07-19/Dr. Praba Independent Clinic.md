@@ -31,3 +31,7 @@ Not a sales sequence. Genuine relationship, low-frequency, high-value touchpoint
 
 ## Log
 - **2026-08-27** — first reply exchange. She shared clinic type (skin & hair) and target open date (March 2027). Reply sent asking about timeline, positioning, location, backing.
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[05 Prospects/Batch 7 (Notion Batch 2)/15 Akera Health|15 Akera Health]]

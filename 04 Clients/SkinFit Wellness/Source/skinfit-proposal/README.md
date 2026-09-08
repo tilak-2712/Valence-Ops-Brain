@@ -20,3 +20,7 @@ Rebuild:
 
 Each `<div class="page">` is one printed page. Page breaks are manual, so after
 any copy edit re-render and check every page for overflow at the footer.
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness - Patient Communications Proposal.pdf|SkinFit Wellness - Patient Communications Proposal.pdf]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness - Enquiry Handling Review.pdf|SkinFit Wellness - Enquiry Handling Review.pdf]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

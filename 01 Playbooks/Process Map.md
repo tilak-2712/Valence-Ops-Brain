@@ -254,3 +254,7 @@ Stated explicitly in the docs, not up for debate without a decision entry:
 - **Any claim that isn't traced to a verified fact** — the whole system's credibility rests on this.
 - **Reply handling inside 4 business hours** — ValenceOps sells speed-to-lead; being slow to a warm
   clinic is a live demonstration of failing at the product.
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/Research Prompts/Apify Discovery Context|Apify Discovery Context]] · [[01 Playbooks/Dental Discovery/Dental Discovery Criteria|Dental Discovery Criteria]] · [[MEMORY|MEMORY]] · [[05 Prospects/Batch 7 (Notion Batch 2)/IG Pregate 40 Clinics|IG Pregate 40 Clinics]] · [[05 Prospects/Batch 7 (Notion Batch 2)/go-list-mystery-shop|go-list-mystery-shop]] · [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[03 Audits and Reviews/ONE-PAGER-AUDIT-AND-TEST-PLAN|ONE-PAGER-AUDIT-AND-TEST-PLAN]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[files/LEARNINGS_LOG|LEARNINGS_LOG]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]]

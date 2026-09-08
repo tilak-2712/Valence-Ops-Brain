@@ -80,3 +80,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        LinkedIn; Practo Prime status confirmed absent (not "undetermined"); reason for the Google Ads pause (budget vs. deliberate — not determinable from this data)
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

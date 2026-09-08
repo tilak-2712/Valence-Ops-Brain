@@ -284,3 +284,7 @@ No new ad spend, nothing new for your team to do.
 ```
 
 Score this against the Value Equation: Dream Outcome (specific, named) ✓, Perceived Likelihood (their own Reel, undeniable) ✓, Time Delay (2 weeks, named) ✓, Effort (zero on their side) ✓ — roughly 9/10. That's the bar every draft from this skill should clear.
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[MEMORY|MEMORY]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]]

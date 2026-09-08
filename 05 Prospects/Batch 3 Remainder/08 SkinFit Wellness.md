@@ -72,3 +72,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Meta ads status (inconclusive, no FB page found); Google Ads status; whether a genuine second ("Richmond Road") location exists — the IG bio's second-location claim does not correspond to any distinct GBP listing; the exact relationship between SkinFit Wellness and "Skinnfit Medspa" (J.P. Nagar) — likely related via the same founder, not confirmed as a branch; Dr. Ruby Sachdev's LinkedIn; aggregator paid listing
 ```
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]]

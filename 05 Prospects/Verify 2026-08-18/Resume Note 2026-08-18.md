@@ -55,3 +55,7 @@ Downgraded: **Derma Elite** — 6 keyword hits, all other advertisers. No active
   `search_type=page` were all tried and all fail.
 - Google Ads Transparency `SearchCreatives` page size 200 returns an EMPTY SET instead of
   erroring. Use 40. Always run a known-positive control before trusting a negative.
+
+
+---
+Related: [[05 Prospects/Verify 2026-08-18/Final Table|Final Table]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

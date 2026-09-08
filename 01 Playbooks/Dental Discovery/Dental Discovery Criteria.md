@@ -248,3 +248,7 @@ Everything. Marked per `MEMORY.md` maintenance rule.
 
 Nothing in this file gets promoted from hypothesis to settled until real scrape and send data exists,
 per `OUTBOUND_MEMORY.md` §7.
+
+
+---
+Related: [[01 Playbooks/Research Prompts/Apify Discovery Context|Apify Discovery Context]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/clinic-audit-checklist|clinic-audit-checklist]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[MEMORY|MEMORY]] · [[05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit|Batch 3 Dental Audit]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]]

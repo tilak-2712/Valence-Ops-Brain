@@ -73,3 +73,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Dr. Jeevith site-bio; LinkedIn for all 3 doctors; Google Ads status; aggregator paid listing
 ```
+
+
+---
+Related: [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Center|RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/06 Contour Cosmetic Clinic|06 Contour Cosmetic Clinic]]

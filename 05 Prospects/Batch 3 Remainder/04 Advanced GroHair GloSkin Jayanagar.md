@@ -66,3 +66,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Doctor/owner identity for this branch; whether the prior batch's "technician not doctor" finding (from context, not re-verified) applies here; Google Ads status; aggregator listing
 ```
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]]

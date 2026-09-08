@@ -109,3 +109,7 @@ Then write one summary file, `05 Prospects/Batch 11-15 Summary.md`, containing:
 ## Finally
 
 Re-read each dossier against `MEMORY.md` and confirm: every factual claim traces to a cited source, no inferred behaviour is stated as fact, no mystery-shop field is filled in, and any clinic marked disqualified names the specific §1.1 signal. Report anything you were unable to verify rather than leaving it to look complete.
+
+
+---
+Related: [[CLAUDE|CLAUDE]] · [[MEMORY|MEMORY]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Batch 1 Notion Cohort/Outreach 1|Outreach 1]] · [[05 Prospects/Batch 7 (Notion Batch 2)/go-list-mystery-shop|go-list-mystery-shop]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 11-15 Summary|Batch 11-15 Summary]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

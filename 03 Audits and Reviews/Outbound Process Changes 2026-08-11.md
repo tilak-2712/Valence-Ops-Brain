@@ -182,3 +182,7 @@ Broader and stricter at once:
 ## 5 · Open question
 
 **What happened with Sapphire and Aesthetica Veda?** The Aug-5 audit says both were live and worth more than 40 new sends. Nothing after that date mentions them. If those threads are still open, they outrank every change in this document.
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[COHORT-INDEX|COHORT-INDEX]] · [[01 Playbooks/Process Map|Process Map]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_SYSTEM_AUDIT|OUTBOUND_SYSTEM_AUDIT]] · [[03 Audits and Reviews/ONE-PAGER-AUDIT-AND-TEST-PLAN|ONE-PAGER-AUDIT-AND-TEST-PLAN]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Findings Batch 11-15|Findings Batch 11-15]] · [[files/LEARNINGS_LOG|LEARNINGS_LOG]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

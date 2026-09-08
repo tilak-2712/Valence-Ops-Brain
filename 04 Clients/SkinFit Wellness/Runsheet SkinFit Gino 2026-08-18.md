@@ -202,3 +202,7 @@ In the car, before it fades: his exact words for the problem · every name he me
 Then: **create the Notion row** (SkinFit has never had one) and open a `REPLY_LOG.csv` row.
 
 **This is the first meeting this project has ever held.** The record is worth more than the outcome.
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/Meeting Brief SkinFit 2026-08-18|Meeting Brief SkinFit 2026-08-18]] · [[MEMORY|MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

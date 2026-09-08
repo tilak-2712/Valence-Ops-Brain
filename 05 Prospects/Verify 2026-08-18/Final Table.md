@@ -57,3 +57,7 @@ status: reference
 | 50 | Vivaa Wellness Center HSR Layout | 7 | 4.4 · 142 | unresolved | — |
 | 51 | Dr Jyothshna's Skin Hair & Laser Clinic | — *none* | 4.6 · 134 | — | ⚑ |
 | 52 | the radiant clinic | 432 | 5.0 · 81 | — | — |
+
+
+---
+Related: [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

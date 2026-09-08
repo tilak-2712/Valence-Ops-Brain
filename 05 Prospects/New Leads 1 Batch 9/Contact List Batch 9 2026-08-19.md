@@ -119,3 +119,7 @@ DM** — a longer cycle with gatekeepers and a likely incumbent agency.
 
 **Still open:** `OUTBOUND_MEMORY.md` §1 tripwire at ~70–90 of 100 touches with 0 pilots — six clinics × 4
 touches is ~24 more. And `SALES_MOTION.md` §7: no walkthrough video file, no HOW-WE-WORK PDF.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Wedge Angles Batch 9 2026-08-19|Wedge Angles Batch 9 2026-08-19]] · [[05 Prospects/New Leads 1 Batch 9/Shop 9 Wedge Review 2026-08-19|Shop 9 Wedge Review 2026-08-19]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]]

@@ -78,3 +78,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Treating dermatologist's identity (never named on site); Anjali Sanghvi's exact role/title; Practo listing status; two-entity Google Ads registration reason
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

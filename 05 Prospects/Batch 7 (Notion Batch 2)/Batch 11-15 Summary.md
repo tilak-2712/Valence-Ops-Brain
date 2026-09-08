@@ -83,3 +83,7 @@ status: active
 ## Scrapegraph credit usage
 
 Started at 500 credits (Free Plan). Ended this research pass at **255 remaining (245 used)** across all five clinics, including several failed/empty extraction attempts (Google Ads Transparency Center failed uniformly; two guessed Practo URLs failed; one wasted ~76k-token Meta Ad Library extraction on Project Skin that returned nothing before a targeted screenshot retry succeeded). The `crawl` job (limit 1 for the whole plan) was **not used** — all data was gathered via individual `extract`/`scrape`/`search` calls per the task's budget constraint.
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[MEMORY|MEMORY]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

@@ -412,3 +412,7 @@ Revised now that the registration position is known. Two things changed: Udyam i
 5. **Is any foreign vendor in your stack non-OIDAR?** The one question that decides whether Section 24(iii) forces registration regardless of turnover. One sentence to a CA.
 6. **Professional Tax** — enrolment and registration position with 3 declared employees. `verify`
 7. **Equity split among the four founders.** Not a blocker. Also not a thing that gets easier with a client on the books. §2.6.
+
+
+---
+Related: [[MEMORY|MEMORY]] · [[04 Clients/SkinFit Wellness/SkinFit Information Request Review|SkinFit Information Request Review]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[CLAUDE|CLAUDE]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/Sales Motion/05 Pilot and Onboarding|05 Pilot and Onboarding]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

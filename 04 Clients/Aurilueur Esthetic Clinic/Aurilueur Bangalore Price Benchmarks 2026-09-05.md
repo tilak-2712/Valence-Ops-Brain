@@ -201,3 +201,7 @@ Bodycraft is the only clinic in this entire set publishing a hard menu price wit
 2. **HIFU body** priced separately from face
 3. **Lymphatic drainage as an aesthetic add-on** — only physiotherapy rates exist, a different service at a different price point
 4. **Vaginoplasty from a Bangalore clinic** — aggregators only, mutually contradictory
+
+
+---
+Related: [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Revenue Research 2026-09-05|Aurilueur Revenue Research 2026-09-05]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]]

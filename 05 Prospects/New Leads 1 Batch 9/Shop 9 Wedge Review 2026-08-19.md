@@ -182,3 +182,7 @@ wedges that survive above do not go in the first message.
 3. **Then** — draft for **Dr. Sood, Divine, Moon, Body Science** first. Two have live ads and a provable gap, two have the cleanest single-screenshot stories.
 4. **Park** — Maya (#5 unsettled, null result), Sun Light (#2 unsettled).
 5. **Re-shop** — Maya only, from a different number.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Mystery Shop 9|Mystery Shop 9]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[MEMORY|MEMORY]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[01 Playbooks/Sales Motion/HOW-WE-WORK|HOW-WE-WORK]] · [[05 Prospects/Batch 7 (Notion Batch 2)/13 Ara Skin Clinic|13 Ara Skin Clinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/18 Theory of Skin|18 Theory of Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/11 Gejje's Marvella|11 Gejje's Marvella]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

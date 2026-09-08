@@ -788,3 +788,7 @@ Nilam Plastic and Cosmetic Clinic · Arogyavardhini Ayurveda · Grand Seiko Indi
 Magical Jar Organics · Abode Handicrafts · Aara's terracotta jewellery · Everlasting · Deconstruct
 Skincare · HyugaLife · **Sparsha Skin Care Clinic** (Pavagada/Tumkur — already in batch1-2, unrelated
 to Sparha) · **Contura Clinic** Kalyan Nagar (unrelated to Contour).
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/clinic-audit-checklist|clinic-audit-checklist]] · [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Call Dossier 2026-08-25|RUA Skin and Hair Call Dossier 2026-08-25]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Center|RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/05 SS Aesthetic Clinic|05 SS Aesthetic Clinic]] · [[05 Prospects/Batch 3 Remainder/01 RUA Skin and Hair Center|01 RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/07 Sanssouci Wellness Clinic|07 Sanssouci Wellness Clinic]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]] · [[05 Prospects/Batch 3 Remainder/06 Contour Cosmetic Clinic|06 Contour Cosmetic Clinic]] · [[05 Prospects/Batch 3 Remainder/02 Skin and Recon|02 Skin and Recon]] · [[05 Prospects/Batch 3 Remainder/03 Koza Aesthetic Care|03 Koza Aesthetic Care]] · [[05 Prospects/Batch 3 Remainder/10 Feather Touch Aesthetic Clinic|10 Feather Touch Aesthetic Clinic]]

@@ -102,3 +102,7 @@ status: active
 **Practo Prime is the hidden channel.** Three clinics (Dr. Priya's, Derma Solutions, VIDA) spend nothing on Meta or Google but pay Practo — and for Dr. Priya's, Practo carries **5,966 patient stories against 1,613 on Google**, meaning the aggregator may be the larger lead source. A Meta-only ad check would have scored all three as "no paid acquisition" and missed the wedge entirely.
 
 **Two clinics recently stopped advertising** — Theory of Skin (Google, ~2 months ago) and Haircosmos (Google, Dec 2025). Both still have live IG. A recent, datable spend stop is a stronger opening than a steady state, but neither dossier establishes *why* it stopped, so it can't be asserted as budget pressure.
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/go-list-mystery-shop|go-list-mystery-shop]] · [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/18 Theory of Skin|18 Theory of Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/11 Gejje's Marvella|11 Gejje's Marvella]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/15 Akera Health|15 Akera Health]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

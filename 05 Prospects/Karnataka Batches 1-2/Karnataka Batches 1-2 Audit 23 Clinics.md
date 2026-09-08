@@ -521,3 +521,7 @@ One complaint about a high initial quote (₹1.2L) versus a second opinion (₹3
 - Review/ad/follower figures are a snapshot as of the date shown per batch and will drift.
 - **"Not re-verified" founders** (CosMediQ, Nishka, ProSkincare Esthetics) reflect a third-party actor's own daily free-tier cap, not a data-quality issue.
 - **Unconfirmed affiliations** (Artistry Clinics, Cura Care, VCare) — the supplied contact's own profile does not name the clinic.
+
+
+---
+Related: [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]]

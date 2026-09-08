@@ -43,3 +43,7 @@ status: reference
 | 36 | Dr Jyothshna's Skin Hair & Laser Clinic | — | 4.6 · 134 | — | ⚑ |  |
 | 37 | Skinray Clinic, Dommasandra | 2,622 | 4.9 · 108 | — | 10 cr. · 0 in 30d, 0 in 7d, last 52d ago |  |
 | 38 | the radiant clinic | 432 | 5.0 · 81 | — | — |  |
+
+
+---
+Related: [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

@@ -77,3 +77,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        LinkedIn; whether pricing-pressure pattern reflects an actual funnel break or is simply a service-positioning issue
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

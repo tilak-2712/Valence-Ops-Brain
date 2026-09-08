@@ -320,3 +320,7 @@ Gino 👍'd a two-part message ("offline meet" + "discuss the front desk"). A th
 | 3 | Confirm venue, time, and whether Dr. Ruby is attending | Tilak |
 | 4 | Create the Notion row — it has never existed | Tilak |
 | 5 | Have the demo number ready to hand over live | Tilak |
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness - Revenue Diagnostic.pdf|SkinFit Wellness - Revenue Diagnostic.pdf]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/18 Theory of Skin|18 Theory of Skin]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

@@ -235,3 +235,7 @@ That is the whole commercial argument and it is checkable by them, which is why 
 - [Zenoti Pricing: Plans, Costs & Hidden Fees (2026) — Pabau](https://pabau.com/blog/zenoti-pricing/)
 - [Best AI Receptionist for Clinics in India (2026) — ConnectAI](https://www.connectai.care/learn/best-ai-receptionist-for-clinics-india)
 - [Voice AI Agent Cost in India 2026 — Ravan.ai](https://www.ravan.ai/blog/voice-ai-agent-cost-india-2026)
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[04 Clients/SkinFit Wellness/SkinFit Technical Brief|SkinFit Technical Brief]] · [[04 Clients/SkinFit Wellness/SkinFit Tech Handoff 2026-08-18|SkinFit Tech Handoff 2026-08-18]] · [[taste-n-judgement|taste-n-judgement]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]]

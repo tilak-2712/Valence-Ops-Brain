@@ -91,3 +91,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Founder/owner identity (none found); JP Nagar website field anomaly (drpiyushranjan.com link); Practo listing status; LinkedIn (profile exists but empty)
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

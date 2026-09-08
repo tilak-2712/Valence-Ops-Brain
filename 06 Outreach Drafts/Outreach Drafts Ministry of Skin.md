@@ -46,3 +46,7 @@ New fact (not used in touch 1): the WhatsApp mystery-shop finding — their own 
 **Caveat carried over from the priority-table discussion:** the underlying mystery-shop note ("Didn't connect later... Follow up monday 3:30pm, Call 5pm, 3pm") doesn't clearly say whether those follow-up attempts were made by the clinic or by our own tester. The draft above treats it as "nobody from the clinic followed up" — worth a quick gut-check against your own memory of that test before sending, since it's carrying the whole hook.
 
 **Next:** log outcome to `files/SEND_LOG.csv` only if it's actually worth noting (reply, clear miss) — not required per touch.
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

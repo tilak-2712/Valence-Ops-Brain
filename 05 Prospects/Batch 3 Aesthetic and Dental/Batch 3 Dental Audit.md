@@ -372,3 +372,7 @@ status:                   Qualified — founders confirmed, strong reply discipl
 | **Founder identity — 5 clinics** | Chisel, Sky Dental, Smiley House, Amaya (both branches) have **no named decision-maker** discoverable from public data. §1.2 front-desk-only park route may apply. |
 | **Hard kills #3, #4, #6, #8** | Not scrapable — `undetermined` for every clinic, as always. |
 | **Hard kill #2 (Reneu)** | Cannot confirm whether under 12 months old; 16 reviews with a 10.7-month stall is ambiguous. |
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]] · [[04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Center|RUA Skin and Hair Center]] · [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]] · [[05 Prospects/Batch 3 Remainder/02 Skin and Recon|02 Skin and Recon]] · [[05 Prospects/Batch 3 Remainder/03 Koza Aesthetic Care|03 Koza Aesthetic Care]]

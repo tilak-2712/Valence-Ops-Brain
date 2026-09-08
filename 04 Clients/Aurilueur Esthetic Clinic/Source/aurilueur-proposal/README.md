@@ -21,3 +21,7 @@ Rebuild:
 
 Each `<div class="page">` is one printed page. Page breaks are manual, so after
 any copy edit re-render and check every page for overflow at the footer.
+
+
+---
+Related: [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf|Aurilueur Esthetic Clinic - Enquiry and Appointment Systems Proposal.pdf]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness|SkinFit Wellness]]

@@ -170,3 +170,7 @@ Klinic**, already on your list.
 **Two clinics excluded that were NOT on the 80-name list** but are in Batch 1 per `CLAUDE.md` /
 `MEMORY.md`: **Evenly Skin and Hair Clinic** and **Sapphire Skin & Aesthetics Clinic**. Worth
 checking whether your 80-name list is complete against the Notion tracker.
+
+
+---
+Related: [[CLAUDE|CLAUDE]] · [[MEMORY|MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/12 Haircosmos International|12 Haircosmos International]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[05 Prospects/Batch 3 Remainder/06 Contour Cosmetic Clinic|06 Contour Cosmetic Clinic]] · [[05 Prospects/Batch 3 Remainder/10 Feather Touch Aesthetic Clinic|10 Feather Touch Aesthetic Clinic]] · [[05 Prospects/Scrape 2026-07-19/Evenly Skin and Hair Clinic|Evenly Skin and Hair Clinic]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

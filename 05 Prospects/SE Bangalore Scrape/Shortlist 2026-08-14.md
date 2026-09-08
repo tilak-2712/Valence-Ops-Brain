@@ -196,3 +196,7 @@ until the shop has run.
 The dormant advertisers invite the read *"they stopped because leads weren't converting."* That is
 recorded as `hypothesis` in `Ads Presence 2026-08-14.md` with its rebuttal attached, and is not a
 ranking input here.
+
+
+---
+Related: [[05 Prospects/SE Bangalore Scrape/Qualified Targets 2026-08-14|Qualified Targets 2026-08-14]] · [[05 Prospects/SE Bangalore Scrape/Ads Presence 2026-08-14|Ads Presence 2026-08-14]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[CLAUDE|CLAUDE]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

@@ -570,3 +570,7 @@ Route to the standing offer — **free audit, paid implementation**. Do not quot
 ---
 
 *Sources: first-party crawl of ruaskinandhair.com (5 pages) · Apify `compass/crawler-google-places` full review census both branches · Apify `apify/instagram-scraper` · first-party browser session on medsygn.care · DNS resolution checks · Notion Batch 1 + Batch 2 · 3 web searches for aggregator listings. All 2026-08-25.*
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Batch 3 Aesthetic and Dental/batch3-aesthetic-MASTER|batch3-aesthetic-MASTER]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[05 Prospects/Batch 3 Remainder/01 RUA Skin and Hair Center|01 RUA Skin and Hair Center]]

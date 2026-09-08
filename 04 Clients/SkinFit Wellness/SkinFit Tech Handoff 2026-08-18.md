@@ -241,3 +241,7 @@ These are not audit findings. They are things we need answered about **our own c
 | 3 | Create the Notion row for SkinFit. It has never had one | Tilak |
 | 4 | Send the client document once §7 is cleared, with a date proposed in the covering message | Tilak / Pratham |
 | 5 | Follow up with Gino on the introduction to Israni | Tilak |
+
+
+---
+Related: [[05 Prospects/Batch 3 Remainder/08 SkinFit Wellness|08 SkinFit Wellness]] · [[05 Prospects/Batch 3 Aesthetic and Dental/batch3-aesthetic-MASTER|batch3-aesthetic-MASTER]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness - Revenue Diagnostic.pdf|SkinFit Wellness - Revenue Diagnostic.pdf]] · [[04 Clients/SkinFit Wellness/SkinFit Wellness - Enquiry Handling Review.pdf|SkinFit Wellness - Enquiry Handling Review.pdf]] · [[04 Clients/SkinFit Wellness/Meeting Brief SkinFit 2026-08-18|Meeting Brief SkinFit 2026-08-18]] · [[04 Clients/SkinFit Wellness/Runsheet SkinFit Gino 2026-08-18|Runsheet SkinFit Gino 2026-08-18]] · [[taste-n-judgement|taste-n-judgement]]

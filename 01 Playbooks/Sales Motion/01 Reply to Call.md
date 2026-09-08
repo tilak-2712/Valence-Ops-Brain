@@ -148,3 +148,7 @@ call_booked,call_held,findings_sent,pilot_agreed,stage_lost_at,their_words
 ```
 
 Per `MEMORY.md` §4, a row per send isn't expected. **A row per reply is** — replies are rare enough that logging each one costs almost nothing, and it's the only data that will tell you where this motion actually breaks.
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[MEMORY|MEMORY]]

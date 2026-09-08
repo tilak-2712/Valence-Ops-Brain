@@ -185,3 +185,7 @@ Rules 1–19 produce a defensible ranking. These are the checks that *changed* i
 44. **The second-order override catalogue (Phase 5) is the part that should be a checklist, not a judgment.** Each of the eleven is a yes/no question against the ledger. Running eleven cheap checks beats hoping the pattern gets noticed.
 
 45. **Re-derive parked clinics on every batch.** Two of the twenty had stale park decisions. Park reasons decay when the rules behind them change, and nothing currently forces a re-check.
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[files/OUTBOUND_SYSTEM_AUDIT|OUTBOUND_SYSTEM_AUDIT]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[05 Prospects/Batch 1 Notion Cohort/Outreach 3|Outreach 3]] · [[CLAUDE|CLAUDE]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]]

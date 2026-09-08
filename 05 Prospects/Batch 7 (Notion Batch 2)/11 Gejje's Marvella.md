@@ -78,3 +78,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Dr. Somashekar Gejje founder confirmation; possible Hosapete branch; LinkedIn; Practo listing status
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

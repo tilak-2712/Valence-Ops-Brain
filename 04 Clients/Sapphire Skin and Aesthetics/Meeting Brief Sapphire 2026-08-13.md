@@ -208,3 +208,7 @@ The last asset failed because after reading it they still didn't know what you *
 3. Write down what you **couldn't** confirm — that becomes a real section of the document, not a hedge.
 4. Create the Notion row (it doesn't exist) and log to `files/REPLY_LOG.csv`.
 5. Self-check: talked under half the time? named no solution before the mirror? got the inbox on screen or a counted answer? next step booked with a date?
+
+
+---
+Related: [[05 Prospects/Batch 1 Notion Cohort/Outreach 3|Outreach 3]] · [[03 Audits and Reviews/ONE-PAGER-AUDIT-AND-TEST-PLAN|ONE-PAGER-AUDIT-AND-TEST-PLAN]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[01 Playbooks/Sales Motion/03 Operations Call|03 Operations Call]] · [[03 Audits and Reviews/Outbound Process Changes 2026-08-11|Outbound Process Changes 2026-08-11]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]]

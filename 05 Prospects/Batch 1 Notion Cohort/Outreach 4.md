@@ -601,3 +601,6 @@ The AI is excellent, but the revenue drops when a human needs to step in. We can
 
 ### **Overall Prospect Score: 9.0/10**
 
+
+---
+Related: [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]]

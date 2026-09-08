@@ -66,3 +66,7 @@ status: active
 ---
 
 *IG data: Apify run `EesNLVkPYhlCqqs50`, 2026-08-08. Review counts carried from source shortlist, not re-scraped. Ad spend and response times not yet collected.*
+
+
+---
+Related: [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[05 Prospects/Batch 7 (Notion Batch 2)/13 Ara Skin Clinic|13 Ara Skin Clinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/16 Derma Solutions|16 Derma Solutions]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/22 Krity 360|22 Krity 360]] · [[05 Prospects/Batch 7 (Notion Batch 2)/21 Vitals Klinic|21 Vitals Klinic]] · [[05 Prospects/Batch 7 (Notion Batch 2)/18 Theory of Skin|18 Theory of Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/12 Haircosmos International|12 Haircosmos International]] · [[05 Prospects/Batch 7 (Notion Batch 2)/11 Gejje's Marvella|11 Gejje's Marvella]] · [[05 Prospects/Batch 7 (Notion Batch 2)/20 VIDA Skin and Hair Transplant|20 VIDA Skin and Hair Transplant]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]] · [[05 Prospects/Batch 7 (Notion Batch 2)/15 Akera Health|15 Akera Health]] · [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

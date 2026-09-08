@@ -82,3 +82,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Whether Dr. Mahapatra is formally "founder" vs. consultant-with-equity (bio language suggests ownership, title says consultant); Dr. Thyagaraj J's affiliation depth; "Neo Follicle Hair Transplant Clinic" relationship (not audited)
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

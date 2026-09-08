@@ -150,3 +150,7 @@ In priority order, and only the first is likely to change anything:
    nearest available proxy for hard kill #3 (under ~20 enquiries/month), which is currently
    `undetermined` on all 42 and must not be guessed.
 4. **Everything else in Group 1** — resolvable, but resolving it changes no verdict that matters.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Shop Queue 01-10 2026-08-15|Shop Queue 01-10 2026-08-15]] · [[05 Prospects/New Leads 1 Batch 9/Shop Queue 11-20 2026-08-15|Shop Queue 11-20 2026-08-15]] · [[05 Prospects/New Leads 1 Batch 9/Open Checks 2026-08-15|Open Checks 2026-08-15]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]]

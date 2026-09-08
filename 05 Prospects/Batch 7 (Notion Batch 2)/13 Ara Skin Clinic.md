@@ -80,3 +80,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Google Ads attribution ("Pure Dermacare" vs. Ara Skin Clinic); Meta ads presence; LinkedIn; Practo Prime status confirmed absent (not "undetermined" — Prime badge explicitly not present)
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

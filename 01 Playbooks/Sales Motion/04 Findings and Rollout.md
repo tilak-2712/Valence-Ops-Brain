@@ -163,3 +163,7 @@ Log the answer in `REPLY_LOG.csv` under `stage_lost_at`. At this stage, a clear 
 7. Any banned vocabulary — leads, funnel, conversion, ROI, growth, scale? *(`OUTBOUND_MEMORY.md` §3.)*
 8. Would a clinic owner say these sentences out loud? *(`MEMORY.md` §2.)*
 9. Is the decision call already booked, with a date in the document?
+
+
+---
+Related: [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

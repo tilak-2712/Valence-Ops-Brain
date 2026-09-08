@@ -609,3 +609,7 @@ doctor's personal account rather than a clinic brand. Real presence, different o
 **Degenerate geocoding.** A polygon that fails to resolve does not error — it silently shrinks
 and returns a near-empty result that looks like a genuine finding. Check the reported area of
 every polygon against what you intended before trusting a low count.
+
+
+---
+Related: [[05 Prospects/SE Bangalore Scrape/New Clinics Table 2026-08-10|New Clinics Table 2026-08-10]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

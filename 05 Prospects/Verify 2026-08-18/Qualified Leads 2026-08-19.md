@@ -85,3 +85,7 @@ Not disqualified. Revisit if the flow evidence changes.
 | Dr Jyothshna's Skin Hair & Laser Clinic | 134 |
 | Skinray Clinic, Dommasandra | 108 |
 | the radiant clinic | 81 |
+
+
+---
+Related: [[05 Prospects/Verify 2026-08-18/Disqualified 2026-08-18|Disqualified 2026-08-18]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

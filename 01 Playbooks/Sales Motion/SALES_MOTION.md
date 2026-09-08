@@ -222,3 +222,7 @@ Everything in `01 Playbooks/Sales Motion/` is drafted and ready to use, except t
 5. **Ongoing — `REPLY_LOG.csv` from the next reply onward.**
 
 Do not send another Day-0 batch until items 1 and 2 exist. The cost of a reply arriving with nothing on the shelf is higher than the cost of a week without sends. **Item 3 is now done, which removes the largest piece of that risk — but the walkthrough video and the How We Work PDF are still the gate, and neither is in this folder.** Confirm their real status before the next batch rather than assuming this file is current.
+
+
+---
+Related: [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/Sales Motion/01 Reply to Call|01 Reply to Call]] · [[01 Playbooks/Sales Motion/02 Credibility Packet|02 Credibility Packet]] · [[01 Playbooks/Sales Motion/03 Operations Call|03 Operations Call]] · [[01 Playbooks/Sales Motion/04 Findings and Rollout|04 Findings and Rollout]] · [[01 Playbooks/Sales Motion/05 Pilot and Onboarding|05 Pilot and Onboarding]] · [[01 Playbooks/Sales Motion/HOW-WE-WORK|HOW-WE-WORK]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[08 Collateral/Audit Call Docs/02_data_intake_requirements|02_data_intake_requirements]]

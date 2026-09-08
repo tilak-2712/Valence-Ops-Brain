@@ -185,3 +185,7 @@ point_of_contact:         [blank — Tilak or Pratham to assign]
 `files/OUTBOUND_MEMORY.md` §6 decision log, and `Dental Discovery Criteria.md` §6. Follow the
 `MEMORY.md` maintenance rule: overrides need real-world proof, new things get appended, duplicates
 get skipped. **A completed scrape is not proof that a wedge works — only a reply is.**
+
+
+---
+Related: [[05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit|Batch 3 Dental Audit]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[01 Playbooks/Dental Discovery/Dental Discovery Criteria|Dental Discovery Criteria]] · [[MEMORY|MEMORY]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

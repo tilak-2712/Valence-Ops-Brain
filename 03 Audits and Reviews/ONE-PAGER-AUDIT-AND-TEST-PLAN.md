@@ -230,3 +230,7 @@ You are currently at roughly 25 touches with the doc. This test takes you to ~65
 4. Suspend the no-personal-name rule and revert to the Clinic Next Face register — named sender, plus *"happy to be told where it's wrong."*
 5. Never send an asset without a date or two named slots on it.
 6. Give the reader one concrete sentence about what actually gets built, so the doc isn't the only thing they can picture.
+
+
+---
+Related: [[CLAUDE|CLAUDE]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[MEMORY|MEMORY]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[files/LEARNINGS_LOG|LEARNINGS_LOG]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]]

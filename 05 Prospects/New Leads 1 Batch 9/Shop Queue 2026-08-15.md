@@ -67,3 +67,7 @@ wedge, not the clinic (`wedge-signal-entry.md` §1.3).
 - `OUTBOUND_MEMORY.md` §6 (2026-08-04) — a warm reply outranks the send quota. Sapphire and
   Aesthetica Veda are both still open.
 - `wedge-signal-entry.md` §4 — no wedge can be assigned from scraped data. The shop decides.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Shop Queue 11-20 2026-08-15|Shop Queue 11-20 2026-08-15]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]]

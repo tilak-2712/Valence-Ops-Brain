@@ -229,3 +229,7 @@ Fails all three → **kill**.
 6. Qualified count, TIER-1 vs TIER-2
 
 **Stop. Step 2 runs only on QUALIFIED rows, after my go-ahead.**
+
+
+---
+Related: [[01 Playbooks/Dental Discovery/Dental Discovery Criteria|Dental Discovery Criteria]] · [[01 Playbooks/Research Prompts/Apify Discovery Context|Apify Discovery Context]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/personalized-outbound-v2|personalized-outbound-v2]] · [[MEMORY|MEMORY]] · [[05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit|Batch 3 Dental Audit]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]]

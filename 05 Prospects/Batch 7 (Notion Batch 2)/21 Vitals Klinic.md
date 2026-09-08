@@ -95,3 +95,7 @@ status:                   Qualified
 depth_mode:               Standard (Apify re-run)
 unverified_fields:        Meta ad status (direct contradiction with prior pass — Apify says zero, twice); Electronic City GBP listing not captured; source of the "272 reviews" figure; JustDial; avg treatment value
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

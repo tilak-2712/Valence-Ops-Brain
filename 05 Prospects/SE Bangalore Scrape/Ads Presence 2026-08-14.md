@@ -223,3 +223,7 @@ No API key needed for any of it; nothing here consumed Apify credit.
   `page_name` occurrences.
 - Instagram: logged-out profile HTML, `og:description`. Live vs dead is decided by `<title>`.
   Avoid the `/api/v1/users/web_profile_info/` JSON route — it throttles to HTTP 400 after ~4 calls.
+
+
+---
+Related: [[05 Prospects/SE Bangalore Scrape/Qualified Targets 2026-08-14|Qualified Targets 2026-08-14]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[CLAUDE|CLAUDE]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

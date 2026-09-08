@@ -318,3 +318,7 @@ from a request the page makes itself. Region belongs in field 4 **as an array**.
 
 **Do not query Meta by keyword.** Query by page. This is not a preference — it was tested twice here
 and returned unrelated advertisers both times.
+
+
+---
+Related: [[05 Prospects/New Leads 1 Batch 9/Zone Leads|Zone Leads]] · [[05 Prospects/SE Bangalore Scrape/Shortlist 2026-08-14|Shortlist 2026-08-14]] · [[01 Playbooks/wedge-signal-entry|wedge-signal-entry]] · [[CLAUDE|CLAUDE]] · [[04 Clients/Aurilueur Esthetic Clinic/Aurilueur Esthetic Clinic|Aurilueur Esthetic Clinic]]

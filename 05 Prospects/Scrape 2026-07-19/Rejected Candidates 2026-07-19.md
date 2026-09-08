@@ -30,3 +30,7 @@ Hair transplant: AK Clinics, HSN, Hair O Craft, DHT Hair Transplant, Haircosmos 
 Cosmetology: Dr. Rekha's Vevili Cosmetology, Aura Skincare Clinic, Skin & Cosmetic Clinic, INBA Beauty & Aesthetic (beauty school, not a clinic), Aesthetic+ Clinic, Dr. Akhil's Advanced Skin Hair & Cosmetic Clinic, Surakshaa Skin Hair & Cosmetology Clinic, KARO Aesthetic Clinic, Chitra's Lifeline Clinic, Dr. Harsha's ZIVA, Refom Advanced Cosmetology Center, Skin & Cosmetology Clinic, NYRAA, COSMETO CARE, Glow Up Skin & Wellness Clinic
 Dental: Mira Dental Clinic (no real website — only a Google Business redirect link), Dyuthi Dental Care, Sonal Dental Care, Dental Essence Clinic, Arihant Advanced Dental Clinic, Care Dental Clinic, Dezy Dental Clinic, Shrinidhi Dental Care, Apex Dental & Orthodontic Clinic
 Dermatology: iSkin Clinic, DermaZeal Clinic (11,295 reviews — likely too large/corporate for this batch's cap), Vitals Skin and Hair Clinic, Skinray Skin & Hair Clinic, DERMA ELITE, Pigment Skin And Hair Clinic, Dr. Ashwini M Shetty (Apollo Hospitals doctor listing, not an independent clinic), Dr. Prithvi Raj - Aroha Skin and Hair Clinic
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/12 Haircosmos International|12 Haircosmos International]] · [[05 Prospects/Scrape 2026-07-19/The Derma Theory|The Derma Theory]]

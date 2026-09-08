@@ -91,3 +91,7 @@ status:                   Qualified
 depth_mode:                Standard
 unverified_fields:        Founder/owner identity (3 doctors found via Practo, none confirmed as owner); LinkedIn
 ```
+
+
+---
+Related: [[05 Prospects/Batch 7 (Notion Batch 2)/Batch 7 (Notion Batch 2)|Batch 7 (Notion Batch 2)]]

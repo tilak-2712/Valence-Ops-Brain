@@ -204,3 +204,7 @@ If a clinic hits a hard kill, skip both fields and mark the audit `Disqualified`
 ## Change log
 - **v2 — 2026-08-13.** Escaped-markdown repair. Six tests → two. After-hours/cross-channel/persistence/booking-friction retired. Published-hours admissibility replaces the fixed window. Rebuttal test (§0.1) and evidence bar (§0.2) added. Hard kill #10 (no named decision-maker) added; #3/#4/#6/#8 marked not-pre-determinable. Shop moved to the front of the batch. Screenshot-as-deliverable rule added. IG→WhatsApp handoff row retired. Standing warning on forcing the speed wedge added to §2.5.
 - v1 — initial draft combining disqualification framework, speed-to-lead SOP, and signal-to-wedge routing table with priority tiers.
+
+
+---
+Related: [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[MEMORY|MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]] · [[04 Clients/Aesthetica Veda/Aesthetica Veda|Aesthetica Veda]] · [[05 Prospects/Batch 7 (Notion Batch 2)/19 Dermatonik|19 Dermatonik]] · [[05 Prospects/Batch 7 (Notion Batch 2)/25 Project Skin|25 Project Skin]]

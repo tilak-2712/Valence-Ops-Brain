@@ -80,3 +80,7 @@ Mister Hair Clinic has the most mature acquisition engine in this batch: 10-bran
 
 ## Priority Tier
 **Highest**
+
+
+---
+Related: [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]]

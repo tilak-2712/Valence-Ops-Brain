@@ -164,3 +164,7 @@ Named here because it is the real cost of skipping the audit, and it lands in th
 | 8 | Hold Tier 2 for the onboarding session after a yes | — |
 
 **The two screenshots are the whole game.** If Meta's conversation count is materially above their sheet, you have the finding the audit was supposed to produce, you have it without an audit, and the proposal writes itself.
+
+
+---
+Related: [[04 Clients/SkinFit Wellness/SkinFit Tech Handoff 2026-08-18|SkinFit Tech Handoff 2026-08-18]] · [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]] · [[CLAUDE|CLAUDE]] · [[01 Playbooks/diagnostic_doc_playbook|diagnostic_doc_playbook]] · [[09 Company/Legal and Commercial Doc Set|Legal and Commercial Doc Set]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]] · [[04 Clients/Sapphire Skin and Aesthetics/Sapphire Skin and Aesthetics|Sapphire Skin and Aesthetics]]

@@ -199,3 +199,7 @@ Then climb the Pyramid (Section 3) for the core insight, follow the structure (S
 ## 11. One Last Thing
 
 This document is one instance of a repeatable system — a broader framework (five buyer-archetype openings × four vertical modules) that this playbook slots into for scaling across clinics without rewriting from scratch. Worth its own conversation if useful. Everything above holds regardless of which archetype or vertical you're building for.
+
+
+---
+Related: [[CLAUDE|CLAUDE]] · [[10 Tooling/one-pager-handoff/COPY_STANDARD|COPY_STANDARD]] · [[files/OUTBOUND_MEMORY|OUTBOUND_MEMORY]]

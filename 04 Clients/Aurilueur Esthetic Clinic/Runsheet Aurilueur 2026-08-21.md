@@ -136,3 +136,7 @@ Date it out loud. Get agreement on the date, not the document.
 The cheapest place to learn it is this call. Ask it plainly near the end:
 
 > If this turned into something you wanted to run, who else would be in that decision with you?
+
+
+---
+Related: [[01 Playbooks/Sales Motion/SALES_MOTION|SALES_MOTION]]
