@@ -159,7 +159,7 @@ change, or do brand-page-only clinics get parked? Until answered, mark them
 4. Two-or-three-partner practices → **park**, don't kill; confirm which partner owns operations first
 5. Front-desk-only contact → **park**, route via Practo doctor listing / website team page / LinkedIn
 
-Expected failure rate: high. Our own `batch3-dental-audit.md` found no named decision-maker on 5 of
+Expected failure rate: high. Our own `Batch 3 Dental Audit.md` found no named decision-maker on 5 of
 11 clinics (Chisel, Sky Dental, Smiley House, both Amaya branches).
 
 ### Gate F — Review screen (dental-specific)
@@ -244,7 +244,7 @@ Everything. Marked per `MEMORY.md` maintenance rule.
 - The claim that Google Ads outperforms Meta as a dental spend signal is reasoning, not observation
 - Review-text mention of high-ticket procedures as a throughput proxy is untested
 - The upselling screen has never rejected a real clinic
-- No dental mystery shop has been run — `batch3-dental-audit.md` marks all 11 as PENDING
+- No dental mystery shop has been run — `Batch 3 Dental Audit.md` marks all 11 as PENDING
 
 Nothing in this file gets promoted from hypothesis to settled until real scrape and send data exists,
 per `OUTBOUND_MEMORY.md` §7.

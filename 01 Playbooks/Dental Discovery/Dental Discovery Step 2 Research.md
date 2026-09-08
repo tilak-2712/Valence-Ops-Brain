@@ -8,7 +8,7 @@ status: active
 **Cap: $1.20.** Input: `_dental-qualified.md`, QUALIFIED rows only. Nothing else — PARK rows and
 anything from `_dental-rejected.md` stay out.
 
-Output: full dossiers in `Pre-outbound-research/batch3-dental-audit.md`, ready for mystery shop and
+Output: full dossiers in `05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit.md`, ready for mystery shop and
 outreach drafting.
 
 *(Remaining $0.80 of the $5.00 ceiling is reserve for re-runs and gap-fills.)*
@@ -47,7 +47,7 @@ Signals:
 - Two-or-three-partner practice → **PARK**, note which partner appears to own operations
 - Front-desk-only contact → **PARK**, route via Practo doctor listing / website team page / LinkedIn
 
-**Expect a high failure rate.** `batch3-dental-audit.md` found no named decision-maker on 5 of 11
+**Expect a high failure rate.** `Batch 3 Dental Audit.md` found no named decision-maker on 5 of 11
 dental clinics (Chisel, Sky Dental, Smiley House, both Amaya branches). If this run does markedly
 better, re-check the names before believing it.
 
@@ -138,7 +138,7 @@ tier and whether they qualify the enquirer.
 
 ## Output
 
-**`Pre-outbound-research/batch3-dental-audit.md`** — one block per clinic, following the existing batch
+**`05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit.md`** — one block per clinic, following the existing batch
 dossier structure:
 
 ```

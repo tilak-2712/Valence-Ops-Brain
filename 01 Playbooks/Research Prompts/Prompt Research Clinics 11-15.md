@@ -16,7 +16,7 @@ Research the five clinics below and produce one dossier each, following this pro
 1. `CLAUDE.md` — folder map and order of operations
 2. `MEMORY.md` — standing calibration; §2 in particular
 3. `wedge-signal-entry.md` — §1 disqualification framework, §2 speed-to-lead SOP, §3 signal→wedge routing table, §4 schema tagging
-4. `Pre-outbound-research/OUTREACH document.md` — copy the section schema used there (Basic Info → ICP Qualification → Digital Presence → Ads → Lead Sources → Mystery Shop Findings → Reviews Analysis → Marketing Analysis)
+4. `05 Prospects/Batch 1 Notion Cohort/Outreach 1.md` — copy the section schema used there (Basic Info → ICP Qualification → Digital Presence → Ads → Lead Sources → Mystery Shop Findings → Reviews Analysis → Marketing Analysis)
 5. `go-list-mystery-shop.md` — where these five come from
 
 Do not draft any outbound copy in this task. Research only.
@@ -94,7 +94,7 @@ Use the ScrapeGraphAI MCP for website and listing extraction. Check which tools 
 
 ## Output
 
-Write one file per clinic to `Pre-outbound-research/`, matching the existing section schema. At the end of each, add the two §4 tags:
+Write one file per clinic to `05 Prospects/`, matching the existing section schema. At the end of each, add the two §4 tags:
 
 - `funnel_break_stage` — one of: `Response Speed` / `Qualification` / `Follow-up Persistence` / `Quote Chase` / `Booking / No-show` / `Post-consult` / `Reviews` / `Reactivation` / `None (pass)`
 - `recommended_entry_sku` — the matching wedge from §3

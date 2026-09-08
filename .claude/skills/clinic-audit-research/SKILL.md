@@ -400,7 +400,7 @@ pre-correction draft.
 
 ## Output
 
-### 1. Markdown dossier → `Pre-outbound-research/` (always)
+### 1. Markdown dossier → `05 Prospects/` (always)
 Canonical, feeds `personalized-outbound`. Follow the existing section order:
 
 ```

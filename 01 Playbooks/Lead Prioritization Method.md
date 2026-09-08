@@ -34,7 +34,7 @@ status: active
 
 4. **Pull the authoritative list first** (Notion tracker), not the research folder. The research folder is a superset and a different vintage; the tracker is what's actually being worked.
 
-5. **Confirm every name on the list maps to a dossier, by grep on section headers — not by memory or assumption.** I grepped all three research files for clinic headers and found `outreach 3.md` contains 7 clinics that are *not* in the tracker (Idha, LA CROWN, Contura, Umbrella, Evolve, Sapphire, Evenly). Without that check I might have scored a clinic from the wrong cohort, or silently dropped one from the right cohort.
+5. **Confirm every name on the list maps to a dossier, by grep on section headers — not by memory or assumption.** I grepped all three research files for clinic headers and found `Outreach 3.md` contains 7 clinics that are *not* in the tracker (Idha, LA CROWN, Contura, Umbrella, Evolve, Sapphire, Evenly). Without that check I might have scored a clinic from the wrong cohort, or silently dropped one from the right cohort.
 
 6. **Check for a second source of per-clinic state that the dossiers don't have.** Here: Notion `Status` (touch count, what was sent, on-hold flags) and the `07 One-Pagers/` folder (which clinics have a diagnostic built). Both changed rankings. Dossiers describe the clinic; they say nothing about the state of the relationship.
 

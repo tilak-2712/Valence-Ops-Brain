@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-23
+date_modified: 2026-08-13
+status: active
+---
 # **outreach-3**
 
 > ⚠️ **ICP / prestige scores in this file are RETIRED metadata.** Scoring was dropped as a targeting

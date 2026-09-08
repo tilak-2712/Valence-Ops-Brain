@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-03
+date_modified: 2026-08-03
+status: reference
+---
 # Batch 3 Audit — Bangalore Dental Cohort (11 clinics, 14 locations)
 
 **Compiled:** 2026-07-30 · **Depth mode:** Standard (partial — see Limitations)

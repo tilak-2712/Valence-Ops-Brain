@@ -61,7 +61,7 @@ Bio: *"Advanced Skin | Hair | Slimming | Cosmetic Procedures. Dermatologist-back
 IG: `@adgloskinclinicjayanagar` — **1,408 followers, 209 posts**
 Bio: *"Advanced Skin Treatments... Appointment: 89402 56789. For Hair @adgrohairclinicjayanagar"*
 Website: adgloskin.com
-⚠️ **This is a 3rd branch of a chain already partly audited** — Indiranagar and HRBR Layout/Kalyan Nagar branches are in `Pre-outbound-research/batch1-2-audit-23-clinics.md` (#19, Advanced Gro). That prior audit found a strong cross-branch pattern: patients report being consulted by technicians instead of doctors at both existing branches. Worth checking if Jayanagar shows the same pattern.
+⚠️ **This is a 3rd branch of a chain already partly audited** — Indiranagar and HRBR Layout/Kalyan Nagar branches are in `05 Prospects/Karnataka Batches 1-2/Karnataka Batches 1-2 Audit 23 Clinics.md` (#19, Advanced Gro). That prior audit found a strong cross-branch pattern: patients report being consulted by technicians instead of doctors at both existing branches. Worth checking if Jayanagar shows the same pattern.
 **Still needed:** GBP, reviews, Meta ads, Google Ads for this specific branch.
 
 ### 6. SS Aesthetic Clinic

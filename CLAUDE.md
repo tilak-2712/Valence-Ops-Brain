@@ -71,7 +71,7 @@ Higher wins. This ladder is the tiebreaker; it is not a reading order.
 **These three are historical records of what was found, not live rulebooks.** Everything in them that became a rule now lives in the governing docs above. Where a proposal in them was rejected, the rejection is logged in `OUTBOUND_MEMORY.md` §6 — don't re-adopt it from the audit doc.
 
 ### Research — clinic facts, cite from here, never invent
-- `Pre-outbound-research/` — the current dossiers. See `COHORT-INDEX.md` for which file covers which cohort.
+- `05 Prospects/` — the current dossiers. See `COHORT-INDEX.md` for which file covers which cohort.
 - `Research-docs/`, `clinics/`, `se-bangalore-scrape/` — other cohorts, also indexed in `COHORT-INDEX.md`.
 - `clinic-audit-checklist.md`, `Clinic Research Sources.md` — the field schema and the source list.
 - `.claude/skills/clinic-audit-research/SKILL.md` — the Apify research pipeline.

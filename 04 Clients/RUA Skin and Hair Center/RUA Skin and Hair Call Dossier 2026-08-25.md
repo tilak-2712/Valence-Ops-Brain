@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-25
+date_modified: 2026-08-25
+status: active
+---
 # RUA Skin & Hair Center — Sales Call Dossier
 
 **Built 2026-08-25 · Bangalore · 2 branches (Ramamurthy Nagar, Indiranagar)**

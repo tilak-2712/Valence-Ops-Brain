@@ -5,7 +5,7 @@ status: active
 ---
 # LinkedIn Sales Navigator Personas — ValenceOps ICP
 
-Built from the 80-clinic list, real title patterns already found in `Pre-outbound-research/` dossiers (e.g. "Founder / Aesthetic Dermatologist," "Founder / Plastic & Cosmetic Surgeon"), the buyer profile in `personalized-outbound-v2.md`, and the qualification rules in `wedge-signal-entry.md`. Use these to build Sales Nav searches and to sanity-check who the real decision-maker is before a connection request goes out.
+Built from the 80-clinic list, real title patterns already found in `05 Prospects/` dossiers (e.g. "Founder / Aesthetic Dermatologist," "Founder / Plastic & Cosmetic Surgeon"), the buyer profile in `personalized-outbound-v2.md`, and the qualification rules in `wedge-signal-entry.md`. Use these to build Sales Nav searches and to sanity-check who the real decision-maker is before a connection request goes out.
 
 Across almost every clinic in this list, there is one buyer, not a buying committee: the founder-doctor. `wedge-signal-entry.md` hard-kills any clinic needing committee sign-off — so every persona below assumes a single-decision-maker practice.
 
@@ -127,4 +127,4 @@ Across almost every clinic in this list, there is one buyer, not a buying commit
 3. Before sending a connection request, run the clinic through the disqualification framework (`wedge-signal-entry.md` §1) and confirm reachability against what's already known in `MEMORY.md` §5 (some founders are IG/WhatsApp-only, some route through LinkedIn only) — don't treat a LinkedIn match alone as qualification.
 4. Once a real profile is found for a clinic already in the Notion tracker, add the LinkedIn URL to that clinic's row rather than duplicating it here.
 
-**What's not in this doc:** no specific named LinkedIn profiles beyond the handful already confirmed in `Pre-outbound-research/` — that's per-clinic research, not persona-building, and belongs in each clinic's dossier.
+**What's not in this doc:** no specific named LinkedIn profiles beyond the handful already confirmed in `05 Prospects/` — that's per-clinic research, not persona-building, and belongs in each clinic's dossier.

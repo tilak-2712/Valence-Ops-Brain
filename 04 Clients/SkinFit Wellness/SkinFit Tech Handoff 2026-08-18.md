@@ -36,7 +36,7 @@ Both matter to us because they set the standard the clinic already holds itself 
 
 ## 2 · How we found them and how this became a meeting
 
-1. **Research, 1 August.** SkinFit came out of the batch-3 aesthetic research sweep. Dossier is at `Research-docs/08-skinfit-wellness.md`, with the batch view in `Pre-outbound-research/batch3-aesthetic-MASTER.md`. It was marked qualified but **parked** — it never had a Notion row and was never part of an active outbound batch.
+1. **Research, 1 August.** SkinFit came out of the batch-3 aesthetic research sweep. Dossier is at `Research-docs/08-skinfit-wellness.md`, with the batch view in `05 Prospects/Batch 3 Aesthetic and Dental/batch3-aesthetic-MASTER.md`. It was marked qualified but **parked** — it never had a Notion row and was never part of an active outbound batch.
 2. **A mystery shop was run** on the clinic's listed WhatsApp number.
 3. **A one-pager was built on that shop** and sent by Pratham: `One-page-docs/SkinFit Wellness - Revenue Diagnostic.pdf`.
 4. **Gino replied on WhatsApp** asking to connect "for a quick understanding for the whatsapp messages." That message is a direct response to the one-pager.

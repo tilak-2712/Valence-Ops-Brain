@@ -17,7 +17,7 @@ status: active
 
 **Confirm they watched the video.** A one-line WhatsApp the morning of: *"Looking forward to 4pm. If you get a spare six minutes, the walkthrough I sent means we can skip straight to your side of things."* If they haven't watched it, adjust — spend three minutes, not fifteen, and offer to send it again after.
 
-**Re-read their dossier in `Pre-outbound-research/`.** Specifically: the mystery-shop timestamps, the ad activity, the review themes. You should be able to name their treatments and their branches without checking.
+**Re-read their dossier in `05 Prospects/`.** Specifically: the mystery-shop timestamps, the ad activity, the review themes. You should be able to name their treatments and their branches without checking.
 
 **Write your three hypotheses down before the call, and commit to being wrong.** From `wedge-signal-entry.md` §3, pick the three most likely wedges. Then run the call as though you have none, because the point of the call is finding out which — if any — is real. A hypothesis you're attached to turns questions into leading questions and the answers become worthless.
 

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-07
+date_modified: 2026-08-13
+status: active
+---
 # **outreach-4**
 
 # **Aesthetica Veda Clinic – Research Gist**

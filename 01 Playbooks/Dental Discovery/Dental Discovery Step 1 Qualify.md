@@ -30,7 +30,7 @@ survives it.
 
 ### Free pre-check (recommended, costs $0)
 
-Run gates A–D on the 11 clinics in `Pre-outbound-research/batch3-dental-audit.md` using only the data
+Run gates A–D on the 11 clinics in `05 Prospects/Batch 3 Aesthetic and Dental/Batch 3 Dental Audit.md` using only the data
 already in that file. Known answers to check against: **Dr Tanisha** (MDS Prosthodontist &
 Implantologist), **Smile Xpressions** (`@drshagunagarwal_invisalign`) and **Aesthete** (aligners in
 review text) should all pass Gate B. **Small Bites** should die at Gate A. If they don't, the gates
@@ -44,7 +44,7 @@ are written wrong — fix them before scraping.
   `apify/facebook-ads-scraper`. **`website-content-crawler` is new to this project** — estimate the
   cost of 6 pages × 60 domains and flag if it breaks the $0.85 sub-cap.
 - Build the exclusion list: `Apify Discovery Context.md` §4 + the 11 clinics in
-  `batch3-dental-audit.md`. Match loosely (case, punctuation, `Dr.`, `&`/`and`, branch suffixes).
+  `Batch 3 Dental Audit.md`. Match loosely (case, punctuation, `Dr.`, `&`/`and`, branch suffixes).
 
 **Report preflight and wait for go-ahead before scraping.**
 

@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-03
+date_modified: 2026-08-25
+status: reference
+---
 # Batch 3 — Aesthetic Sub-Batch · MASTER DOSSIER
 
 > *(⚠️ Retired tests: the six-test SOP was cut to two — qualification and quote decay — on 2026-08-13. Persistence, after-hours, cross-channel and booking friction no longer run. See `wedge-signal-entry.md` §2.)*
@@ -529,7 +534,7 @@ Negative text not read in depth — seven negatives across 242 reviews doesn't c
 > **Qualification → Booking / No-show · Qualification + scoring upgrade.**
 >
 > **Ownership resolved further:** the site's own /about-us heads the three doctors "OUR FOUNDERS."
-> **Full replacement:** `Pre-outbound-research/rua-skin-hair-CALL-DOSSIER-2026-08-25.md`
+> **Full replacement:** `04 Clients/RUA Skin and Hair Center/RUA Skin and Hair Call Dossier 2026-08-25.md`
 
 ```
 funnel_break_stage:       Reactivation
@@ -664,7 +669,7 @@ Hair transplantation clinic · **4.7★ / 118 reviews**
 **Email pattern confirmed chain-wide:** `<branch>@adgrohair.com`. Website page is thin, names no staff.
 
 ### Sibling branches already on file
-[batch1-2-audit-23-clinics.md](batch1-2-audit-23-clinics.md) ~394–419: **Indiranagar** (+91 84978 56789)
+[Karnataka Batches 1-2 Audit 23 Clinics.md](Karnataka Batches 1-2 Audit 23 Clinics.md) ~394–419: **Indiranagar** (+91 84978 56789)
 and **HRBR Layout / Kalyan Nagar** (+91 84890 56789, hrbrlayout@adgrohair.com), with a validated
 cross-branch wedge — *technician-led-not-doctor-led consultations*.
 

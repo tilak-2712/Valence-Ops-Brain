@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-09
+date_modified: 2026-08-13
+status: active
+---
 # **outreach-5**
 
 # **Neo Follicle Hair Transplant Clinic – Research Gist**

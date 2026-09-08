@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-01
+date_modified: 2026-08-01
+status: reference
+---
 # Karnataka Clinic Outbound Audit — Batches 1 & 2 (23 clinics)
 
 **Scope:** 23 elective-clinic leads, Bengaluru + Pavagada, Karnataka

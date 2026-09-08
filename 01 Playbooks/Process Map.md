@@ -83,7 +83,7 @@ The `AUTOMATABLE` tag at the end of each step is a first-pass judgment only — 
 ### B3. Write the dossier
 - Fixed schema: Basic Info → ICP Qualification → Digital Presence → Ads → Lead Sources →
   Mystery Shop → Reviews → Marketing Analysis → `funnel_break_stage` + `recommended_entry_sku`.
-- Goes to `Pre-outbound-research/`. This is the source of truth — nothing gets invented later.
+- Goes to `05 Prospects/`. This is the source of truth — nothing gets invented later.
 - **AUTOMATABLE: assembly yes, analysis no.**
 
 ### B4. Depth decision (a live tension, not a settled step)
