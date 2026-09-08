@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$CLAUDE_PROJECT_DIR/.claude/hooks/wrap-check.py\"",
+            "timeout": 20,
+            "statusMessage": "Checking for anything worth filing..."
+          }
+        ]
+      }
+    ]
+  }
+}
