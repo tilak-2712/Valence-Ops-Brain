@@ -1,6 +1,9 @@
 ---
 name: personalization
 description: Write approved, grounded custom outreach lines (Email 1 copy) for leads already qualified by the qualification skill. Reads qualified rows directly from the Google Sheet via Composio MCP — no n8n involved. Requires collaborative copy/template approval before generating any lines.
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
 ---
 
 # Personalization

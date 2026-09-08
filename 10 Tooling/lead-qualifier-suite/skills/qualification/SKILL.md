@@ -1,6 +1,9 @@
 ---
 name: qualification
 description: Qualify companies from a Google Sheet against the GTM target profile. Reads row batches from a dedicated n8n workflow, researches each website, labels priority_now/good_fit/maybe/skip, and writes qualification data back via Composio MCP. First stage of the lead-qualifier-suite pipeline — run this before personalization or gamma-deck.
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
 ---
 
 # Qualification

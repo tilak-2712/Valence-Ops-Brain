@@ -1,6 +1,9 @@
 ---
 name: orchestrator
 description: Run the full lead-qualifier-suite pipeline in one pass per company — qualify, and only if the lead qualifies, immediately write personalization lines and draft the Gamma deck from the same website visit. Use this when the user wants the whole pipeline run efficiently (one site visit per company) rather than three separate sweeps over the sheet.
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
 ---
 
 # Orchestrator

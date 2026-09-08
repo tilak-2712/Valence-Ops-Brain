@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
+---
 # Default Target Profile
 
 Use this profile unless the user provides an override.

@@ -1,3 +1,8 @@
+---
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
+---
 # Personalization Specification
 
 Create a JSON file with this shape only after the user explicitly approves the proposed wording and examples:

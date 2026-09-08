@@ -1,6 +1,9 @@
 ---
 name: gamma-deck
 description: Generate a personalized 3-video-idea Gamma deck for each qualified lead, pitching the YouTube mini-course offer, and write the deck link back to the Google Sheet. Reads qualified rows directly via Composio MCP (no n8n). Requires collaborative approval of the cover-line/video-brief wording contract before generating any decks.
+date_created: 2026-07-18
+date_modified: 2026-07-18
+status: reference
 ---
 
 # Gamma Deck
