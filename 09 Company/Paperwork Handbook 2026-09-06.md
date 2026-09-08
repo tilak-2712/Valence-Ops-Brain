@@ -1,9 +1,14 @@
+---
+date_created: 2026-09-06
+date_modified: 2026-09-06
+status: active
+---
 # Paperwork Handbook — every document, what it does, how long it lives
 
 **Written 2026-09-06.** Written for someone new to the agency side. Plain language, examples, no assumed knowledge.
 **Not legal advice.** Three items need a CA or a lawyer to sign off and are flagged inline.
 
-**Related existing file:** `LEGAL-AND-COMMERCIAL-DOC-SET.md` (written 2026-08-20) already covers the entity position, GST analysis and stage-by-stage document list in more depth. This handbook is the beginner-level explainer and the format audit of what has already been sent. Where the two overlap, that file is more detailed and this one is more readable.
+**Related existing file:** `Legal and Commercial Doc Set.md` (written 2026-08-20) already covers the entity position, GST analysis and stage-by-stage document list in more depth. This handbook is the beginner-level explainer and the format audit of what has already been sent. Where the two overlap, that file is more detailed and this one is more readable.
 
 ---
 
@@ -479,7 +484,7 @@ The clinic is legally required to deduct tax at source and deposit it with the g
 
 ### 6.5 One flag worth knowing about, out of scope here
 
-The existing file `LEGAL-AND-COMMERCIAL-DOC-SET.md` §9 argues for registering for GST voluntarily even below the ₹20 lakh threshold. The short version of the argument: while unregistered, the 18% you pay on foreign platforms — Meta, hosting, AI APIs — is an unrecoverable cost, whereas registered you claim it back. Being unregistered is costing you money rather than saving it.
+The existing file `Legal and Commercial Doc Set.md` §9 argues for registering for GST voluntarily even below the ₹20 lakh threshold. The short version of the argument: while unregistered, the 18% you pay on foreign platforms — Meta, hosting, AI APIs — is an unrecoverable cost, whereas registered you claim it back. Being unregistered is costing you money rather than saving it.
 
 That is a decision for a CA conversation, not a paperwork decision. But it is directly relevant the moment real monthly platform spend starts.
 

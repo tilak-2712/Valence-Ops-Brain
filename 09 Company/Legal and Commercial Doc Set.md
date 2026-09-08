@@ -1,3 +1,8 @@
+---
+date_created: 2026-08-20
+date_modified: 2026-09-08
+status: active
+---
 # Legal & Commercial Document Set — Interested Client → Signed → Build Start
 
 **Written 2026-08-20.** Trigger: positive first meeting with SkinFit Wellness (Gino Tharakan, 18 Aug).

@@ -1,3 +1,8 @@
+---
+date_created: 2026-09-05
+date_modified: 2026-09-08
+status: active
+---
 # Build cost and pricing model — the six-system stack
 
 **Date:** 21 August 2026 · **Status:** `provisional` throughout except the vendor rates in §2, which are `confirmed` from published price lists (sources at the end). Nothing here has been tested on a client. **Zero calls held, zero pilots, one live proposal.**

@@ -144,7 +144,7 @@ Named here because it is the real cost of skipping the audit, and it lands in th
    - **What your team told us** — labelled as such, every number marked an estimate.
    - **What we still cannot see, and what we would check first.**
    **Being explicit that the audit did not happen is stronger than papering over it**, and it is the method-transparency position in `SALES_MOTION.md` §1.
-3. **The proposal needs an assumptions schedule and a re-scope trigger.** Full detail in `LEGAL-AND-COMMERCIAL-DOC-SET.md` §3A. Short version: on the original path the audit de-risked the scope; here the contract has to do that job instead.
+3. **The proposal needs an assumptions schedule and a re-scope trigger.** Full detail in `Legal and Commercial Doc Set.md` §3A. Short version: on the original path the audit de-risked the scope; here the contract has to do that job instead.
 4. **Do not name a specific day-3 artefact in the proposal.** On this path the first onboarding session is the first time you see reality. Promise the day-3 artefact, name it after access.
 5. **Gino has explicitly asked for costs.** The free-pilot / paid-implementation boundary in `OUTBOUND_MEMORY.md` §5 has been flagged unresolved three times and is now blocking. **No number goes on paper until it is settled.**
 

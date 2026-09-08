@@ -5,7 +5,7 @@ status: active
 ---
 # SkinFit Wellness — Proposal & SOW Review
 
-**Reviewed 2026-08-22.** Sources: `SkinFit_Wellness_Proposal.docx`, `SkinFit_Wellness_SOW.docx` (both drafts, pricing/dates left blank on purpose). Compared against `Proposals/SkinFit Wellness - Enquiry Handling Review.pdf` (already sent to Gino), `SkinFit Tech Handoff 2026-08-18.md`, `PRICING-BUILD-COST-2026-08-21.md`, `LEGAL-AND-COMMERCIAL-DOC-SET.md`, `taste-n-judgement.md`. Content only — design/formatting explicitly out of scope for this pass.
+**Reviewed 2026-08-22.** Sources: `SkinFit_Wellness_Proposal.docx`, `SkinFit_Wellness_SOW.docx` (both drafts, pricing/dates left blank on purpose). Compared against `Proposals/SkinFit Wellness - Enquiry Handling Review.pdf` (already sent to Gino), `SkinFit Tech Handoff 2026-08-18.md`, `Pricing and Build Cost 2026-08-21.md`, `Legal and Commercial Doc Set.md`, `taste-n-judgement.md`. Content only — design/formatting explicitly out of scope for this pass.
 
 ---
 
@@ -49,7 +49,7 @@ SOW, **Data & Compliance**:
 
 This doesn't hold up against the systems described two pages earlier. The Qualification Bot's own spec says it produces "a clear summary handed to the sales team" with the patient's requirement, budget, availability. No-Show Recovery has to know *which* patient missed *which* slot to text them. Quote Follow-Up has to know who to follow up with. None of that works without storing a name and a phone number somewhere.
 
-This is the same failure mode `taste-n-judgement.md` §4 names directly — "a fact about our own company that nobody verified" — except it's landed in a signed Scope of Work rather than a sales deck, which is worse. `LEGAL-AND-COMMERCIAL-DOC-SET.md`'s own verdict on the tech handoff's commitment #3 applies here word for word: *"an inaccurate compliance sentence in a document to a founder is a bigger legal exposure than 18% IGST."*
+This is the same failure mode `taste-n-judgement.md` §4 names directly — "a fact about our own company that nobody verified" — except it's landed in a signed Scope of Work rather than a sales deck, which is worse. `Legal and Commercial Doc Set.md`'s own verdict on the tech handoff's commitment #3 applies here word for word: *"an inaccurate compliance sentence in a document to a founder is a bigger legal exposure than 18% IGST."*
 
 **What the doctrine already says to write instead** (per the same legal doc, §3.1 and §5.2): you're the DPDP Data Processor, the clinic is the Data Fiduciary, data is processed under contract, access is controlled and logged, nothing is copied outside their systems, deletion happens on exit. That's true, checkable, and it's already the shape of the five commitments in the PDF Gino has. Swap the "no PII stored" line for a restatement of those five commitments — which also fixes §3 below.
 
@@ -59,7 +59,7 @@ This is the same failure mode `taste-n-judgement.md` §4 names directly — "a f
 
 ## 3 · The five commitments didn't travel into the SOW
 
-The Enquiry Handling Review's strongest section (page 5, "How we would set this up safely") landed well in the room per the run-sheet. `LEGAL-AND-COMMERCIAL-DOC-SET.md` §5.1 item 9 already flags this exact risk: *"leaving them in a PDF and out of the contract wastes them."* The SOW's Data & Compliance section replaces them with a new, unverified, generic claim (§2 above) instead of restating them. Put the five back in, verbatim, in the SOW — it's free continuity and it fixes the PII problem at the same time.
+The Enquiry Handling Review's strongest section (page 5, "How we would set this up safely") landed well in the room per the run-sheet. `Legal and Commercial Doc Set.md` §5.1 item 9 already flags this exact risk: *"leaving them in a PDF and out of the contract wastes them."* The SOW's Data & Compliance section replaces them with a new, unverified, generic claim (§2 above) instead of restating them. Put the five back in, verbatim, in the SOW — it's free continuity and it fixes the PII problem at the same time.
 
 ---
 
@@ -67,10 +67,10 @@ The Enquiry Handling Review's strongest section (page 5, "How we would set this 
 
 | Gap | Where it's already required | Currently |
 |---|---|---|
-| **Assumptions Schedule** — every client-asserted fact the scope depends on (CRM name, whether booking can be written vs. only requested, official API vs. not, two-branch routing) | `LEGAL-AND-COMMERCIAL-DOC-SET.md` §3A.4, written specifically for this no-audit path SkinFit is on | Not present as a named schedule. The SOW's "Client Responsibilities" and "Timeline" footnote gesture at some of this but don't list the assumptions or attach consequences |
+| **Assumptions Schedule** — every client-asserted fact the scope depends on (CRM name, whether booking can be written vs. only requested, official API vs. not, two-branch routing) | `Legal and Commercial Doc Set.md` §3A.4, written specifically for this no-audit path SkinFit is on | Not present as a named schedule. The SOW's "Client Responsibilities" and "Timeline" footnote gesture at some of this but don't list the assumptions or attach consequences |
 | **Re-scope trigger** — if a listed assumption is wrong at onboarding, scope/price get revisited within a stated window, with a clean exit | Same section, item 16, called *"the single most important commercial consequence of skipping the audit"* | Absent from both documents |
 
-Without these two, you've fixed a scope against facts nobody has verified (practice software name, whether a booking can be written in, whether WhatsApp is on the official API) — exactly the situation `LEGAL-AND-COMMERCIAL-DOC-SET.md` was written to prevent for this specific deal.
+Without these two, you've fixed a scope against facts nobody has verified (practice software name, whether a booking can be written in, whether WhatsApp is on the official API) — exactly the situation `Legal and Commercial Doc Set.md` was written to prevent for this specific deal.
 
 **Also missing, smaller:** a validity date on the proposal (*"this proposal holds until [date]"* — §4.1 of the same doc). Without one it can sit indefinitely, which is the Sapphire document-stall shape again.
 
@@ -91,7 +91,7 @@ Without these two, you've fixed a scope against facts nobody has verified (pract
 - **Section 01 ("What We Noticed") correctly carries forward, near-verbatim, what's already in the sent PDF** — the two mystery-shop findings and Gino's own quotes. That continuity is exactly right and should not change.
 - **The SOW's Exclusions and Client Responsibilities sections are the right sections in the right document** — most first-draft SOWs skip both, and skipping them is what produces scope creep arguments later.
 - **The delivery sequence (Section 04 of the Proposal) matches the "controlled execution, not instant rollout" instinct** already on record in `taste-n-judgement.md` §7.
-- **No fabricated case studies, no named team bios inflating credibility** — correctly consistent with "you have none, say so" (`LEGAL-AND-COMMERCIAL-DOC-SET.md` §4.2) and "don't name individuals unnecessarily" (`taste-n-judgement.md` §1).
+- **No fabricated case studies, no named team bios inflating credibility** — correctly consistent with "you have none, say so" (`Legal and Commercial Doc Set.md` §4.2) and "don't name individuals unnecessarily" (`taste-n-judgement.md` §1).
 
 ---
 
@@ -110,7 +110,7 @@ Without these two, you've fixed a scope against facts nobody has verified (pract
 | Out-of-scope / exclusions | ✅ | SOW Exclusions section — correctly present, often skipped by agencies |
 | Client responsibilities | ✅ | SOW — good, standard, often skipped |
 | Validity / expiry | ❌ | Missing — see §4 |
-| Terms (liability, IP, confidentiality, medical disclaimer, indemnity) | — | Correctly belongs in a separate Services Agreement per `LEGAL-AND-COMMERCIAL-DOC-SET.md` §5, not the SOW. **Confirm that document exists or is in progress** — a signed Proposal + SOW with no MSA behind it leaves the liability cap and medical disclaimer unwritten, which matters more than usual given Valence Ops is a sole proprietorship with personal, unlimited liability |
+| Terms (liability, IP, confidentiality, medical disclaimer, indemnity) | — | Correctly belongs in a separate Services Agreement per `Legal and Commercial Doc Set.md` §5, not the SOW. **Confirm that document exists or is in progress** — a signed Proposal + SOW with no MSA behind it leaves the liability cap and medical disclaimer unwritten, which matters more than usual given Valence Ops is a sole proprietorship with personal, unlimited liability |
 | Next steps / signature | ✅ | Both — clean |
 
 **Overall shape is closer to standard practice than most first drafts get, particularly the exclusions and client-responsibilities sections.** The gaps are concentrated in the two places that carry real risk if you ship them as-is: the scope that quietly moved (§1), and the compliance claim that isn't backed by how the systems actually work (§2).
@@ -125,7 +125,7 @@ Without these two, you've fixed a scope against facts nobody has verified (pract
 | 2 | Replace the PII/DPDP paragraph with the five commitments from the sent PDF, verbatim | 10 minutes |
 | 3 | Hedge or confirm the attribution claim before it ships as delivered scope | Needs Adi's answer either way |
 | 4 | Decide whether Reactivation/Quote-Follow-up/Reviews ship now as priced systems or move to a named "Phase 2" | Real decision |
-| 5 | Add an Assumptions Schedule + re-scope trigger (can be one page, attached to the SOW) | 30–45 minutes, template exists in `LEGAL-AND-COMMERCIAL-DOC-SET.md` §3A.4 |
+| 5 | Add an Assumptions Schedule + re-scope trigger (can be one page, attached to the SOW) | 30–45 minutes, template exists in `Legal and Commercial Doc Set.md` §3A.4 |
 | 6 | Add a validity date to the Proposal | 1 line |
 | 7 | Confirm a Services Agreement is being drafted alongside this, or flag it as the next document | Scheduling, not drafting |
 | 8 | Em dashes, "Confidential" footer — batch into the design pass | Cheap, can wait |
